@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T05:51:52.890807+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-03-14T06:35:04.961929+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时35分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -42,11 +42,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时35分]"
         }
       ]
     }
