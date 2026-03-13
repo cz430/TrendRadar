@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T22:51:27.547750+08:00",
-  "total_titles_processed": 1880,
+  "generated_at": "2026-03-13T23:51:40.741217+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32762098",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时51分]"
         },
         {
           "title": "被OpenClaw之父质疑抄袭？腾讯回应：以本地镜像站运营，一直标注内容来源",
