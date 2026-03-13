@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T21:13:18.782435+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-03-13T22:51:27.547750+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "openclaw 小龙虾",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenClaw登录微信被刷走600块？不实",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 06时33分]"
+        },
+        {
+          "title": "国家网络安全通报中心发布OpenClaw安全风险预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32762098",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
         },
         {
           "title": "被OpenClaw之父质疑抄袭？腾讯回应：以本地镜像站运营，一直标注内容来源",
@@ -48,7 +59,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -122,7 +133,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -133,7 +144,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
