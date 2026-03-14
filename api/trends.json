@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:41:52.213519+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-03-14T16:43:41.809751+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 15时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 16时43分]"
         },
         {
           "title": "国家网安通报中心通报OpenClaw风险",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 16时43分]"
         },
         {
           "title": "国家网安通报中心通报OpenClaw风险",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 16时43分]"
         },
         {
           "title": "国家网络安全通报中心通报OpenClaw风险",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 15时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 16时43分]"
         },
         {
           "title": "国家网络安全通报中心通报OpenClaw风险",
