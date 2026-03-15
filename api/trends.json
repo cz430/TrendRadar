@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:41:52.796899+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-03-15T18:38:09.582083+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 18时38分]"
         },
         {
           "title": "阅文作家助手接入“小龙虾”",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 18时38分]"
         }
       ]
     },
