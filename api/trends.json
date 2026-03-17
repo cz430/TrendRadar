@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-17T17:03:34.304138+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-03-17T18:57:39.960821+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美芝股份：公司股票交易将在2025年年度报告披露后被深圳证券交易所实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260317184521881800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
         {
           "title": "美国芝加哥期权交易所（CBOE）向证券交易委员会（SEC）提出申请，计划于2026年12月启动美国股票24*5的交易模式。",
           "url": "https://wallstreetcn.com/livenews/3071115",
@@ -47,7 +58,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -86,7 +97,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -101,11 +112,12 @@
           "url": "https://www.zhihu.com/question/2016896539008726692",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 18时57分]"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -133,7 +145,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "马斯克：若告赢OpenAI，上千亿美元收益全部捐给慈善机构。",
+          "url": "https://wallstreetcn.com/livenews/3071571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
