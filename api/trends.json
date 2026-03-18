@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T13:02:46.368061+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-03-18T15:14:21.224493+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -151,11 +151,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 15时14分]"
         },
         {
           "title": "优刻得发布OpenClaw云上安全加固方案",
