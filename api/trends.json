@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T10:44:56.836884+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-03-18T13:02:46.368061+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -150,11 +150,12 @@
           "url": "https://www.cls.cn/detail/2316213",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 13时02分]"
         },
         {
           "title": "优刻得发布OpenClaw云上安全加固方案",
@@ -163,7 +164,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -208,7 +209,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
