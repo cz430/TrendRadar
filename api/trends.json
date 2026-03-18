@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:05:52.998207+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-03-18T19:51:37.566281+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -83,7 +83,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -246,8 +246,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时51分]"
         },
         {
           "title": "黄金多空对垒延续，三套估值方式均显示价格仍被低估",
