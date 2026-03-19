@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T16:53:27.908263+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-03-19T17:54:46.255835+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2318079",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "央行：坚定维护股票、债券、外汇等金融市场平稳运行",
@@ -28,6 +29,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "央行坚定维护股票等市场平稳运行",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E8%82%A1%E7%A5%A8%E7%AD%89%E5%B8%82%E5%9C%BA%E5%B9%B3%E7%A8%B3%E8%BF%90%E8%A1%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时54分]"
         },
         {
           "title": "央行：坚定维护股票、债券、外汇等金融市场平稳运行",
@@ -47,7 +60,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -61,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        },
-        {
-          "title": "央行坚定维护股票等市场平稳运行",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E8%82%A1%E7%A5%A8%E7%AD%89%E5%B8%82%E5%9C%BA%E5%B9%B3%E7%A8%B3%E8%BF%90%E8%A1%8C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股盘中）",
@@ -164,7 +166,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
