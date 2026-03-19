@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:51:16.581126+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-03-19T19:41:33.517581+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时41分]"
         },
         {
           "title": "*ST熊猫：股价涨幅异常，股票停牌核查。",
@@ -27,7 +27,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -62,7 +62,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -125,8 +125,19 @@
     },
     {
       "keyword_group": "openclaw 小龙虾",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待黄仁勋「OpenClaw 是 AI 时代的 Linux」的观点？其将如何加速行业的发展？",
+          "url": "https://www.zhihu.com/question/2017544894055407699",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
         {
           "title": "恒生科技指数盘中跌超2%，AI应用、OpenClaw、明星科网股跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260319133530421800",
