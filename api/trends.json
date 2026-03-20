@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T01:40:23.105288+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-03-21T02:59:35.998493+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时59分]"
         },
         {
           "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
@@ -78,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时59分]"
         }
       ]
     }
