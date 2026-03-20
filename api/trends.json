@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T21:13:28.955682+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-03-20T22:51:33.163576+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
@@ -75,7 +75,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -119,6 +119,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时37分 ~ 22时51分]"
+        },
+        {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
           "source": "澎湃新闻",
@@ -128,18 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 21时13分]"
         },
         {
           "title": "国内金饰价格继续下探 老庙黄金领跌",
@@ -211,7 +211,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         }
