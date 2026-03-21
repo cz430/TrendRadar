@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T15:38:14.228758+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-03-21T16:41:59.389445+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             4,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 15时38分]"
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -38,22 +39,24 @@
           "source": "微博",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 16时41分]"
         },
         {
           "title": "董事长去世 未成年女儿继承9亿股票",
           "url": "https://www.toutiao.com/trending/7619327121744461833/",
           "source": "今日头条",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股盘中）",
