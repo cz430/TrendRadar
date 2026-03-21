@@ -1,43 +1,11 @@
 {
-  "generated_at": "2026-03-21T10:31:36.118785+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-03-21T12:43:00.846201+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            16,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 10时31分]"
-        },
-        {
-          "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
-          "url": "https://flash.jin10.com/detail/20260321004049081800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -51,11 +19,55 @@
           "time_info": "[04时40分 ~ 07时36分]"
         },
         {
+          "title": "董事长去世 未成年女儿继承9亿股票",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E4%BA%8B%E9%95%BF%E5%8E%BB%E4%B8%96+%E6%9C%AA%E6%88%90%E5%B9%B4%E5%A5%B3%E5%84%BF%E7%BB%A7%E6%89%BF9%E4%BA%BF%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260321003203096800",
           "source": "金十数据",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
+          "url": "https://www.zhihu.com/question/2016876183153768141",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            16,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 12时43分]"
+        },
+        {
+          "title": "OpenAI：我们为美国和加拿大的大学生提供100美元的Codex额度。",
+          "url": "https://flash.jin10.com/detail/20260321004049081800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
