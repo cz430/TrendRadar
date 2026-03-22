@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-03-22T15:04:50.792139+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-03-22T16:43:00.169753+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
+          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时02分]"
+        },
+        {
+          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
+          "url": "https://flash.jin10.com/detail/20260322152315932800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -30,35 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
-          "url": "https://flash.jin10.com/detail/20260322112216406800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时02分]"
-        },
-        {
-          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         }
       ]
     },
@@ -93,6 +104,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时46分 ~ 15时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "明德生物：股票交易可能被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260322154616553800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     }
