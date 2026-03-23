@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T03:09:38.596554+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-03-24T04:44:28.848524+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -42,9 +42,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260324040614031800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时44分"
         }
       ]
     },
@@ -57,11 +74,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%8B%92%E7%BB%9D%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E8%A2%AB%E8%B5%B6%E4%B8%8B%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时44分]"
         }
       ]
     }
