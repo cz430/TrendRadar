@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-23T15:20:53.932279+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-03-23T17:05:53.337197+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "长源东谷：公司股票将于3月24日起停牌",
+          "url": "https://flash.jin10.com/detail/20260323170257288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
         {
           "title": "根据泰国债券市场协会的数据，海外投资者在上周五撤出12亿美元资金，为2022年3月以来最大规模撤资。他们还抛售了12亿美元的泰国股票，料将创下两年来最大规模抛售。",
           "url": "https://flash.jin10.com/detail/20260323123648083800",
@@ -25,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -91,6 +102,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时47分 ~ 15时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     },
