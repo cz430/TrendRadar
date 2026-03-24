@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-24T17:04:20.086334+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-03-24T18:58:13.961424+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "7连板华电辽能：股票严重异常波动 存在短期大幅下跌的风险",
+          "url": "https://flash.jin10.com/detail/20260324185231736800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260324040614031800",
@@ -115,7 +126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
