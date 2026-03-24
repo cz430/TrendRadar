@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T10:38:31.841676+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-03-24T13:00:07.568163+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Phillip Nova分析师：短期内黄金价格可能仍将波动不定",
+          "url": "https://flash.jin10.com/detail/20260324122530955800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时00分"
         }
       ]
     },
