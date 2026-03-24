@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T14:08:50.204961+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-03-24T15:58:45.091627+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -26,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -42,13 +42,24 @@
           "time_info": "07时40分"
         },
         {
+          "title": "瑞银下调印度及欧元区股票评级，因油价波动影响显著",
+          "url": "https://flash.jin10.com/detail/20260324153230344800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "218亿资金借道股票型ETF逆势入场，宽基成首选“避风港”",
           "url": "https://flash.jin10.com/detail/20260324133309901800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -118,6 +129,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openclaw 小龙虾",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网易有道龙虾获OpenClaw创始人点赞",
+          "url": "https://wallstreetcn.com/livenews/3075727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
