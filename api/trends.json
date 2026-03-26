@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T17:05:31.496619+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-03-26T18:59:46.097473+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时41分 ~ 17时05分]"
+          "appearance_count": 7,
+          "time_info": "[07时41分 ~ 18时59分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -26,11 +27,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 17时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时50分 ~ 18时59分]"
         },
         {
           "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
@@ -41,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 17时05分]"
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 18时59分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -186,11 +188,12 @@
             16,
             12,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时11分 ~ 17时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 18时59分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -213,6 +216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网约车 如祺 Robotaxi",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网约车司机车内挂牌诅咒投诉乘客",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%A6%E5%86%85%E6%8C%82%E7%89%8C%E8%AF%85%E5%92%92%E6%8A%95%E8%AF%89%E4%B9%98%E5%AE%A2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
