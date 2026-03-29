@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:36:24.493870+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-03-29T21:09:24.085836+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 21时09分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -27,11 +27,12 @@
             7,
             13,
             20,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时57分 ~ 19时36分]"
+          "appearance_count": 11,
+          "time_info": "[10时57分 ~ 21时09分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -98,9 +99,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 21时09分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -138,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 21时09分]"
         },
         {
           "title": "男子自导自演网约车纠纷辱骂乘客被罚",
@@ -149,8 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时13分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 21时09分]"
         },
         {
           "title": "摆拍“打网约车遭司机辱骂”者被罚",
@@ -160,8 +161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时50分 ~ 19时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时50分 ~ 21时09分]"
         }
       ]
     },
