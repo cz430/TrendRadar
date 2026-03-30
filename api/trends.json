@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-31T04:54:50.509324+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-03-31T05:51:05.096671+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260331040539391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "摩根士丹利： 将全球股票评级从超配下调至标配，并将美国国债和现金评级从标配上调至超配。石油供应中断的规模和持续时间存在不确定性，这意味着风险资产的走势已变得越来越不对称。",
+          "url": "https://flash.jin10.com/detail/20260331045023142800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -14,28 +42,12 @@
           "ranks": [
             17,
             22,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 04时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股票 长岭液压 605389",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040539391800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时51分]"
         }
       ]
     }
