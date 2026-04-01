@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T13:59:41.127389+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-04-01T15:49:05.072623+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -20,6 +20,18 @@
           "time_info": "[04时51分 ~ 05时47分]"
         },
         {
+          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
+          "url": "https://www.cls.cn/detail/2331423",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时49分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
@@ -32,16 +44,15 @@
           "time_info": "[11时22分 ~ 13时59分]"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
           "ranks": [
-            10,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时22分 ~ 13时59分]"
+          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
