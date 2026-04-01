@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-01T17:15:19.440520+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-01T19:05:03.973630+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 19时05分]"
+        },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
           "url": "https://flash.jin10.com/detail/20260401041908272800",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 15时49分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 17时15分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
@@ -91,58 +91,8 @@
       ]
     },
     {
-      "keyword_group": "openclaw 小龙虾",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-          "url": "https://flash.jin10.com/detail/20260401070445981800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
-          "url": "https://wallstreetcn.com/livenews/3080430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
-          "title": "QQ原生接入OpenClaw官方平台",
-          "url": "https://flash.jin10.com/detail/20260401164526261800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "小龙虾上市了 价格比去年还便宜",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%8A%E5%B8%82%E4%BA%86+%E4%BB%B7%E6%A0%BC%E6%AF%94%E5%8E%BB%E5%B9%B4%E8%BF%98%E4%BE%BF%E5%AE%9C",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "新兴市场股票指数在3月份累计下跌13%，创六年来最差单月表现。",
@@ -180,6 +130,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "甘肃能化：正在筹划以发行股份及支付现金的方式购买甘肃能源化工投资集团有限公司持有的甘肃能化金昌能源化工开发有限公司100%股权，并募集配套资金事项，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3080848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "金十图示：2026年03月31日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260401003322867800",
           "source": "金十数据",
@@ -189,6 +150,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "珠海中富：公司正在筹划向特定对象发行 A 股股票，该事项可能会导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3080833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "光华科技：中国证监会决定对公司董事、高级管理人员蔡雯女士因涉嫌内幕交易予以立案。本次立案调查系对蔡雯女士的个人调查，与公司的日常经营管理和业务活动无关，且不涉及本公司股票交易。",
+          "url": "https://wallstreetcn.com/livenews/3080832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openclaw 小龙虾",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
+          "url": "https://flash.jin10.com/detail/20260401070445981800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "小龙虾上市了 价格比去年还便宜",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%8A%E5%B8%82%E4%BA%86+%E4%BB%B7%E6%A0%BC%E6%AF%94%E5%8E%BB%E5%B9%B4%E8%BF%98%E4%BE%BF%E5%AE%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时05分]"
+        },
+        {
+          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
+          "url": "https://wallstreetcn.com/livenews/3080430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "QQ原生接入OpenClaw官方平台",
+          "url": "https://flash.jin10.com/detail/20260401164526261800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -203,7 +236,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -222,7 +255,7 @@
     },
     {
       "keyword_group": "网约车 如祺 Robotaxi",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "网约车司机超8小时长时间工作将结束",
@@ -236,6 +269,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时41分]"
+        },
+        {
+          "title": "6月1日起，网约车司机24小时内累计驾驶超8小时，将被认定为疲劳驾驶",
+          "url": "https://www.cls.cn/detail/2331941",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 19时05分]"
         }
       ]
     }
