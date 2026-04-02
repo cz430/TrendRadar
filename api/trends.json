@@ -1,161 +1,39 @@
 {
-  "generated_at": "2026-04-02T23:03:28.600941+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-04-03T01:10:55.212233+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股票 长岭液压 605389",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩国首尔综指下跌之际，散户投资者增持超过1万亿韩元的韩国首尔综指指数股票，外国投资者和韩国本土基金则在抛售。",
-          "url": "https://wallstreetcn.com/livenews/3081404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票指数创2022年11月份以来最大涨幅，货币指数走高。",
-          "url": "https://wallstreetcn.com/livenews/3081036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260402040551362800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "金十图示：2026年04月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260402003143069800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "中东股市收盘播报｜周三（4月1日），沙特证交所全股指数收涨0.23%，沙特阿美（ARAMCO.AB）收涨0.58%，在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨0.09%。 卡塔尔证交所指数收涨0.81%，科威特证交所超级市场价格回报指数收涨0.84%。 埃及证交所EGX 30指数收涨3.11%，埃及镑兑美元收涨1.71%，报53.6272埃及镑，3月31日曾跌至54.8317埃及镑创历史新低。 迪拜金融市场综合指数收涨2.03%，阿布扎比证券市场综合指数收涨1.35%。",
-          "url": "https://wallstreetcn.com/livenews/3081078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "汇丰分析师建议拥抱中国股票 应对伊朗冲突引发的市场冲击",
-          "url": "https://wallstreetcn.com/livenews/3081375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网约车 如祺 Robotaxi",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "警方通报女子被网约车司机骚扰",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%AA%9A%E6%89%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 17时07分]"
-        },
-        {
-          "title": "女子深夜搭网约车遭摸腿性骚扰",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "女子深夜搭网约车遭摸腿性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openclaw 小龙虾",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "小龙虾代打植物大战僵尸",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%A3%E6%89%93%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "腾讯版“小龙虾”WorkBuddy就登录异常致歉：将向所有受影响国内用户补偿1000 Credits",
-          "url": "https://flash.jin10.com/detail/20260402122808199800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3081032",
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260403003135168800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
         }
       ]
     }
