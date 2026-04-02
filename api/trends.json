@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T15:22:48.682959+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-04-02T17:07:14.821722+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -69,7 +69,46 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网约车 如祺 Robotaxi",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "警方通报女子被网约车司机骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%AA%9A%E6%89%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
+          "title": "女子深夜搭网约车遭摸腿性骚扰",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "女子深夜搭网约车遭摸腿性骚扰",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -100,34 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网约车 如祺 Robotaxi",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子深夜搭网约车遭摸腿性骚扰",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "女子深夜搭网约车遭摸腿性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%B7%B1%E5%A4%9C%E6%90%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E9%81%AD%E6%91%B8%E8%85%BF%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         }
       ]
     },
