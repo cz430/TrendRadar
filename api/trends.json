@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T06:40:57.454125+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-04-04T07:41:17.424334+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时40分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时41分]"
         },
         {
           "title": "洲际油气：股东海口东铎涉嫌在限制转让期内转让股票 收到行政处罚事先告知书",
@@ -60,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 06时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 07时41分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
