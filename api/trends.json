@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T15:52:19.907738+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-04-04T16:51:39.818847+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时51分]"
+        },
+        {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时51分]"
         },
         {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
@@ -37,18 +50,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
-          "url": "https://www.zhihu.com/question/2023715723785061711",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         }
