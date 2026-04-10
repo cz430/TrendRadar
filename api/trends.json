@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T04:47:38.820510+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-11T05:46:07.799343+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 05时46分]"
         },
         {
           "title": "多伦多股票指数创3月4日以来最高收盘点位。",
@@ -25,9 +25,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -36,9 +36,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时46分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -86,7 +86,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -124,11 +124,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 05时46分]"
         }
       ]
     }
