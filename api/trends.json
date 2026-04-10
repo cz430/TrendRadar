@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T00:02:11.465295+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T01:02:53.564610+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "上交所：拟将主板风险警示股票价格的涨跌幅限制比例由5%调整为10%",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260411003357698800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }
