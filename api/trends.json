@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-11T16:54:04.418925+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-04-11T17:50:44.251973+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 17时50分]"
+        },
+        {
+          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/2026136705757902456",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3086136",
@@ -32,18 +56,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时46分 ~ 15时09分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时08分 ~ 16时54分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
