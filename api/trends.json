@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T11:24:52.674974+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-04-12T13:58:34.197946+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 13时58分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -36,7 +37,7 @@
     },
     {
       "keyword_group": "网约车 如祺 Robotaxi",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "网约车司机车内卖现磨咖啡 滴滴回应",
@@ -53,6 +54,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时55分 ~ 11时24分]"
+        },
+        {
+          "title": "网约车司机车内卖现磨咖啡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%A6%E5%86%85%E5%8D%96%E7%8E%B0%E7%A3%A8%E5%92%96%E5%95%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
