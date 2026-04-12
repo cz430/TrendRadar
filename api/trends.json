@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T19:39:30.388840+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-04-12T21:14:10.551331+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时54分 ~ 19时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 21时14分]"
         },
         {
           "title": "网约车司机为抢充电桩杀人系谣言",
@@ -53,8 +53,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[18时46分 ~ 21时14分]"
         }
       ]
     },
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 19时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 21时14分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
