@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T06:41:42.064707+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-04-13T07:42:44.187760+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时42分]"
         },
         {
           "title": "网约车司机为抢充电桩杀人系谣言",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 07时42分]"
         },
         {
           "title": "乘客开门杀 网约车司机被判赔12万",
@@ -36,11 +36,12 @@
           "ranks": [
             27,
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 07时42分]"
         }
       ]
     },
@@ -73,11 +74,12 @@
           "ranks": [
             30,
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 07时42分]"
         }
       ]
     }
