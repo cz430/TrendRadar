@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T11:31:52.781696+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-04-13T14:22:03.316404+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,37 @@
       ]
     },
     {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米股票为何跌跌不休",
+          "url": "https://www.toutiao.com/trending/7627799526945852991/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 07时42分]"
+        },
+        {
+          "title": "上交所公开征求市场意见，拟将 ST 等主板风险股票价格涨跌幅限制由 5% 调整为 10%，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2025983468253848082",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "openclaw 小龙虾",
       "match_count": 1,
       "titles": [
@@ -54,11 +85,12 @@
           "url": "https://www.zhihu.com/question/2026454682885791949",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 14时22分]"
         }
       ]
     },
@@ -81,22 +113,19 @@
       ]
     },
     {
-      "keyword_group": "股票 长岭液压 605389",
+      "keyword_group": "通威股份 600438",
       "match_count": 1,
       "titles": [
         {
-          "title": "小米股票为何跌跌不休",
-          "url": "https://www.toutiao.com/trending/7627799526945852991/",
-          "source": "今日头条",
+          "title": "A股硅能源板块拉升，博迁新材、大全能源、通威股份涨超8%，弘元绿能、合盛硅业、江瀚新材、东岳硅材、国晟科技纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260413133350598800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            19,
-            18,
-            20
+            17
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时49分 ~ 07时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }
