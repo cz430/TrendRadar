@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:22:12.198891+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-04-13T21:58:09.291548+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米股票为何跌跌不休",
@@ -33,6 +33,17 @@
           "time_info": "[19时21分 ~ 19时22分]"
         },
         {
+          "title": "最新金融数据出炉：一季度企业债、股票融资占比提升，科技、数字等领域获支持力度加大",
+          "url": "https://www.cls.cn/detail/2342381",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
           "title": "上交所公开征求市场意见，拟将 ST 等主板风险股票价格涨跌幅限制由 5% 调整为 10%，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2025983468253848082",
           "source": "知乎",
@@ -44,15 +55,37 @@
           "time_info": "[14时21分 ~ 14时22分]"
         },
         {
+          "title": "金十图示：2026年04月13日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260413214601405800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "*ST万方：公司股票将被深交所终止上市交易，自2026年4月14日（星期二）开市起停牌。",
           "url": "https://wallstreetcn.com/livenews/3086906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "宁德时代据悉考虑发售不超50亿美元股票",
+          "url": "https://wallstreetcn.com/livenews/3086974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
@@ -100,7 +133,7 @@
     },
     {
       "keyword_group": "openclaw 小龙虾",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Hermes 能否替代 openclaw？",
@@ -113,12 +146,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 14时22分]"
+        },
+        {
+          "title": "据报道，微软正在开发新的Copilot功能，新功能受OpenClaw启发。",
+          "url": "https://wallstreetcn.com/livenews/3086988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -131,6 +175,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 06时41分]"
+        },
+        {
+          "title": "OpenAI在备忘录中称赞与亚马逊的联盟，称微软“限制了我们接触客户的能力”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3086976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     },
