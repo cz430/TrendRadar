@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T16:48:21.755133+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-04-17T18:18:32.205977+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,45 @@
       ]
     },
     {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "明德生物：2025年业绩预亏 股票或被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260417164006145800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "*ST花王：公司股票将于4月21日撤销退市风险警示及其他风险警示",
+          "url": "https://flash.jin10.com/detail/20260417173829481800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "港交所建议调整股票现货市场的多项流程，以配合过渡至T+1结算周期",
+          "url": "https://wallstreetcn.com/livenews/3089940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "网约车 如祺 Robotaxi",
       "match_count": 2,
       "titles": [
@@ -140,23 +179,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股票 长岭液压 605389",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "明德生物：2025年业绩预亏 股票或被实施退市风险警示",
-          "url": "https://flash.jin10.com/detail/20260417164006145800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时48分"
         }
       ]
     }
