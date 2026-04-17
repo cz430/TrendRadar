@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T14:08:20.335139+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-04-17T16:48:21.755133+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 14时08分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 16时48分]"
         },
         {
           "title": "OpenAI发布Codex更新",
@@ -139,6 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 长岭液压 605389",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "明德生物：2025年业绩预亏 股票或被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260417164006145800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
