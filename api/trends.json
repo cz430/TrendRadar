@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T06:53:15.509675+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-04-21T07:52:15.396463+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 06时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时52分]"
         },
         {
           "title": "金十图示：2026年04月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -64,7 +64,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
