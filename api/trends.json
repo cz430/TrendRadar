@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:55:01.707440+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-04-21T06:53:15.509675+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 06时53分]"
         },
         {
           "title": "金十图示：2026年04月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -50,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
