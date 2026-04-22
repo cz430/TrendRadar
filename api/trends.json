@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T14:05:43.891545+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-04-22T16:52:16.060654+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -66,7 +66,7 @@
     },
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "亚马逊CEO Jassy对公司股票减持791万美元。",
@@ -79,6 +79,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时51分 ~ 06时44分]"
+        },
+        {
+          "title": "柳钢股份：正在筹划以发行股份及支付现金的方式购买柳钢集团持有的广西钢铁集团有限公司的部分少数股权，并募集配套资金，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3092434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "柳钢股份：筹划收购广西钢铁部分少数股权 股票4月23日停牌",
+          "url": "https://flash.jin10.com/detail/20260422162302360800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "奥多比宣布250亿美元股票回购计划，此前AI颠覆担忧拖累股价",
@@ -121,7 +143,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         }
