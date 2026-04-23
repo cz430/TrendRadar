@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T20:03:03.217489+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-04-23T23:18:18.769513+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "莫高股份：股票将于4月27日被实施退市风险警示，股票停牌",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "皇庭国际：股票自4月27日起被实行“退市风险警示”和“其他风险警示”处理",
+          "url": "https://flash.jin10.com/detail/20260423222519560800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
