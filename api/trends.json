@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-23T18:27:03.164661+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-23T20:03:03.217489+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 长岭液压 605389",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "莫高股份：股票将于4月27日被实施退市风险警示，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260423200032747800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
         {
           "title": "汇丰将印度股票评级下调至“减持”",
           "url": "https://flash.jin10.com/detail/20260423111851420800",
@@ -25,7 +36,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
