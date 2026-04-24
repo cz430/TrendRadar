@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T14:13:23.738788+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-04-24T17:04:47.331223+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 17时04分]"
         },
         {
           "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
@@ -109,7 +110,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -131,7 +132,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -153,7 +154,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
@@ -187,7 +188,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
