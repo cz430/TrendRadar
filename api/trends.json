@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T16:19:56.288055+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-04-26T17:59:36.453581+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -40,11 +40,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -74,6 +75,43 @@
           "time_info": "[00时53分 ~ 11时34分]"
         },
         {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 17时59分]"
+        },
+        {
+          "title": "DeepSeek V4发布意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 17时59分]"
+        },
+        {
           "title": "DeepSeek V4评测解析",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E8%AF%84%E6%B5%8B%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -85,42 +123,30 @@
           "time_info": "11时34分"
         },
         {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            12,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时19分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 16时19分]"
-        },
-        {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
           "url": "https://wallstreetcn.com/livenews/3094438",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             10,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 17时59分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时59分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -130,8 +156,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 17时59分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -145,17 +171,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
           "url": "https://wallstreetcn.com/articles/3770884",
           "source": "华尔街见闻",
@@ -165,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "DeepSeek致谢近300研发者10人已离职",
@@ -181,7 +207,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -202,11 +228,12 @@
           "ranks": [
             14,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 17时59分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -244,6 +271,18 @@
           "time_info": "[00时53分 ~ 11时34分]"
         },
         {
+          "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
+          "url": "https://flash.jin10.com/detail/20260426150306413800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时59分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -256,15 +295,15 @@
           "time_info": "[14时12分 ~ 16时19分]"
         },
         {
-          "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
-          "url": "https://flash.jin10.com/detail/20260426150306413800",
-          "source": "金十数据",
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
           "ranks": [
-            11
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "17时59分"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -280,49 +319,8 @@
       ]
     },
     {
-      "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
-          "url": "https://www.zhihu.com/question/2010916446084015187",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时45分]"
-        },
-        {
-          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
-          "url": "https://www.zhihu.com/question/2030972645903004124",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 16时19分]"
-        },
-        {
-          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "量子场论有什么用",
@@ -351,6 +349,59 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 06时44分]"
+        },
+        {
+          "title": "中信尼雅：股票可能被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260426155956767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
+          "url": "https://www.zhihu.com/question/2010916446084015187",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时45分]"
+        },
+        {
+          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
+          "url": "https://www.zhihu.com/question/2030972645903004124",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 17时59分]"
+        },
+        {
+          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时59分]"
         }
       ]
     },
@@ -364,11 +415,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 17时59分]"
         }
       ]
     }
