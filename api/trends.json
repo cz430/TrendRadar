@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-27T05:46:40.294830+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-04-27T06:47:59.479409+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
       "match_count": 11,
       "titles": [
-        {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
-        },
         {
           "title": "一条视频看懂DeepSeek V4",
           "url": "https://www.douyin.com/hot/2479851",
@@ -27,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -38,20 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://wallstreetcn.com/livenews/3094547",
-          "source": "华尔街见闻-快讯",
+          "title": "龙虾官宣接入DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            4
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -64,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -76,8 +65,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://wallstreetcn.com/livenews/3094547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -88,11 +90,12 @@
             9,
             8,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -103,8 +106,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "Claude降智了吗",
@@ -117,8 +120,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
@@ -138,11 +141,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时48分 ~ 06时47分]"
         }
       ]
     },
@@ -158,22 +162,24 @@
             13,
             7,
             10,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
           "url": "https://wallstreetcn.com/articles/3770919",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -185,8 +191,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -196,8 +202,22 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            9,
+            20,
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -212,20 +232,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时46分 ~ 05时46分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            9,
-            20,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
         }
       ]
     },
@@ -238,11 +244,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "造谣“雷军被堵车内维权”，小米：李某华被行拘10日",
@@ -250,11 +257,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：收到了检察官Pirro周五与美联储相关的声明。 相信美联储在大楼翻修工程中不存在任何不当行为。 司法部明确地告诉我，对美联储的刑事调查结束了。 我准备推动凯文·沃什的美联储主席提名人资格确认程序。 （关于沃什的提名资格确认程序重回正轨）的确如此。 预计沃什将在担任美联储主席保持独立性。 总统特朗普在美联储问题上提出要求，这并不让我感到眼红。（NBC）",
@@ -262,11 +270,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时47分]"
         },
         {
           "title": "马斯克：如果他们愿意为暗杀而死，想象一下如果他们获得政治权力会做什么。",
