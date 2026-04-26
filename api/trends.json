@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T18:57:19.381420+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-04-26T19:46:26.568481+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
@@ -44,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 18时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -85,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -97,8 +97,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 19时46分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -109,24 +109,12 @@
             10,
             13,
             18,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时57分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 19时46分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -137,8 +125,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时46分]"
+        },
+        {
+          "title": "DeepSeekV4脱离英伟达了吗",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 19时46分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek V4评测解析",
@@ -152,27 +166,16 @@
           "time_info": "11时34分"
         },
         {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时57分]"
-        },
-        {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 19时46分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -184,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "DeepSeek多位核心骨干离职去大厂",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%9A%E4%BD%8D%E6%A0%B8%E5%BF%83%E9%AA%A8%E5%B9%B2%E7%A6%BB%E8%81%8C%E5%8E%BB%E5%A4%A7%E5%8E%82%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "谷歌云CEO：自研TPU构筑竞争护城河，第八代芯片即将发布，外部需求已超供给上限",
@@ -211,7 +225,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -237,8 +251,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 18时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 19时46分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -276,6 +290,18 @@
           "time_info": "[00时53分 ~ 11时34分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 19时46分]"
+        },
+        {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
@@ -300,16 +326,15 @@
           "time_info": "[14时12分 ~ 16时19分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
+          "title": "从英伟达市值看AI革命的激进超越",
+          "url": "https://www.toutiao.com/trending/7633001660754693695/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            21
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
@@ -393,11 +418,12 @@
             13,
             17,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 19时46分]"
         },
         {
           "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
@@ -405,11 +431,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时46分]"
         }
       ]
     },
@@ -425,11 +452,12 @@
             4,
             7,
             12,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时12分 ~ 18时57分]"
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 19时46分]"
         }
       ]
     }
