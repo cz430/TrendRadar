@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T17:24:56.578941+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-04-27T19:50:08.839688+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -27,11 +27,12 @@
             2,
             4,
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 17时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 19时50分]"
         },
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -70,6 +71,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时49分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 19时50分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -113,27 +137,15 @@
           "time_info": "[00时53分 ~ 07时49分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时38分 ~ 17时24分]"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -166,17 +178,6 @@
           "time_info": "[04时48分 ~ 07时49分]"
         },
         {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
           "url": "https://wallstreetcn.com/livenews/3094754",
           "source": "华尔街见闻-快讯",
@@ -198,6 +199,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 05时46分]"
+        },
+        {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
+        },
+        {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek调整API计费",
@@ -244,17 +267,6 @@
           "time_info": "14时33分"
         },
         {
-          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
-          "url": "https://www.zhihu.com/question/2031824748590494923",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
           "url": "https://www.cls.cn/detail/2356166",
           "source": "财联社热门",
@@ -272,7 +284,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -283,7 +295,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         }
@@ -291,7 +303,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -341,6 +353,18 @@
           "time_info": "[00时53分 ~ 07时49分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 19时50分]"
+        },
+        {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -350,18 +374,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 07时49分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 17时24分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -383,18 +395,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
-        },
-        {
-          "title": "歌手 AI海报",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -408,6 +409,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
         },
         {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
@@ -440,11 +453,56 @@
           "url": "https://wallstreetcn.com/articles/3770953",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
+        },
+        {
+          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
+          "title": "小红书首次公布AI治理主张：可借助AI放大创意，对AI不良行为零容忍",
+          "url": "https://wallstreetcn.com/livenews/3094978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "19时50分"
         },
         {
           "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
@@ -456,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        },
-        {
-          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "AI 筛选简历正在成为企业标配，这会带来求职不公吗？「AI 友好型」简历应该怎么写？",
@@ -486,7 +533,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -514,7 +561,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -523,22 +570,24 @@
           "url": "https://wallstreetcn.com/articles/3770943",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
         },
         {
           "title": "【每日收评】科创50指数高开高走涨3.76%，半导体芯片链全线爆发，算力硬件股回暖",
           "url": "https://www.cls.cn/detail/2356755",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时50分]"
         },
         {
           "title": "半导体芯片赛道持续升温，国产算力有望开启成长新周期",
@@ -547,7 +596,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
