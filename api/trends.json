@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T14:35:06.013065+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-04-28T17:28:16.601670+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "国产开源大模型下载量破100亿次",
@@ -117,6 +117,28 @@
           "time_info": "[00时46分 ~ 02时08分]"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
+        },
+        {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
@@ -202,7 +224,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -213,7 +235,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -224,7 +246,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -257,7 +279,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -265,7 +287,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -275,11 +297,12 @@
             2,
             4,
             10,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 17时28分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -307,6 +330,30 @@
           "time_info": "[11时42分 ~ 14时35分]"
         },
         {
+          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
+          "url": "https://www.cls.cn/detail/2357658",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时28分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时28分]"
+        },
+        {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
           "url": "https://wallstreetcn.com/articles/3770953",
           "source": "华尔街见闻",
@@ -318,28 +365,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 11时43分]"
-        },
-        {
-          "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
-          "url": "https://www.cls.cn/detail/2357658",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "被AI骗去毒蛇窝徒步",
@@ -426,6 +451,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 02时08分]"
+        },
+        {
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 17时28分]"
         },
         {
           "title": "国家发改委「禁止外资收购 Manus 项目，要求撤销交易」，此事对中国 AI 企业出海有何警示意义？",
@@ -519,8 +555,19 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 17时28分]"
+        },
         {
           "title": "科创50大涨超3%，芯片半导体集体拉升，PCB概念爆发，立讯精密触及涨停，恒指午后转跌，中芯国际涨6%",
           "url": "https://wallstreetcn.com/articles/3770943",
@@ -533,17 +580,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 14时35分]"
-        },
-        {
-          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时35分]"
         },
         {
           "title": "我国脑机接口加速接入现实",
@@ -566,6 +602,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 17时28分]"
         },
         {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
@@ -603,25 +651,13 @@
           "time_info": "[00时46分 ~ 04时13分]"
         },
         {
-          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 14时35分]"
-        },
-        {
           "title": "巴克莱第一季度固定收益、外汇及大宗商品收入17.2亿英镑，预估17.6亿英镑。 第一季度股票业务收入11.2亿英镑，预估10.4亿英镑。 第一季度投行业务手续费收入7.54亿英镑，预估6.824亿英镑。 第一季度利润总额81.6亿英镑，预估81.1亿英镑。 第一季度净利息收入37.4亿英镑，预估38.3亿英镑。 第一季度税前利润28.1亿英镑，预估28.5亿英镑。",
           "url": "https://wallstreetcn.com/livenews/3095483",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -637,15 +673,37 @@
           "time_info": "00时46分"
         },
         {
+          "title": "湘邮科技：公司股票自4月29日起复牌并被实施退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260428165941408800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "A股绿电概念午后再度活跃，华银电力封涨停，九洲集团、中国西电、豫能控股等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3095455",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "国电电力：一季度归母净利润13.98亿元，同比下降22.79%",
+          "url": "https://wallstreetcn.com/livenews/3095582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "“杭州六小龙”掌门人将为浙江全省干部上课，开讲脑机接口",
@@ -654,7 +712,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
