@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T19:13:22.757137+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-05-01T21:40:50.295556+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[07时56分 ~ 21时40分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时56分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[07时56分 ~ 21时40分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -39,11 +40,12 @@
             4,
             7,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 21时40分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -83,6 +85,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 12时02分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时40分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -129,18 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时13分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -384,7 +387,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -407,11 +410,12 @@
             20,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 21时40分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -446,11 +450,12 @@
           "ranks": [
             2,
             20,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 21时40分]"
         },
         {
           "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
@@ -578,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
@@ -741,7 +757,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
@@ -749,7 +765,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克庭审交叉询问环节多次失控",
@@ -764,6 +780,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时57分]"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
@@ -810,22 +837,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时02分 ~ 19时13分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 21时40分]"
         },
         {
           "title": "7平方米巨锅现蒸小龙虾免费吃",
           "url": "https://www.baidu.com/s?wd=7%E5%B9%B3%E6%96%B9%E7%B1%B3%E5%B7%A8%E9%94%85%E7%8E%B0%E8%92%B8%E5%B0%8F%E9%BE%99%E8%99%BE%E5%85%8D%E8%B4%B9%E5%90%83",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 21时40分]"
         }
       ]
     }
