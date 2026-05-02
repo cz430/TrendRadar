@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T05:51:36.476201+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-05-03T06:52:30.835573+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -48,11 +48,12 @@
             1,
             2,
             6,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -62,11 +63,12 @@
             2,
             3,
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -76,11 +78,12 @@
             5,
             6,
             11,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
@@ -89,11 +92,12 @@
           "ranks": [
             19,
             18,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -102,11 +106,12 @@
           "ranks": [
             22,
             12,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 06时52分]"
         },
         {
           "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
@@ -180,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -191,11 +196,12 @@
             10,
             14,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -205,8 +211,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -214,11 +220,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时52分]"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -228,11 +235,12 @@
             7,
             8,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时52分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -252,11 +260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时51分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 06时52分]"
         },
         {
           "title": "据The Information：Anthropic正在与英国初创公司Fractile就购买人工智能推理芯片进行磋商。",
@@ -283,11 +292,12 @@
             9,
             15,
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
@@ -318,8 +328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时52分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
@@ -331,8 +341,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 05时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 06时52分]"
         }
       ]
     }
