@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T11:41:41.253286+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-05-06T14:36:44.184674+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -82,6 +82,28 @@
           "time_info": "[01时02分 ~ 07时55分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中方呼吁防止AI成为少数富国的游戏",
+          "url": "https://wallstreetcn.com/livenews/3099151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3771556",
           "source": "华尔街见闻",
@@ -104,6 +126,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时05分 ~ 07时55分]"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时36分]"
         },
         {
           "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
@@ -139,6 +173,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "英飞凌因AI需求推动增长前景，上调2026年展望",
+          "url": "https://wallstreetcn.com/livenews/3099146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "Cerence AI：向美国国际贸易委员会对亚马逊提起诉讼。",
           "url": "https://flash.jin10.com/detail/20260506052300378800",
           "source": "金十数据",
@@ -148,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "澳大利亚4月AIG建筑业表现指数 -19.3，前值-31.4。",
@@ -205,17 +261,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
           "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3098844",
           "source": "华尔街见闻-快讯",
@@ -255,7 +300,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
@@ -265,6 +310,22 @@
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
       "match_count": 16,
       "titles": [
+        {
+          "title": "从0开始了解Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时36分]"
+        },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
           "url": "https://wallstreetcn.com/articles/3771572",
@@ -280,21 +341,6 @@
           "time_info": "[01时02分 ~ 11时41分]"
         },
         {
-          "title": "从0开始了解Claude Code",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 11时41分]"
-        },
-        {
           "title": "UP主优化DeepSeek V4",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
@@ -303,11 +349,47 @@
             15,
             11,
             19,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 11时41分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 14时36分]"
+        },
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时36分]"
+        },
+        {
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时36分]"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时36分]"
         },
         {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
@@ -352,17 +434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         },
         {
           "title": "市场消息：黑石集团与KKR正与Alphabet(GOOG.O)进行谈判，以便让他们所拥有的公司能够接入谷歌的人工智能模型。",
@@ -429,34 +500,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "Anthropic为何成了美国安全威胁",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时41分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
@@ -479,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 11时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 14时36分]"
         },
         {
           "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
@@ -500,7 +549,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -521,11 +570,34 @@
           "url": "https://wallstreetcn.com/articles/3771601",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时36分]"
+        },
+        {
+          "title": "高盛：预计美国数据中心容量将在2025年底至2027年底期间增长超过一倍，2027年底将达到95吉瓦。 预计美国数据中心的电力需求将从2025年的31吉瓦增加到2026年的41吉瓦、2027年的66吉瓦。",
+          "url": "https://wallstreetcn.com/livenews/3099147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "科创50疯涨超8%，芯片半导体集体爆发、海光信息、寒武纪创新高，恒科指涨逾1%，华虹大涨12%",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时36分"
         },
         {
           "title": "今年以来A股117只股票实现股价翻倍",
@@ -534,7 +606,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -556,7 +628,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         },
@@ -578,7 +650,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
         }
@@ -648,8 +720,19 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "雷军官宣新一代SU7首销期锁单超8万，四天大增上万订单",
+          "url": "https://wallstreetcn.com/livenews/3099140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
         {
           "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
           "url": "https://wallstreetcn.com/livenews/3098877",
