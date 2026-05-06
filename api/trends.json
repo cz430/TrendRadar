@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:53:54.783326+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-05-06T22:29:33.478053+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 07时55分]"
+        },
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 22时29分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -57,16 +69,17 @@
           "time_info": "[01时02分 ~ 11时41分]"
         },
         {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            5
+            12,
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 22时29分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -92,18 +105,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 07时55分]"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 19时53分]"
         },
         {
           "title": "中方呼吁防止AI成为少数富国的游戏",
@@ -141,6 +142,18 @@
           "time_info": "[06时05分 ~ 07时55分]"
         },
         {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时29分]"
+        },
+        {
           "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
           "source": "澎湃新闻",
@@ -163,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "墨西哥政府：已同意将AIFA机场纳入2015年航空运输协议。",
@@ -286,6 +288,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "孔雪儿的穿搭AI给到夯",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E7%9A%84%E7%A9%BF%E6%90%ADAI%E7%BB%99%E5%88%B0%E5%A4%AF%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "AMD在AI需求激增后上调了盈利预期",
           "url": "https://flash.jin10.com/detail/20260506050705680800",
           "source": "金十数据",
@@ -322,7 +335,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "从0开始了解Claude Code",
@@ -335,11 +348,12 @@
             9,
             12,
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 22时29分]"
         },
         {
           "title": "UP主优化DeepSeek V4",
@@ -353,11 +367,12 @@
             28,
             20,
             23,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 22时29分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
@@ -471,7 +486,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -496,6 +511,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI：我们已与 AMD、博通、英特尔、微软及英伟达达成合作，共同发布多路径可靠连接（MRC）。",
+          "url": "https://flash.jin10.com/detail/20260506220121812800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
+          "url": "https://www.zhihu.com/question/2035283954274493764",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
@@ -534,8 +571,20 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 22时29分]"
+        },
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
           "url": "https://wallstreetcn.com/articles/3771519",
@@ -547,18 +596,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时05分]"
-        },
-        {
-          "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 19时53分]"
         },
         {
           "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
@@ -588,11 +625,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 22时29分]"
         },
         {
           "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
@@ -603,8 +641,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时29分]"
         },
         {
           "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
@@ -658,9 +696,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "全球芯片牛股涨疯了",
+          "url": "https://www.toutiao.com/trending/7635519275658444836/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "AMD(AMD.O)：Meta芯片的出货预计将于下半年如期启动。",
@@ -680,7 +729,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -694,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
+        },
+        {
+          "title": "全球芯片巨头集体暴涨背后",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "由于数据中心电力需求激增，美国电力公司AEP将资本计划提高至780亿美元",
@@ -783,8 +843,19 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何理解雷军说不建议有司机的大老板买小米，这是反向宣传还是真诚建议？",
+          "url": "https://www.zhihu.com/question/2028883532005525054",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
         {
           "title": "雷军官宣新一代SU7首销期锁单超8万，四天大增上万订单",
           "url": "https://wallstreetcn.com/livenews/3099140",
