@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T17:29:52.290213+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-06T19:53:54.783326+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -57,6 +57,18 @@
           "time_info": "[01时02分 ~ 11时41分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 19时53分]"
+        },
+        {
           "title": "从猫狗到水果 AI短剧还能火多久",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
           "source": "百度热搜",
@@ -82,15 +94,16 @@
           "time_info": "[01时02分 ~ 07时55分]"
         },
         {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
           "ranks": [
-            3
+            12,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 19时53分]"
         },
         {
           "title": "中方呼吁防止AI成为少数富国的游戏",
@@ -116,18 +129,6 @@
           "time_info": "[01时02分 ~ 04时13分]"
         },
         {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时29分]"
-        },
-        {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
           "url": "https://wallstreetcn.com/livenews/3098957",
           "source": "华尔街见闻-快讯",
@@ -149,8 +150,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 19时53分]"
         },
         {
           "title": "Cerence AI：国际贸易委员会诉状请求发布有限排除令，禁止包括音箱、显示器、电视、平板电脑和流媒体设备在内的某些智能设备进口至美国。",
@@ -162,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "墨西哥政府：已同意将AIFA机场纳入2015年航空运输协议。",
@@ -310,7 +322,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "从0开始了解Claude Code",
@@ -340,11 +352,12 @@
             19,
             28,
             20,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 19时53分]"
         },
         {
           "title": "ClaudeCode之父：“全员编程”时代，企业真正领先在于“组织流程的代差”",
@@ -452,6 +465,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/livenews/3099348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
           "url": "https://flash.jin10.com/detail/20260506014918064800",
           "source": "金十数据",
@@ -510,7 +534,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
@@ -533,8 +557,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 19时53分]"
         },
         {
           "title": "分析师电话会：AMD预计公司第二季度CPU收入增长超过70%。预计到2030年，CPU市场年增长超过35%。由于内存和零部件成本上涨，公司预计下半年PC出货量将有所下降。数据中心现已成为推动营收和利润增长的主要动力。公司正与供应链合作伙伴“紧密合作”，以增加晶圆和后端生产能力。Meta芯片的出货预计将于下半年如期启动。",
@@ -567,8 +591,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 17时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 19时53分]"
+        },
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 19时53分]"
         },
         {
           "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
@@ -581,17 +617,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 11时41分]"
-        },
-        {
-          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，算力、存储芯片集体爆发，寒武纪、海光信息创新高",
-          "url": "https://wallstreetcn.com/articles/3771617",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "高盛：预计美国数据中心容量将在2025年底至2027年底期间增长超过一倍，2027年底将达到95吉瓦。 预计美国数据中心的电力需求将从2025年的31吉瓦增加到2026年的41吉瓦、2027年的66吉瓦。",
@@ -627,6 +652,17 @@
           "time_info": "11时41分"
         },
         {
+          "title": "东方证券：发行股份及支付现金购买上海证券100%股权，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3099352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AMD(AMD.O)：Meta芯片的出货预计将于下半年如期启动。",
           "url": "https://flash.jin10.com/detail/20260506051442353800",
           "source": "金十数据",
@@ -636,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "科林电气：本次股票交易异常波动期间，陈贺先生于2026年4月29日以集中竞价方式减持公司40000股股票，于2026年5月6日以集中竞价方式减持公司45500股股票；张成锁先生于2026年4月30日以集中竞价方式减持公司11万股股票，于2026年5月6日以集中竞价方式减持公司46万股股票。",
+          "url": "https://wallstreetcn.com/livenews/3099342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "创业板指涨幅扩大至3%，沪指涨0.91%，深成指涨2.17%，存储芯片、算力硬件、算力租赁等方向涨幅居前，沪深京三市上涨个股超3800只。",
