@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:19:44.176704+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-05-08T06:07:03.574954+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 06时07分]"
         },
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 06时07分]"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
@@ -71,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -138,6 +139,18 @@
           "time_info": "[02时50分 ~ 04时19分]"
         },
         {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 06时07分]"
+        },
+        {
           "title": "市场消息：AirPods的摄像头将为Siri提供视觉数据。",
           "url": "https://flash.jin10.com/detail/20260508022727920800",
           "source": "金十数据",
@@ -158,23 +171,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -183,11 +185,12 @@
           "ranks": [
             12,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 06时07分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -196,7 +199,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -207,7 +210,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -217,11 +220,23 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 06时07分]"
+        },
+        {
+          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260508044535643800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
         }
       ]
     }
