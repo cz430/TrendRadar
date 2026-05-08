@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T02:15:08.761805+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-09T04:10:15.405382+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -15,19 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
         },
         {
-          "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
-          "url": "https://wallstreetcn.com/livenews/3100864",
+          "title": "报道：AI芯片制造商Cerebras将上调IPO价格区间，因需求太踊跃",
+          "url": "https://wallstreetcn.com/livenews/3100890",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "04时10分"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -37,19 +37,65 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
+        },
+        {
+          "title": "AI算力的下一个瓶颈：涨价的CPU、抢不到的货",
+          "url": "https://wallstreetcn.com/livenews/3100864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 04时10分]"
         },
         {
           "title": "GAI新歌星梦MV",
           "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 04时10分]"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时14分 ~ 02时15分]"
+          "time_info": "[04时09分 ~ 04时10分]"
+        },
+        {
+          "title": "美国拟发布AI安全令，不含强制性模型测试",
+          "url": "https://wallstreetcn.com/livenews/3100885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "美国拟发布AI安全行政令，但将不包含强制性模型测试",
+          "url": "https://flash.jin10.com/detail/20260509033607893800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
@@ -66,7 +112,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "我国首台双核原子量子计算机研制成功",
@@ -77,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
         },
         {
           "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
@@ -89,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
         },
         {
           "title": "股票到底是什么",
@@ -100,8 +146,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
         },
         {
           "title": "据华尔街日报，苹果与英特尔达成初步的芯片制造协议。 英特尔涨幅扩大至18.9%，盘中市值突破6500亿美元。",
@@ -110,9 +156,98 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "市场消息：人工智能芯片制造商Cerebras据称计划在下周一提高首次公开募股的定价，预计首次公开募股定价区间为每股125至135美元。",
+          "url": "https://flash.jin10.com/detail/20260509030054706800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
+          "url": "https://flash.jin10.com/detail/20260509015729389800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
+          "url": "https://wallstreetcn.com/livenews/3100869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
+          "url": "https://flash.jin10.com/detail/20260509030041580800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "赵心童入选世界斯诺克名人堂",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%85%A5%E9%80%89%E4%B8%96%E7%95%8C%E6%96%AF%E8%AF%BA%E5%85%8B%E5%90%8D%E4%BA%BA%E5%A0%82",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 04时10分]"
+        },
+        {
+          "title": "消息人士称，可能接替马卡里出任下一任美国食品药品监督管理局（FDA）局长的提名人选包括前局长斯蒂芬·哈恩和前代理局长布雷特·吉罗尔。",
+          "url": "https://flash.jin10.com/detail/20260509035914980800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         }
       ]
     },
@@ -129,25 +264,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
-          "url": "https://flash.jin10.com/detail/20260509015729389800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时10分]"
         }
       ]
     }
