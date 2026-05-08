@@ -1,659 +1,61 @@
 {
-  "generated_at": "2026-05-08T22:57:29.663251+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-05-09T00:21:25.557176+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时50分 ~ 18时43分]"
-        },
-        {
-          "title": "“全球大模型第一股”智谱3.6亿在京买楼背后：电商掀起买地潮 下一波扫楼的是谁？",
-          "url": "https://www.cls.cn/detail/2365364",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 11时48分]"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
-          "url": "https://flash.jin10.com/detail/20260508023402510800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "商汤推出新一代轻量化多模态智能体模型 Token消耗下降60%",
-          "url": "https://flash.jin10.com/detail/20260508111703042800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "三部门：引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
-          "url": "https://flash.jin10.com/detail/20260508181508907800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3100153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 16时32分]"
-        },
-        {
-          "title": "移动云总经理孙少陵：构建移动模型服务平台MoMA 全面释放Token价值",
-          "url": "https://flash.jin10.com/detail/20260508111436596800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "剑指“成本焦虑”：商汤发布SenseNova Token Plan，首月高频限免",
-          "url": "https://wallstreetcn.com/livenews/3100376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
-          "url": "https://wallstreetcn.com/articles/3771763",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "DeepSeek网页及API服务出现异常，官方称正在实施修复",
-          "url": "https://wallstreetcn.com/livenews/3100615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
-          "url": "https://wallstreetcn.com/articles/3771688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "OpenAI推出新模型，以供网络安全团队使用",
-          "url": "https://flash.jin10.com/detail/20260508065544953800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "据Axios：五角大楼技术主管称，Anthropic问题的解决遥遥无期。",
-          "url": "https://flash.jin10.com/detail/20260508035328992800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据The Information：OpenAI与博通(AVGO.O)的AI芯片交易遭遇180亿美元融资障碍。",
-          "url": "https://flash.jin10.com/detail/20260508021432233800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "Anthropic 与 SpaceX 达成算力与太空开发合作，AI 巨头开始抱团，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2035645446962549472",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "DeepSeek估值450亿美元",
-          "url": "https://www.toutiao.com/trending/7637337504823119387/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "OpenAI发布三款实时音频模型",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E4%B8%89%E6%AC%BE%E5%AE%9E%E6%97%B6%E9%9F%B3%E9%A2%91%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
-          "url": "https://wallstreetcn.com/livenews/3100136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "欧盟委员会发言人：我们将给予谷歌更多时间，以解决与数字市场法案相关的委员会关切。",
-          "url": "https://flash.jin10.com/detail/20260508191200528800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "四川修订省促进人工智能产业链发展若干政策，扩容“算力券”、启动“词元（Token）券”",
-          "url": "https://wallstreetcn.com/livenews/3100515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "月之暗面Kimi完成新一轮约20亿美元融资",
-          "url": "https://flash.jin10.com/detail/20260508105308605800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "DeepSeek-TUI是如何火起来的",
-          "url": "https://www.toutiao.com/trending/7637338304165187078/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "DeepSeek网页及API相关服务已恢复",
-          "url": "https://wallstreetcn.com/livenews/3100642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 14时03分]"
-        },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            15,
-            10,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 22时57分]"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时19分 ~ 14时03分]"
-        },
-        {
-          "title": "私募和AI合体意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "苹果摄像头版AirPods进入高级测试阶段",
-          "url": "https://flash.jin10.com/detail/20260508023346786800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时50分"
+          "time_info": "00时21分"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
           "url": "https://www.zhihu.com/question/2035827414475993469",
           "source": "知乎",
           "ranks": [
-            17,
-            7,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 22时57分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 22时57分]"
-        },
-        {
-          "title": "传奇投资者：AI牛市“还能再持续一两年”",
-          "url": "https://wallstreetcn.com/livenews/3100154",
+          "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3100814",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 04时19分]"
-        },
-        {
-          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
-          "url": "https://www.cls.cn/detail/2365476",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 14时03分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 20时13分]"
-        },
-        {
-          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
-          "url": "https://www.zhihu.com/question/2035662942067225907",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 14时03分]"
-        },
-        {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
-        },
-        {
-          "title": "AI四小龙估值破万亿",
-          "url": "https://www.toutiao.com/trending/7637337803117825590/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "市场消息：AirPods的摄像头将为Siri提供视觉数据。",
-          "url": "https://flash.jin10.com/detail/20260508022727920800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)配备摄像头的AI版AirPods进入高级测试阶段。",
-          "url": "https://flash.jin10.com/detail/20260508022604778800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时50分"
-        },
-        {
-          "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
-          "url": "https://wallstreetcn.com/livenews/3100252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "GAI新歌星梦MV",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "报告：2025年线上渠道首超线下成购险第一入口，AI成投保决策核心辅助",
-          "url": "https://flash.jin10.com/detail/20260508160802218800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "报告：2025年线上渠道首超线下成购险第一入口，AI成投保决策核心辅助",
-          "url": "https://wallstreetcn.com/livenews/3100523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "拒绝被AI蒸馏的打工人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E8%A2%ABAI%E8%92%B8%E9%A6%8F%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "加码科技金融，中小银行盼AIC试点扩容",
-          "url": "https://wallstreetcn.com/livenews/3100243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "大普微：受AI商业化节奏、云计算投入及下游应用景气度变化影响，AI带动的企业级SSD存储需求发展存在一定的波动和不确定性。",
-          "url": "https://wallstreetcn.com/livenews/3100649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "time_info": "00时21分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
-          "url": "https://www.zhihu.com/question/2035641160987664939",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时59分]"
-        },
-        {
-          "title": "股票到底是什么",
-          "url": "https://www.douyin.com/hot/2491031",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时48分 ~ 22时57分]"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260508040600558800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "CoreWeave重申目标，预计到2030年实现超过8吉瓦（GW）的活跃电力容量。",
-          "url": "https://wallstreetcn.com/livenews/3100185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "科学家拍到物质从量子真空诞生，这项发现具有哪些意义？",
-          "url": "https://www.zhihu.com/question/2018062445168607743",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时50分 ~ 07时59分]"
-        },
         {
           "title": "我国首台双核原子量子计算机研制成功",
           "url": "https://www.cls.cn/detail/2366233",
           "source": "财联社热门",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时13分 ~ 22时57分]"
-        },
-        {
-          "title": "重仓韩国芯片股，又跑出一只基金黑马，单日大涨12%",
-          "url": "https://www.cls.cn/detail/2365813",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时43分 ~ 20时13分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
@@ -662,75 +64,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时57分"
+          "time_info": "00时21分"
         },
         {
-          "title": "*ST恒久：深交所拟决定终止公司股票上市交易",
-          "url": "https://flash.jin10.com/detail/20260508222553950800",
-          "source": "金十数据",
+          "title": "股票到底是什么",
+          "url": "https://www.douyin.com/hot/2491031",
+          "source": "抖音",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时57分"
-        },
-        {
-          "title": "A股深证成指、创业板指双双跌超1%，上证指数跌0.58%，科创50指数跌超3%；氟化工、存储芯片、有色金属等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260508110355937800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "我国首台双核原子量子计算机研制成功 为高端算力自主化提供关键支撑",
-          "url": "https://wallstreetcn.com/livenews/3100597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
-          "title": "上交所：本周对*ST正平等异常波动退市风险警示股票、国晟科技等波动幅度较大的股票以及全球芯片LOF等溢价较高的基金进行重点监控。",
-          "url": "https://wallstreetcn.com/livenews/3100650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
-          "url": "https://flash.jin10.com/detail/20260508044535643800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
-          "url": "https://wallstreetcn.com/livenews/3100232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "00时21分"
         }
       ]
     },
@@ -743,29 +90,11 @@
           "url": "https://www.zhihu.com/question/2035734283441132386",
           "source": "知乎",
           "ranks": [
-            8,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时13分 ~ 22时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克被曝主动向女下属提出捐精",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E4%B8%8B%E5%B1%9E%E6%8F%90%E5%87%BA%E6%8D%90%E7%B2%BE%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "00时21分"
         }
       ]
     }
