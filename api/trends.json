@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T20:13:25.611150+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-05-08T22:57:29.663251+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
@@ -133,7 +133,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -243,7 +243,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -298,7 +298,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
@@ -306,7 +306,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
@@ -328,11 +328,12 @@
             16,
             15,
             10,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 20时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 22时57分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -345,6 +346,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时19分 ~ 14时03分]"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "苹果摄像头版AirPods进入高级测试阶段",
@@ -363,11 +375,25 @@
           "source": "知乎",
           "ranks": [
             17,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 22时57分]"
+        },
+        {
+          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
+          "url": "https://wallstreetcn.com/articles/3771771",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时31分 ~ 20时13分]"
+          "time_info": "[16时32分 ~ 22时57分]"
         },
         {
           "title": "传奇投资者：AI牛市“还能再持续一两年”",
@@ -380,18 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 04时19分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 20时13分]"
         },
         {
           "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
@@ -485,6 +499,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "报告：2025年线上渠道首超线下成购险第一入口，AI成投保决策核心辅助",
           "url": "https://flash.jin10.com/detail/20260508160802218800",
           "source": "金十数据",
@@ -535,7 +560,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
@@ -543,7 +568,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
@@ -568,8 +593,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 20时13分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 22时57分]"
         },
         {
           "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览（美股收盘）",
@@ -607,6 +632,18 @@
           "time_info": "[02时50分 ~ 07时59分]"
         },
         {
+          "title": "我国首台双核原子量子计算机研制成功",
+          "url": "https://www.cls.cn/detail/2366233",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 22时57分]"
+        },
+        {
           "title": "重仓韩国芯片股，又跑出一只基金黑马，单日大涨12%",
           "url": "https://www.cls.cn/detail/2365813",
           "source": "财联社热门",
@@ -619,15 +656,26 @@
           "time_info": "[18时43分 ~ 20时13分]"
         },
         {
-          "title": "我国首台双核原子量子计算机研制成功",
-          "url": "https://www.cls.cn/detail/2366233",
+          "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
+          "url": "https://www.cls.cn/detail/2366383",
           "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时13分"
+          "time_info": "22时57分"
+        },
+        {
+          "title": "*ST恒久：深交所拟决定终止公司股票上市交易",
+          "url": "https://flash.jin10.com/detail/20260508222553950800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "A股深证成指、创业板指双双跌超1%，上证指数跌0.58%，科创50指数跌超3%；氟化工、存储芯片、有色金属等板块跌幅居前。",
@@ -658,7 +706,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -695,11 +743,12 @@
           "url": "https://www.zhihu.com/question/2035734283441132386",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 22时57分]"
         }
       ]
     },
