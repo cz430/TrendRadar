@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-05-09T21:39:15.801439+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-05-09T22:58:35.376437+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 22时58分]"
+        },
         {
           "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
           "url": "https://www.cls.cn/detail/2366653",
@@ -18,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 21时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 22时58分]"
         },
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -33,21 +49,6 @@
           "time_info": "[00时21分 ~ 06时03分]"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 21时39分]"
-        },
-        {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
           "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
@@ -58,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 22时58分]"
         },
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -71,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 21时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 22时58分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -84,11 +85,12 @@
             13,
             12,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 21时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 22时58分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -216,11 +218,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 22时58分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -228,22 +231,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时58分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
           "url": "https://www.zhihu.com/question/2034624017219499142",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 22时58分]"
         },
         {
           "title": "美国拟发布AI安全令，不含强制性模型测试",
@@ -255,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
+          "url": "https://wallstreetcn.com/articles/3771893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "美国拟发布AI安全行政令，但将不包含强制性模型测试",
@@ -304,7 +320,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -314,8 +330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时51分 ~ 21时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 22时58分]"
         },
         {
           "title": "编造芯片订单虚假信息，获利不足300元，2人被罚45万",
@@ -326,8 +342,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 22时58分]"
         },
         {
           "title": "国内首台“双核原子”量子计算机现身 有望8个月内完成交付",
@@ -340,6 +356,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 11时51分]"
+        },
+        {
+          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2366646",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时51分 ~ 22时58分]"
         },
         {
           "title": "我国首台双核原子量子计算机研制成功",
@@ -355,15 +383,20 @@
           "time_info": "[00时21分 ~ 08时02分]"
         },
         {
-          "title": "英特尔、苹果据传达成芯片制造初步协议 任天堂Switch全面涨价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2366646",
-          "source": "财联社热门",
+          "title": "国安部：某手机芯片厂漏洞被不法分子利用",
+          "url": "https://www.toutiao.com/trending/7637696506077875758/",
+          "source": "今日头条",
           "ranks": [
-            11
+            19,
+            9,
+            23,
+            24,
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时51分 ~ 21时39分]"
+          "time_info": "[14时22分 ~ 22时58分]"
         },
         {
           "title": "股票到底是什么",
@@ -377,19 +410,16 @@
           "time_info": "[00时21分 ~ 08时02分]"
         },
         {
-          "title": "国安部：某手机芯片厂漏洞被不法分子利用",
-          "url": "https://www.toutiao.com/trending/7637696506077875758/",
-          "source": "今日头条",
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            9,
-            23,
-            24,
-            10
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时22分 ~ 21时39分]"
+          "time_info": "[14时22分 ~ 22时58分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -414,16 +444,15 @@
           "time_info": "11时51分"
         },
         {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
+          "title": "市场消息：土耳其将对股票的“短期卖空”禁令延长至5月26日。",
+          "url": "https://flash.jin10.com/detail/20260509221828195800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时22分 ~ 21时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "创业板跌近1%，芯片半导体集体调整，机器人逆势爆发，恒指跌近1%，科网股多跌，快手涨超9%",
@@ -509,7 +538,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
@@ -547,11 +576,12 @@
             5,
             6,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 22时58分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -560,11 +590,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[16时45分 ~ 22时58分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
@@ -631,11 +662,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 22时58分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -659,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时51分"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
@@ -817,8 +860,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 22时58分]"
         }
       ]
     }
