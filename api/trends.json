@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:14:08.203121+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-05-11T04:56:28.595331+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
           "url": "https://wallstreetcn.com/articles/3771913",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -36,11 +37,12 @@
           "ranks": [
             3,
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -51,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -64,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -74,11 +76,12 @@
           "ranks": [
             27,
             20,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -89,8 +92,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -138,11 +141,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -153,8 +157,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -164,8 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时56分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -201,11 +205,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "芯片股狂潮，还在加速",
@@ -215,8 +220,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         },
         {
           "title": "高溢价之忧！上交所因何重点监控全球芯片LOF，还有哪些高溢价品种要提防风险？",
@@ -226,8 +231,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时03分 ~ 04时56分]"
         }
       ]
     }
