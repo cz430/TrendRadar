@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T05:55:07.055564+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-11T06:55:27.794681+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -67,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -79,11 +79,12 @@
             20,
             14,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -147,8 +148,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -159,19 +160,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时56分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 06时55分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -199,7 +201,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
@@ -208,11 +210,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "芯片股狂潮，还在加速",
@@ -223,19 +226,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
         },
         {
           "title": "高溢价之忧！上交所因何重点监控全球芯片LOF，还有哪些高溢价品种要提防风险？",
           "url": "https://www.cls.cn/detail/2367249",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 06时55分]"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511053851456800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     }
