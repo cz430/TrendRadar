@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T07:58:55.023652+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-05-11T12:18:00.636562+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -39,11 +39,31 @@
             9,
             10,
             6,
-            17
+            17,
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时18分]"
+        },
+        {
+          "title": "GAI新歌太费口红",
+          "url": "https://www.douyin.com/hot/2494398",
+          "source": "抖音",
+          "ranks": [
+            27,
+            20,
+            14,
+            17,
+            18,
+            19,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时18分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -59,21 +79,16 @@
           "time_info": "[00时03分 ~ 07时58分]"
         },
         {
-          "title": "GAI新歌太费口红",
-          "url": "https://www.douyin.com/hot/2494398",
-          "source": "抖音",
+          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
+          "source": "澎湃新闻",
           "ranks": [
-            27,
-            20,
-            14,
-            17,
             18,
-            19,
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "time_info": "[00时03分 ~ 12时18分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -90,18 +105,6 @@
           "time_info": "[00时03分 ~ 06时55分]"
         },
         {
-          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 05时55分]"
-        },
-        {
           "title": "AI正在污染我们的判断力",
           "url": "https://www.toutiao.com/trending/7638257796718267946/",
           "source": "今日头条",
@@ -115,6 +118,28 @@
           "time_info": "[01时56分 ~ 07时58分]"
         },
         {
+          "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "给淘宝AI试穿评个夯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B7%98%E5%AE%9DAI%E8%AF%95%E7%A9%BF%E8%AF%84%E4%B8%AA%E5%A4%AF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
           "title": "世界周刊谈美国AI暗钱网络",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E7%BE%8E%E5%9B%BDAI%E6%9A%97%E9%92%B1%E7%BD%91%E7%BB%9C",
           "source": "bilibili 热搜",
@@ -124,6 +149,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "花生AI是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E7%94%9FAI%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "怎么看华尔街两大佬截然相反的AI预判",
@@ -140,7 +187,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
@@ -167,8 +214,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时18分]"
         },
         {
           "title": "高溢价之忧！上交所因何重点监控全球芯片LOF，还有哪些高溢价品种要提防风险？",
@@ -176,33 +223,80 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时18分]"
         },
         {
           "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
           "url": "https://www.cls.cn/detail/2367370",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 12时18分]"
         },
         {
           "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
           "url": "https://www.cls.cn/detail/2367295",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 12时18分]"
+        },
+        {
+          "title": "华为芯片中心亮相新闻联播",
+          "url": "https://www.toutiao.com/trending/7637812382353719342/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "5月11日午间收评：科创50涨超5%刷新历史新高，半导体芯片股持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3101327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "12时18分"
+        },
+        {
+          "title": "午评：沪指涨0.94%站上4200点 存储芯片、半导体板块爆发",
+          "url": "https://flash.jin10.com/detail/20260511113620656800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "创业板指涨超3%，突破3900点关口，创2015年6月16日以来新高，沪指涨近1%，深成指涨超2%，存储芯片、先进封装、算力硬件等方向涨幅居前，沪深京三市上涨个股超2900只。",
+          "url": "https://wallstreetcn.com/livenews/3101321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
@@ -214,12 +308,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.74%，深成指涨1.62%，存储芯片、光纤、稀土、房地产等方向涨幅居前，沪深京三市上涨个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3101293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -236,29 +341,64 @@
           "time_info": "[00时03分 ~ 07时58分]"
         },
         {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 07时58分]"
-        },
-        {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
             13,
             11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 12时18分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 12时18分]"
+        },
+        {
+          "title": "有人每天烧 20 亿 Token，三个月重写公司 100 多名程序员七八年的项目，这对行业冲击有多大？",
+          "url": "https://www.zhihu.com/question/2036875406062479233",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "2.11倍领先！中国AI大模型周调用量再超美国",
+          "url": "https://wallstreetcn.com/livenews/3101343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "月之暗面Kimi创始人在人民日报刊文：让中国大模型成为全球创新的基座",
+          "url": "https://www.cls.cn/detail/2367387",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -281,6 +421,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "阿里千问与淘宝全面打通，打通AI购物全链路",
+          "url": "https://wallstreetcn.com/livenews/3101317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "WiFi会让记忆力下降系谣言",
+          "url": "https://www.baidu.com/s?wd=WiFi%E4%BC%9A%E8%AE%A9%E8%AE%B0%E5%BF%86%E5%8A%9B%E4%B8%8B%E9%99%8D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         }
       ]
     }
