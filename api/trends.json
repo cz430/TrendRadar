@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T03:01:57.048079+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-05-12T04:52:31.854178+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
           "url": "https://flash.jin10.com/detail/20260512024009408800",
@@ -14,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -35,11 +46,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -50,19 +62,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "AI时代如何评价各专业",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -70,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -106,7 +120,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -122,6 +136,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3101831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "AI会取代哪些职业？多个AI意见不统一",
           "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
           "source": "百度热搜",
@@ -135,8 +160,103 @@
       ]
     },
     {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
+          "url": "https://www.cls.cn/detail/2368315",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
+        },
+        {
+          "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
+          "url": "https://wallstreetcn.com/articles/3771947",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
+        },
+        {
+          "title": "韩国男子入狱前重仓股票6年后翻402倍",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E5%85%A5%E7%8B%B1%E5%89%8D%E9%87%8D%E4%BB%93%E8%82%A1%E7%A5%A86%E5%B9%B4%E5%90%8E%E7%BF%BB402%E5%80%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3101856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "核电公司Constellation Energy：预计到四季度将向FreeStone数据中心交付电力。",
+          "url": "https://wallstreetcn.com/livenews/3101756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "“大空头”：任何暴涨走抛物线行情的股票，都应清仓",
+          "url": "https://wallstreetcn.com/livenews/3101807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260512040533688800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
+          "url": "https://flash.jin10.com/detail/20260512040122104800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
@@ -158,8 +278,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "英国审慎监管局局长伍兹：合理预期ChatGPT和Mythos将对英国金融服务造成相当显著的干扰。",
@@ -173,13 +293,24 @@
           "time_info": "00时06分"
         },
         {
+          "title": "美股七巨头收盘播报｜周一（5月11日），美国科技股七巨头（Magnificent 7）指数跌0.29%，报223.79点。成分股谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。 “超大”市值科技股指数跌0.13%，报454.22点。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
           "url": "https://wallstreetcn.com/livenews/3101802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -190,68 +321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
-          "url": "https://www.cls.cn/detail/2368315",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
-        },
-        {
-          "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
-          "url": "https://wallstreetcn.com/articles/3771947",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时01分]"
-        },
-        {
-          "title": "韩国男子入狱前重仓股票6年后翻402倍",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E5%85%A5%E7%8B%B1%E5%89%8D%E9%87%8D%E4%BB%93%E8%82%A1%E7%A5%A86%E5%B9%B4%E5%90%8E%E7%BF%BB402%E5%80%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "核电公司Constellation Energy：预计到四季度将向FreeStone数据中心交付电力。",
-          "url": "https://wallstreetcn.com/livenews/3101756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "“大空头”：任何暴涨走抛物线行情的股票，都应清仓",
-          "url": "https://wallstreetcn.com/livenews/3101807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
@@ -259,7 +329,7 @@
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "汶川记忆 从未被时光掩埋",
@@ -271,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "OpenClaw失控是怎么回事",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E5%A4%B1%E6%8E%A7%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     },
@@ -285,7 +366,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
