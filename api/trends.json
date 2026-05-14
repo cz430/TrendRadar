@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T20:56:45.265628+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-05-14T23:56:32.409420+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -71,11 +71,12 @@
             9,
             15,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 20时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 23时56分]"
         },
         {
           "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
@@ -114,8 +115,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 23时56分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 06时19分]"
+        },
+        {
+          "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
+          "url": "https://wallstreetcn.com/livenews/3103819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
@@ -255,7 +267,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -269,6 +281,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
+        },
+        {
+          "title": "AI还原烂梗有多毒",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
+          "url": "https://www.cls.cn/detail/2371337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -313,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "国家反诈中心APP 检测AI图",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83APP%20%E6%A3%80%E6%B5%8BAI%E5%9B%BE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
@@ -368,12 +424,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "黄仁勋谈中国AI发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "九章四号量子计算原型机诞生",
@@ -496,16 +563,15 @@
           "time_info": "08时08分"
         },
         {
-          "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
-          "url": "https://flash.jin10.com/detail/20260514041527500800",
-          "source": "金十数据",
+          "title": "Cerebras CEO：对快速推理的需求非同寻常。 随着我们成长，商品成本将下降。 “相当笃信”亚马逊旗下AWS将是我们庞大的渠道。 IPO股票的认购需求超过25倍。",
+          "url": "https://wallstreetcn.com/livenews/3103816",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            24
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 06时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "芯片市场规模或将超1.5万亿美元",
@@ -516,8 +582,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 23时56分]"
+        },
+        {
+          "title": "据知情人士透露，人工智能芯片制造商Cerebras Systems预计将把其美国IPO定价定为每股185美元。",
+          "url": "https://flash.jin10.com/detail/20260514041527500800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 06时19分]"
         },
         {
           "title": "芯片股上演大反攻！“股王”英伟达再创历史：市值站上5.5万亿美元",
@@ -577,6 +655,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "下午3点半，员工厕所“爆满”，大家都在看股票账户！韩国股市暴涨，散户疯狂涌入，全国人口5100万，活跃股票账户超1亿",
+          "url": "https://wallstreetcn.com/articles/3772290",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "金十图示：2026年05月13日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260514040525741800",
           "source": "金十数据",
@@ -586,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "加拿大总理：拟将加拿大电力产出翻倍",
+          "url": "https://wallstreetcn.com/livenews/3103800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "AMD(AMD.O)：刚刚达成一项新的里程碑：在运行Qibo的单张AMD Instinct MI355X GPU上，实现了精确的35量子比特量子模拟，创下迄今为止AMD硬件单GPU运算的最大规模纪录。",
@@ -613,7 +713,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "抽象一哥!小马云首播爆火",
@@ -652,6 +752,20 @@
           "time_info": "06时19分"
         },
         {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://www.toutiao.com/trending/7639626639860780553/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            23,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 23时56分]"
+        },
+        {
           "title": "当雷军开始造电池 宁德时代慌了吗",
           "url": "https://www.toutiao.com/trending/7639227644315192841/",
           "source": "今日头条",
@@ -664,19 +778,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时44分 ~ 08时08分]"
-        },
-        {
-          "title": "马斯克360度转圈拍摄人民大会堂",
-          "url": "https://www.toutiao.com/trending/7639626639860780553/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 20时56分]"
         },
         {
           "title": "黄仁勋马斯克库克手势亮了",
@@ -727,6 +828,42 @@
           "time_info": "[03时44分 ~ 04时54分]"
         },
         {
+          "title": "马化腾说「不能别人做什么就也跨过去，过去『抢别人地盘』基本失败了」，如何解读？腾讯都在哪些地方失败过？",
+          "url": "https://www.zhihu.com/question/2038038863252125208",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 23时56分]"
+        },
+        {
+          "title": "马斯克携幼子现身人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%BA%E5%B9%BC%E5%AD%90%E7%8E%B0%E8%BA%AB%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 23时56分]"
+        },
+        {
+          "title": "马斯克回复360度转圈拍人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 23时56分]"
+        },
+        {
           "title": "马斯克第4个下机 黄仁勋换西装",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%AC%AC4%E4%B8%AA%E4%B8%8B%E6%9C%BA+%E9%BB%84%E4%BB%81%E5%8B%8B%E6%8D%A2%E8%A5%BF%E8%A3%85",
           "source": "百度热搜",
@@ -736,6 +873,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "马斯克小儿子穿新中式现身大会堂",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%8E%B0%E8%BA%AB%E5%A4%A7%E4%BC%9A%E5%A0%82",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 23时56分]"
         },
         {
           "title": "马斯克360度转圈拍摄人民大会堂",
@@ -749,6 +898,18 @@
           "time_info": "[15时47分 ~ 15时48分]"
         },
         {
+          "title": "马斯克：我对此次会晤感觉不错",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E9%94%99",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 23时56分]"
+        },
+        {
           "title": "马斯克：只有我和黄仁勋坐上空军一号",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%88%91%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9D%90%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7",
           "source": "百度热搜",
@@ -760,70 +921,26 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
-          "title": "马斯克携幼子现身人民大会堂",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%90%BA%E5%B9%BC%E5%AD%90%E7%8E%B0%E8%BA%AB%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "马斯克回复360度转圈拍人民大会堂",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "宇树圆了马斯克的机甲梦，马斯克点赞：很酷！",
           "url": "https://m.thepaper.cn/newsDetail_forward_33173788",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
         {
-          "title": "马化腾说「不能别人做什么就也跨过去，过去『抢别人地盘』基本失败了」，如何解读？腾讯都在哪些地方失败过？",
-          "url": "https://www.zhihu.com/question/2038038863252125208",
-          "source": "知乎",
+          "title": "马斯克：对此次会晤感觉不错",
+          "url": "https://www.douyin.com/hot/2499190",
+          "source": "抖音",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "马斯克：我对此次会晤感觉不错",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E6%AC%A1%E4%BC%9A%E6%99%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E9%94%99",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
-          "title": "马斯克小儿子穿新中式现身大会堂",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%8E%B0%E8%BA%AB%E5%A4%A7%E4%BC%9A%E5%A0%82",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
+          "time_info": "23时56分"
         },
         {
           "title": "马斯克谈会晤感受：感觉不错，应该会有好的成果",
@@ -832,9 +949,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "马斯克儿子新中式服装虎头包走红",
+          "url": "https://www.douyin.com/hot/2499395",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "马斯克回复360度转圈拍摄人民大会堂",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%A4%8D360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "马斯克说会晤会有好成果",
@@ -843,7 +982,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
@@ -851,7 +990,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "保姆级Claude Code速成攻略",
@@ -964,6 +1103,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "Anthropic公司与盖茨基金会达成2亿美元的合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3103808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
           "url": "https://www.zhihu.com/question/2037920346959868531",
           "source": "知乎",
@@ -1011,7 +1161,7 @@
     },
     {
       "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "小米开源 xiaomionevl 自动驾驶模型，率先实现多技术路线统一，这意味着什么？",
@@ -1044,7 +1194,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1055,9 +1205,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "多地开始考核网约车司机违规行为",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%A7%8B%E8%80%83%E6%A0%B8%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "曹操出行：拟启动最高2亿港元股份回购计划",
+          "url": "https://wallstreetcn.com/livenews/3103785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
