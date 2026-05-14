@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T12:53:23.050477+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-05-14T15:48:02.904124+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -14,11 +14,25 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 12时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 15时48分]"
+        },
+        {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 15时48分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -35,19 +49,6 @@
           "time_info": "[00时34分 ~ 08时08分]"
         },
         {
-          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772187",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 12时53分]"
-        },
-        {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
           "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
@@ -58,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 12时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 15时48分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -67,11 +68,24 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 12时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 15时48分]"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时53分 ~ 15时48分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -87,17 +101,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 08时08分]"
-        },
-        {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 12时53分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -135,6 +138,30 @@
           "time_info": "[04时54分 ~ 06时19分]"
         },
         {
+          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
+          "url": "https://www.cls.cn/detail/2370802",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
+        },
+        {
+          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
+          "url": "https://www.zhihu.com/question/2037950969506428373",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
+        },
+        {
           "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
           "url": "https://www.cls.cn/detail/2370695",
           "source": "财联社热门",
@@ -145,6 +172,62 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时07分 ~ 12时53分]"
+        },
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "【社论】中国AI企业背后的创新密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
         },
         {
           "title": "AI假扮女儿打电话：妈妈开门",
@@ -158,26 +241,15 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "“没有一张卡是空的”！大厂AI资本开支再提速 腾讯、阿里同日上调预期",
-          "url": "https://www.cls.cn/detail/2370802",
-          "source": "财联社热门",
+          "title": "鸿海：AI服务器需求强劲，预期第二季AI机柜出货较上季高双位成长，全年出货倍数以上成长。",
+          "url": "https://wallstreetcn.com/livenews/3103542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "马化腾回应腾讯 AI 是否落后，「AI 的船现在站上去但还坐不下去」，怎样看待这一言论？",
-          "url": "https://www.zhihu.com/question/2037950969506428373",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时48分"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -197,20 +269,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
         {
-          "title": "日本批量生成AI视频抹黑中国",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "鸿海：对今年持谨慎乐观态度。 AI不是短期趋势。 我们将把握AI的长期增长趋势。 仍预计2026财年销售额将强劲增长。",
+          "url": "https://wallstreetcn.com/livenews/3103531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时53分"
+          "time_info": "15时48分"
         },
         {
           "title": "用AI降低论文AI率会得到什么",
@@ -219,7 +291,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -241,9 +313,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "鸿海：AI伺服器需求强劲，预期第二季AI机柜出货较上季高双位成长，全年出货倍数以上成长。",
+          "url": "https://flash.jin10.com/detail/20260514152632614800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://wallstreetcn.com/livenews/3103517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
@@ -286,6 +380,19 @@
           "time_info": "[00时34分 ~ 06时19分]"
         },
         {
+          "title": "中国科学家成功研制“九章四号”量子计算原型机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33175033",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时44分 ~ 15时48分]"
+        },
+        {
           "title": "国产芯片光刻胶获重大突破",
           "url": "https://www.toutiao.com/trending/7638898193062035466/",
           "source": "今日头条",
@@ -314,17 +421,15 @@
           "time_info": "[06时19分 ~ 12时53分]"
         },
         {
-          "title": "中国科学家成功研制“九章四号”量子计算原型机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33175033",
-          "source": "澎湃新闻",
+          "title": "中国量子计算再破纪录",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            14,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时44分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
         },
         {
           "title": "九章四号量子计算原型机诞生",
@@ -333,7 +438,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -347,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
-        },
-        {
-          "title": "中国量子计算再破纪录",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "日本5月8日当周净买进国外股票 -5936亿日元，前值 412亿日元。",
@@ -394,6 +488,18 @@
           "time_info": "[04时54分 ~ 06时19分]"
         },
         {
+          "title": "芯片股上演大反攻！“股王”英伟达再创历史：市值站上5.5万亿美元",
+          "url": "https://www.cls.cn/detail/2370764",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
+        },
+        {
           "title": "阿斯麦ADR涨超5%，现报1602美元，盘中市值突破6300亿美元。近日苹果与英特尔达成芯片代工合作，市场预期阿斯麦将从中获利，高盛认为阿斯麦被严重低估。",
           "url": "https://wallstreetcn.com/livenews/3103189",
           "source": "华尔街见闻-快讯",
@@ -426,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
-        },
-        {
-          "title": "芯片股上演大反攻！“股王”英伟达再创历史：市值站上5.5万亿美元",
-          "url": "https://www.cls.cn/detail/2370764",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         },
         {
           "title": "据知情人士透露，Cerebras Systems将美国IPO股票的发行价定在每股185美元，高于该公司此前所给指引区间。（彭博，CNBC）",
@@ -486,7 +581,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "保姆级Claude Code速成攻略",
@@ -497,11 +592,12 @@
             29,
             26,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 08时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 15时48分]"
         },
         {
           "title": "美国国会山两党议员们就AI网络威胁发函白宫，要求就此问题采取行动。 信函中提及Anthropic的大模型Mythos。（Axios）",
@@ -550,6 +646,17 @@
           "time_info": "[04时54分 ~ 06时19分]"
         },
         {
+          "title": "腾讯电话会：混元3.0 Token调用量激增10倍，资本开支加码，下半年国产芯片将逐月到位",
+          "url": "https://wallstreetcn.com/articles/3772203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
           "url": "https://wallstreetcn.com/livenews/3103184",
           "source": "华尔街见闻-快讯",
@@ -579,7 +686,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -620,7 +727,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "抽象一哥!小马云首播爆火",
@@ -628,11 +735,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 12时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 15时48分]"
         },
         {
           "title": "马斯克第四个走下特朗普专机",
@@ -671,6 +779,29 @@
           "time_info": "[03时44分 ~ 08时08分]"
         },
         {
+          "title": "马斯克库克黄仁勋等进入会谈现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E8%BF%9B%E5%85%A5%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://www.toutiao.com/trending/7639626639860780553/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "美国负责马斯克与证券交易委员会（SEC）关于推特（Twitter）和解案的联邦法官表示，该案中表现出的“暗道沟通”（back channel communications）是一个“危险信号”。",
           "url": "https://wallstreetcn.com/livenews/3103195",
           "source": "华尔街见闻-快讯",
@@ -694,6 +825,28 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "马斯克：只有我和黄仁勋坐上空军一号",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%88%91%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9D%90%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7",
           "source": "百度热搜",
@@ -703,17 +856,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "马斯克库克黄仁勋等进入会谈现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E8%BF%9B%E5%85%A5%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
         }
       ]
     },
@@ -726,11 +868,12 @@
           "url": "https://www.zhihu.com/question/2037963527441397074",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时48分]"
         }
       ]
     }
