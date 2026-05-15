@@ -1,119 +1,11 @@
 {
-  "generated_at": "2026-05-16T05:11:36.823544+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-05-16T07:01:38.789003+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美债收益率飙升重创股市 芯片板块领跌",
-          "url": "https://flash.jin10.com/detail/20260516042845764800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "61岁总裁离婚将98%股票过户给前妻",
-          "url": "https://www.baidu.com/s?wd=61%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E5%B0%8698%25%E8%82%A1%E7%A5%A8%E8%BF%87%E6%88%B7%E7%BB%99%E5%89%8D%E5%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时11分]"
-        },
-        {
-          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2372862",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时11分]"
-        },
-        {
-          "title": "证监会发布衍生品新规，严控杠杆投机，上市公司股票衍生品交易被全面收紧",
-          "url": "https://www.cls.cn/detail/2372825",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时11分]"
-        },
-        {
-          "title": "报道：SpaceX股票最早将于6月12日上市",
-          "url": "https://wallstreetcn.com/livenews/3104592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260516041229495800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "知情人士：SpaceX股票最早将于6月12日上市",
-          "url": "https://flash.jin10.com/detail/20260516023914425800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        },
-        {
-          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260516004043249800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国证交会文件显示：老虎环球将所持Meta股份增加12.2%，升至310万股A类股票。",
-          "url": "https://flash.jin10.com/detail/20260516021714256800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
@@ -122,9 +14,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时01分]"
         },
         {
           "title": "【AI冲击初现端倪，美国数类职业连续出现严重岗位流失】2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
@@ -133,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -145,21 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时11分]"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时01分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -171,6 +64,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 03时46分]"
+        },
+        {
+          "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
+          "url": "https://www.zhihu.com/question/2038779949444757193",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国总统特朗普：AI是一个了不起的东西。",
+          "url": "https://wallstreetcn.com/livenews/3104655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "云南小伙用AI制作短片爆红",
@@ -208,6 +134,126 @@
       ]
     },
     {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美债收益率飙升重创股市 芯片板块领跌",
+          "url": "https://flash.jin10.com/detail/20260516042845764800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 07时01分]"
+        },
+        {
+          "title": "61岁总裁离婚将98%股票过户给前妻",
+          "url": "https://www.baidu.com/s?wd=61%E5%B2%81%E6%80%BB%E8%A3%81%E7%A6%BB%E5%A9%9A%E5%B0%8698%25%E8%82%A1%E7%A5%A8%E8%BF%87%E6%88%B7%E7%BB%99%E5%89%8D%E5%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时01分]"
+        },
+        {
+          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2372862",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时01分]"
+        },
+        {
+          "title": "证监会发布衍生品新规，严控杠杆投机，上市公司股票衍生品交易被全面收紧",
+          "url": "https://www.cls.cn/detail/2372825",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时01分]"
+        },
+        {
+          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260516041229495800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 07时01分]"
+        },
+        {
+          "title": "报道：SpaceX股票最早将于6月12日上市",
+          "url": "https://wallstreetcn.com/livenews/3104592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普：预计到我任期结束时，美国将拥有（全球）芯片业务的40%-50%。",
+          "url": "https://wallstreetcn.com/livenews/3104653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "知情人士：SpaceX股票最早将于6月12日上市",
+          "url": "https://flash.jin10.com/detail/20260516023914425800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "金十图示：2026年05月15日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260516004043249800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Meta股份增加12.2%，升至310万股A类股票。",
+          "url": "https://flash.jin10.com/detail/20260516021714256800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
       "match_count": 6,
       "titles": [
@@ -217,11 +263,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 07时01分]"
         },
         {
           "title": "Anthropic：普华永道（PwC）将推出Claude Code & CoWork。 普华永道在Claude的基础上推出新的Finance Business Group。",
@@ -242,7 +289,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -253,7 +300,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -264,7 +311,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
