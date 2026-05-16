@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T06:56:06.753629+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-05-17T07:59:52.540935+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -61,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -72,8 +73,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -85,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 01时05分]"
+        },
+        {
+          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
+          "url": "https://wallstreetcn.com/articles/3772426",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
@@ -112,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "阿斯麦与塔塔电子达成合作，推进印度芯片计划",
@@ -124,8 +136,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时13分 ~ 07时59分]"
+        },
+        {
+          "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
+          "url": "https://flash.jin10.com/detail/20260517040319740800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时13分 ~ 06时56分]"
+          "time_info": "[04时57分 ~ 07时59分]"
         },
         {
           "title": "阿斯麦与塔塔电子合作推进印度芯片计划",
@@ -138,19 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "比尔·盖茨基金会出售其持有的最后一批微软股票",
-          "url": "https://flash.jin10.com/detail/20260517040319740800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时56分]"
         }
       ]
     },
@@ -163,11 +175,12 @@
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -179,8 +192,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 07时59分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -192,8 +205,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时59分]"
         }
       ]
     }
