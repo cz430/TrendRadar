@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T08:02:30.232666+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-05-18T13:10:33.347553+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 13时10分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 08时02分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 13时10分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -45,26 +56,16 @@
           "time_info": "[01时04分 ~ 06时04分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 08时02分]"
-        },
-        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 13时10分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -91,13 +92,35 @@
           "time_info": "[05时01分 ~ 06时04分]"
         },
         {
+          "title": "英杰电气：截至目前公司AI电源产品尚未获得北美市场相关厂商认证",
+          "url": "https://flash.jin10.com/detail/20260518122710398800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "AI预测世界杯西班牙夺冠",
           "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -108,9 +131,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850530&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/16o3I08Z4GCS1M1KFcDPI.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260518120451685800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "阳光电源、芯联集成等成立新公司 含AI及机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3105086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "谁卡住AI算力瓶颈谁就离财富越近",
@@ -127,7 +172,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -139,6 +184,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 08时02分]"
+        },
+        {
+          "title": "无锡大动作！一边建大规模“Token工厂”、一边与SK海力士深化合作",
+          "url": "https://wallstreetcn.com/articles/3772453",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 13时10分]"
         },
         {
           "title": "上海移动宣布5G-A超级上行网络能力规模商用，推出Token通用服务：1元40万Tokens",
@@ -166,16 +223,48 @@
           "time_info": "[01时03分 ~ 08时02分]"
         },
         {
-          "title": "无锡大动作！一边建大规模“Token工厂”、一边与SK海力士深化合作",
-          "url": "https://wallstreetcn.com/articles/3772453",
+          "title": "【早报】三大运营商齐发Token服务；一座大规模“Token工厂”落地无锡",
+          "url": "https://www.cls.cn/detail/2373540",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "Anthropic将向全球金融监管机构通报Mythos模型相关情况",
+          "url": "https://flash.jin10.com/detail/20260518123107644800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "Anthropic10个智能体重构投行、基金工作流，如何影响国内金融机构？",
+          "url": "https://www.cls.cn/detail/2373585",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "据日经新闻：日本将制定利用Anthropic的Mythos进行网络防御的指导方针。",
@@ -192,7 +281,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -252,12 +341,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 06时04分]"
+        },
+        {
+          "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
+          "url": "https://flash.jin10.com/detail/20260518120811012800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "5月18日午间收评：创业板指冲高回落跌0.5%，存储芯片板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3105093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "A股午评：三大股指震荡盘整 存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260518113454558800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
@@ -270,6 +392,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 08时02分]"
+        },
+        {
+          "title": "野村：AI驱动记忆体需求指数级增长 大幅上调三星、SK海力士目标价",
+          "url": "https://flash.jin10.com/detail/20260518114229692800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "微信读书skill",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6skill&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     }
