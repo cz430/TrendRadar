@@ -1,8 +1,186 @@
 {
-  "generated_at": "2026-05-19T05:34:39.345692+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-19T07:09:22.112324+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "据华尔街日报：达尔萨纳资本合伙公司（Darsana Capital Partners）管理资产的近60%为SpaceX股票。如果SpaceX在IPO中的估值达到约1.5万亿美元，前者将获利超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260519050012725800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "Darsana Capital Partners管理资产将近60%的投资组合为SpaceX股票。 如果SpaceX在IPO中的估值达到约1.5万亿美元，前者将获利超过100亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3105614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "王力宏回应用代言费买比亚迪股票",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            24,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：14A芯片将于2028年实现生产，2029年将进入量产阶段。",
+          "url": "https://flash.jin10.com/detail/20260519064525769800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3105599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "市场消息：美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易。",
+          "url": "https://flash.jin10.com/detail/20260519023849189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "报道：美国SEC将推股票“代币化”交易方案，开辟加密交易新战场",
+          "url": "https://wallstreetcn.com/livenews/3105644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "阿联酋巴拉卡核电站场外电力已恢复",
+          "url": "https://wallstreetcn.com/livenews/3105561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
+          "url": "https://wallstreetcn.com/livenews/3105558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260519040523142800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        },
+        {
+          "title": "市场消息：戴尔在本季度出售了1,000台搭载英伟达芯片的人工智能服务器。",
+          "url": "https://flash.jin10.com/detail/20260519005156794800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
       "match_count": 13,
@@ -15,8 +193,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -26,8 +204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -35,11 +213,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -47,11 +226,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            30
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 07时09分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            18,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时52分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 07时09分]"
         },
         {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
@@ -60,7 +252,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -120,24 +312,13 @@
           "time_info": "01时33分"
         },
         {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
           "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
           "url": "https://wallstreetcn.com/livenews/3105584",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -155,148 +336,6 @@
       ]
     },
     {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "据华尔街日报：达尔萨纳资本合伙公司（Darsana Capital Partners）管理资产的近60%为SpaceX股票。如果SpaceX在IPO中的估值达到约1.5万亿美元，前者将获利超过100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260519050012725800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "Darsana Capital Partners管理资产将近60%的投资组合为SpaceX股票。 如果SpaceX在IPO中的估值达到约1.5万亿美元，前者将获利超过100亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3105614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
-          "url": "https://www.cls.cn/detail/2374260",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
-        },
-        {
-          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2374572",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
-        },
-        {
-          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
-          "url": "https://wallstreetcn.com/articles/3772477",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
-        },
-        {
-          "title": "王力宏回应用代言费买比亚迪股票",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%9B%9E%E5%BA%94%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
-        },
-        {
-          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
-          "url": "https://wallstreetcn.com/livenews/3105599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "市场消息：美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易。",
-          "url": "https://flash.jin10.com/detail/20260519023849189800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "阿联酋巴拉卡核电站场外电力已恢复",
-          "url": "https://wallstreetcn.com/livenews/3105561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
-          "url": "https://wallstreetcn.com/livenews/3105558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "金十图示：2026年05月18日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260519040523142800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
-        {
-          "title": "市场消息：戴尔在本季度出售了1,000台搭载英伟达芯片的人工智能服务器。",
-          "url": "https://flash.jin10.com/detail/20260519005156794800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
       "match_count": 10,
       "titles": [
@@ -309,8 +348,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
@@ -319,7 +358,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -353,7 +392,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -364,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -375,7 +414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -386,7 +425,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -428,19 +467,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "孙杨曾致电马云寻求人生方向",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%9B%BE%E8%87%B4%E7%94%B5%E9%A9%AC%E4%BA%91%E5%AF%BB%E6%B1%82%E4%BA%BA%E7%94%9F%E6%96%B9%E5%90%91%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "马斯克：美国法官颁发了掠夺慈善机构的“免罪符”。",
@@ -449,7 +489,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         },
@@ -490,18 +530,19 @@
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普连发15张图分享中国记忆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
         },
         {
           "title": "Skill 不就是 prompt 吗？为啥被吹成这样？",
@@ -509,11 +550,23 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 05时34分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时09分]"
+        },
+        {
+          "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
+          "url": "https://wallstreetcn.com/livenews/3105632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     },
@@ -528,7 +581,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
         }
