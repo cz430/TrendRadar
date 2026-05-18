@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T18:16:36.445408+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-05-18T22:35:18.106650+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -68,15 +68,37 @@
           "time_info": "[01时03分 ~ 13时10分]"
         },
         {
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "番茄小说正推动AI动漫上院线，开放头部IP改编权限",
           "url": "https://flash.jin10.com/detail/20260518174736274800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
@@ -102,6 +124,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 06时04分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -132,7 +178,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -143,7 +189,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -159,24 +205,13 @@
           "time_info": "08时02分"
         },
         {
-          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
-          "url": "https://www.cls.cn/detail/2374303",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "百度集团：第一季度百度核心AI新业务收入超过人民币136亿元，同比增长49%。",
           "url": "https://wallstreetcn.com/livenews/3105293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -203,6 +238,17 @@
           "time_info": "13时10分"
         },
         {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "阳光电源、芯联集成等成立新公司 含AI及机器人业务",
           "url": "https://wallstreetcn.com/livenews/3105086",
           "source": "华尔街见闻-快讯",
@@ -214,15 +260,15 @@
           "time_info": "13时10分"
         },
         {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
+          "title": "马斯克的xAI为员工提供了420美元的报税补贴，但尚未支付。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105445",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时35分"
         },
         {
           "title": "谁卡住AI算力瓶颈谁就离财富越近",
@@ -239,7 +285,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -327,11 +373,23 @@
           "url": "https://www.zhihu.com/question/2039331976692200758",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
+        },
+        {
+          "title": "电信将推出天翼 Token 币和 Token 权益，这是什么，为何三大运营商开始全面推广 Token 套餐？",
+          "url": "https://www.zhihu.com/question/2039646989483255714",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时35分"
         },
         {
           "title": "Anthropic10个智能体重构投行、基金工作流，如何影响国内金融机构？",
@@ -356,13 +414,24 @@
           "time_info": "03时17分"
         },
         {
+          "title": "三大运营商Token套餐全面上线",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86Token%E5%A5%97%E9%A4%90%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "百度一季度AI业务收入占比过半，昆仑芯全国产集群已完成对文心大模型5.1重要版本的训练",
           "url": "https://flash.jin10.com/detail/20260518173119052800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -370,7 +439,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -436,22 +505,35 @@
           "url": "https://wallstreetcn.com/articles/3772477",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
+        },
+        {
+          "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2374572",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "22时35分"
         },
         {
           "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
@@ -497,11 +579,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 22时35分]"
         },
         {
           "title": "HermesAgent 超越 OpenClaw 成为全球 Token 消耗第一，这意味着什么？",
@@ -522,7 +605,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -561,7 +644,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
