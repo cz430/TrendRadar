@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T03:06:15.950034+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-05-20T05:25:45.315688+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "从卖流量到卖Token，运营商算力生意破局",
@@ -15,19 +15,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
-          "title": "DeepSeek最新回应",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "如何看待三大运营商集体推出 Token 套餐服务？普通用户有必要办理吗？套餐实用性如何？",
+          "url": "https://www.zhihu.com/question/2039652015148639944",
+          "source": "知乎",
           "ranks": [
+            9,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
@@ -47,7 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -63,28 +88,16 @@
           "time_info": "00时27分"
         },
         {
-          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
-          "url": "https://www.cls.cn/detail/2375531",
-          "source": "财联社热门",
+          "title": "DeepSeek最新回应",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
-        },
-        {
-          "title": "如何看待三大运营商集体推出 Token 套餐服务？普通用户有必要办理吗？套餐实用性如何？",
-          "url": "https://www.zhihu.com/question/2039652015148639944",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时25分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -95,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
@@ -106,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "千问App可生成淫秽小说？客服回应",
@@ -139,7 +152,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -150,7 +163,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -161,9 +174,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
+          "url": "https://wallstreetcn.com/livenews/3106253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
@@ -172,9 +196,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
@@ -183,7 +218,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -194,7 +229,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -216,7 +251,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -227,7 +262,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -238,7 +273,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -249,7 +284,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -271,7 +306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -282,7 +317,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -293,9 +328,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "谷歌I/O大会要点总结",
+          "url": "https://wallstreetcn.com/livenews/3106229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "谷歌发布Gemini 3.5系列模型",
@@ -304,7 +361,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
@@ -312,7 +369,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
@@ -323,8 +380,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
@@ -335,8 +392,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
+        },
+        {
+          "title": "5月19日，MSCI新兴市场货币指数下跌0.3%，巴西雷亚尔和韩元表现最为差劲，跌幅均达1%左右。 作为同胞指数的MSCI新兴市场股票指数重挫1.45%，最近三天的累计跌幅扩大至4.5%以上，创2026年3月底以来最大的三日连续跌幅。周二领跌的权重股包括首尔上市的存储芯片巨头SK海力士、台积电。",
+          "url": "https://wallstreetcn.com/livenews/3106259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "苹果新任硬件总监调整产品设计监管架构，引发高层大洗牌，涉及自研芯片工程",
@@ -350,22 +418,22 @@
           "time_info": "00时27分"
         },
         {
-          "title": "“芯片女王”在华入场通道变追星现场",
-          "url": "https://www.toutiao.com/trending/7641163582352199187/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
-        },
-        {
           "title": "突发！900亿芯片股遭国家大基金减持|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2375836",
           "source": "财联社热门",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时05分 ~ 05时25分]"
+        },
+        {
+          "title": "“芯片女王”在华入场通道变追星现场",
+          "url": "https://www.toutiao.com/trending/7641163582352199187/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -378,9 +446,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
+          "url": "https://wallstreetcn.com/livenews/3106254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "Prosus于5月11-15日当周按均价39.1689欧元回购股票250万股，合计将近0.996亿欧元（折合约1.166亿美元）。 Naspers同期按均价859.6349南非兰特回购股票105.6649万股，合计超9.083亿兰特（折合超0.551亿美元）。",
@@ -394,13 +473,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260520040952291800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260520020034868800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -419,7 +509,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -430,8 +520,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
@@ -453,8 +543,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -464,19 +554,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
-        },
-        {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -486,8 +565,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -495,6 +574,17 @@
           "source": "贴吧",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -510,6 +600,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 03时06分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.toutiao.com/trending/7640988449969864731/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "xAI允许在OpenClaw中使用Grok。",
+          "url": "https://wallstreetcn.com/livenews/3106232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -526,8 +644,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时25分]"
         }
       ]
     }
