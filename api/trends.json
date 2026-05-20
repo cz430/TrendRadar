@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T16:32:10.354240+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-20T19:53:00.487555+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "从卖流量到卖Token，运营商算力生意破局",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 19时53分]"
         },
         {
           "title": "如何看待三大运营商集体推出 Token 套餐服务？普通用户有必要办理吗？套餐实用性如何？",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 07时09分]"
+        },
+        {
+          "title": "阿里云：百炼平台将接入智谱GLM-5.1、MiniMax M2.7等第三方模型",
+          "url": "https://wallstreetcn.com/livenews/3106704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -474,7 +485,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "一文看懂：三星将爆发芯片史上最大规模罢工 三重冲击风暴即将形成？",
@@ -487,6 +498,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 07时09分]"
+        },
+        {
+          "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
+          "url": "https://www.zhihu.com/question/2039837853883031925",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时05分 ~ 19时53分]"
         },
         {
           "title": "【每日收评】科创50探底回升涨近4%，电力股反复活跃，半导体产业链午后再度爆发",
@@ -502,25 +525,13 @@
           "time_info": "[00时26分 ~ 07时09分]"
         },
         {
-          "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
-          "url": "https://www.zhihu.com/question/2039837853883031925",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 16时32分]"
-        },
-        {
           "title": "乌克兰DTEK电力公司表示，俄罗斯在夜间袭击了其在敖德萨地区的能源设施。",
           "url": "https://flash.jin10.com/detail/20260520161501511800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -606,6 +617,50 @@
           "time_info": "[03时05分 ~ 03时06分]"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
+          "title": "【焦点复盘】市场再现“冰火两重天”行情，科创芯片股独领风骚，“寒王”总市值突破8500亿",
+          "url": "https://www.cls.cn/detail/2376807",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
+          "title": "【每日收评】科创50指数震荡走高涨超3%，半导体产业链持续爆发，电力股批量跌停",
+          "url": "https://www.cls.cn/detail/2376768",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
+          "title": "芯片龙头股价大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%AF%E7%89%87%E9%BE%99%E5%A4%B4%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 19时53分]"
+        },
+        {
           "title": "历史上首次！芯片股与软件股关联度跌入负值区间",
           "url": "https://wallstreetcn.com/livenews/3106219",
           "source": "华尔街见闻-快讯",
@@ -617,6 +672,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "莫迪送糖引爆“乌龙行情” 印度一只股票意外大涨",
+          "url": "https://wallstreetcn.com/livenews/3106697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
           "url": "https://wallstreetcn.com/livenews/3106254",
           "source": "华尔街见闻-快讯",
@@ -626,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "全球芯片LOF：将于2026年5月21日开市起停牌,自2026年5月21日10:30起复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260520193513680800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
         },
         {
           "title": "热浪袭美东北部及纽约 电力供应紧急预警",
@@ -694,6 +771,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "延江股份：股票交易异常波动，公司终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项",
+          "url": "https://flash.jin10.com/detail/20260520192448751800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
+          "title": "三孚股份：公司主要产品包括三氯氢硅、四氯化硅、高纯四氯化硅、硅烷偶联剂、氢氧化钾、硫酸钾、电子特气、气相二氧化硅等，产品应用于光伏、光纤、精细化工、肥料、电子芯片等领域。目前存储芯片相关收入占公司营业收入比重不足1%，不会对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3106675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时53分"
+        },
+        {
           "title": "国际原子能机构总干事格罗西：（关于阿联酋巴拉卡核电站）辐射水平正常，外部电力已恢复，但情况令人严重担忧。",
           "url": "https://flash.jin10.com/detail/20260520053123824800",
           "source": "金十数据",
@@ -719,7 +818,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -795,6 +894,18 @@
           "time_info": "[00时26分 ~ 07时09分]"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时53分]"
+        },
+        {
           "title": "AI恶意P图白嫖,卖家哭晕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
           "source": "贴吧",
@@ -812,7 +923,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -851,15 +962,15 @@
           "time_info": "[05时25分 ~ 07时09分]"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
+          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
+          "url": "https://www.zhihu.com/question/2040077336809322399",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[19时52分 ~ 19时53分]"
         },
         {
           "title": "印度为何押注AI和芯片产业",
