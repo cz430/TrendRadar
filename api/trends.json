@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-22T05:41:31.405915+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-22T07:07:31.355063+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
       "match_count": 13,
       "titles": [
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
+        },
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
@@ -16,19 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -38,8 +39,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -49,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -61,21 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
-        },
-        {
-          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
-          "url": "https://wallstreetcn.com/articles/3772780",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -84,11 +86,12 @@
           "ranks": [
             17,
             19,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
@@ -160,7 +163,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -170,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -196,6 +199,20 @@
           "time_info": "03时02分"
         },
         {
+          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
+          "url": "https://wallstreetcn.com/articles/3772764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
+        },
+        {
           "title": "据The Information：Anthropic 预计第二季度收入将翻倍至110亿美元，预计利润为6亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022942492800",
           "source": "金十数据",
@@ -207,17 +224,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
-          "url": "https://wallstreetcn.com/articles/3772764",
-          "source": "华尔街见闻",
+          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
+          "url": "https://flash.jin10.com/detail/20260522061919828800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -225,11 +240,12 @@
           "source": "微博",
           "ranks": [
             8,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -280,7 +296,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "雷军强烈建议大家现在就换手机",
@@ -290,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "雷军说输给特斯拉不丢人",
@@ -299,11 +315,12 @@
           "source": "微博",
           "ranks": [
             1,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "雷军：未来手机可能会越来越贵",
@@ -312,11 +329,23 @@
           "ranks": [
             2,
             7,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
+        },
+        {
+          "title": "马斯克：今天（星舰发射若）失败，不会对进度造成超过一个月左右的影响。",
+          "url": "https://flash.jin10.com/detail/20260522062806430800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "亚马逊CEO Andy Jassy：Prime Video正在成长，项目是有利可图的。",
@@ -337,8 +366,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "雷军：再次挑战特斯拉Model Y销量",
@@ -348,8 +377,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "史上最大IPO！SpaceX招股书公布：一季度亏43亿美元，马斯克掌握绝对控制权",
@@ -360,8 +389,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "雷军说输给特斯拉不丢人",
@@ -401,7 +430,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -412,8 +441,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -434,30 +463,43 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 07时07分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Alphabet(GOOG.O)旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
           "url": "https://flash.jin10.com/detail/20260522051629687800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
         },
         {
           "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
           "url": "https://wallstreetcn.com/articles/3772781",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 07时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "07时07分"
         },
         {
           "title": "Intel代工苹果芯片意味着什么",
@@ -477,7 +519,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
         },
