@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:01:33.190532+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-05-24T06:03:18.689596+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -50,8 +51,21 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
+        },
+        {
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "time_info": "[03时19分 ~ 06时03分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -60,23 +74,12 @@
           "ranks": [
             11,
             18,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
-        },
-        {
-          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
-          "url": "https://www.zhihu.com/question/2040505406502524785",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时03分]"
         }
       ]
     },
@@ -93,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -104,8 +107,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -132,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         },
         {
           "title": "诺兰神作《记忆碎片》IMAX 版首次内地影院上映，看完后你感受如何？",
@@ -142,11 +145,12 @@
           "ranks": [
             18,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         }
       ]
     },
@@ -163,8 +167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时08分 ~ 06时03分]"
         }
       ]
     },
