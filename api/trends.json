@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T00:06:16.128998+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T02:02:54.205741+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -48,25 +49,26 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "词元（token）定价为什么以每百万（兆）为单位，而不是千万或亿呢？",
           "url": "https://www.zhihu.com/question/2037913959898899739",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         }
       ]
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -76,8 +78,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -87,8 +100,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 02时02分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -97,15 +110,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时02分]"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
@@ -114,9 +127,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时02分]"
+        },
+        {
+          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
+          "url": "https://www.zhihu.com/question/2039273480357684027",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时02分"
         }
       ]
     }
