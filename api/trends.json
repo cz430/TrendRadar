@@ -1,170 +1,11 @@
 {
-  "generated_at": "2026-05-26T18:07:20.904908+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-05-26T21:58:02.149896+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
-          "url": "https://wallstreetcn.com/articles/3773014",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时11分]"
-        },
-        {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 18时07分]"
-        },
-        {
-          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
-          "url": "https://www.zhihu.com/question/2040478565859381749",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            6,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 08时11分]"
-        },
-        {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 13时07分]"
-        },
-        {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时13分]"
-        },
-        {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 18时07分]"
-        },
-        {
-          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
-          "url": "https://www.cls.cn/detail/2380627",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时24分 ~ 04时25分]"
-        },
-        {
-          "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
-          "url": "https://wallstreetcn.com/livenews/3109003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时13分]"
-        },
-        {
-          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
-          "url": "https://www.zhihu.com/question/649375328",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时28分]"
-        },
-        {
-          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
-          "url": "https://wallstreetcn.com/articles/3773084",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "小米集团：第一季度智能电动汽车及AI等创新业务分部经营亏损为人民币31亿元",
-          "url": "https://wallstreetcn.com/livenews/3109349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
-          "url": "https://www.cls.cn/detail/2381769",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "京东AI静音口罩工位k歌神器",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
@@ -229,6 +70,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "昇腾310等9款芯片通过“安全可靠测评”",
+          "url": "https://wallstreetcn.com/livenews/3109508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
           "url": "https://www.cls.cn/detail/2380774",
           "source": "财联社热门",
@@ -239,6 +91,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时13分]"
+        },
+        {
+          "title": "没有高端光刻机中国芯片怎么突围",
+          "url": "https://www.toutiao.com/trending/7644155934092037658/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
         },
         {
           "title": "深圳“十五五”规划纲要：到2030年全市实时可用算力规模超150EFlops，国产芯片部分指标和算力集群达到国际先进水平",
@@ -269,9 +132,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "美国航天公司股票上涨，太空探索公司直觉机器公司上涨8.2%，Planet Labs上涨4.1%，Rocket Lab上涨3%，Howmet Aerospace上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260526213449117800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "深圳“十五五”规划纲要：前瞻布局6G、量子科技、脑机接口等未来产业",
@@ -302,7 +176,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -316,6 +190,213 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "*ST汇科：公司股票自5月28日起撤销退市风险警示及其他风险警示",
+          "url": "https://flash.jin10.com/detail/20260526212151843800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 机器学习 深度学习 强化学习",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 21时58分]"
+        },
+        {
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时11分]"
+        },
+        {
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            6,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 08时11分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 13时07分]"
+        },
+        {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时13分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 21时58分]"
+        },
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时58分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时58分]"
+        },
+        {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "如何看待媒体报道《毕业论文将检测 AIGC 率，检测标准科学吗》， 该文章在知网检测 AIGC 率接近 30%？",
+          "url": "https://www.zhihu.com/question/2041915902292217866",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 21时58分]"
+        },
+        {
+          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
+          "url": "https://www.cls.cn/detail/2380627",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 04时25分]"
+        },
+        {
+          "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
+          "url": "https://wallstreetcn.com/livenews/3109003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 06时13分]"
+        },
+        {
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时28分]"
+        },
+        {
+          "title": "小米集团：第一季度智能电动汽车及AI等创新业务分部经营亏损为人民币31亿元",
+          "url": "https://wallstreetcn.com/livenews/3109349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "宝鼎科技：公司无AI覆铜板，未发现在AI服务器及算力领域的应用",
+          "url": "https://wallstreetcn.com/livenews/3109471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "京东AI静音口罩工位k歌神器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         }
       ]
     },
@@ -330,9 +411,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 21时58分]"
         },
         {
           "title": "如何看待 DeepSeek 连续多次降价？",
@@ -395,7 +476,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -412,7 +493,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
