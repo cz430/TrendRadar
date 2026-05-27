@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T18:05:03.766971+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-05-27T22:32:05.089243+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -14,11 +14,25 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时24分 ~ 18时05分]"
+          "appearance_count": 8,
+          "time_info": "[06时24分 ~ 22时32分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 22时32分]"
         },
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -31,19 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 08时14分]"
-        },
-        {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 18时05分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -62,11 +63,34 @@
           "source": "贴吧",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 22时32分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "野村上调日本东证指数和日经指数目标位，看好业绩和AI板块增长",
@@ -104,6 +128,18 @@
           "time_info": "08时14分"
         },
         {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 22时32分]"
+        },
+        {
           "title": "一人之下被指用AI作画",
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
@@ -126,17 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时14分 ~ 13时22分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "多家AI回应高考期间是否禁用解题",
@@ -211,7 +236,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -233,7 +258,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -244,9 +269,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "大语言模型成本六个月内翻番 或威胁AI看涨逻辑",
+          "url": "https://wallstreetcn.com/livenews/3110122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "交易员寻猎AI赢家，目光投向日本调味品巨头",
@@ -266,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -288,7 +324,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -296,8 +332,19 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "多地取消执行 40 多年的固定分时电价，将有哪些变化？对电力市场和居民日常用电有哪些影响？",
+          "url": "https://www.zhihu.com/question/2042878236959536823",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 22时32分]"
+        },
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
           "url": "https://www.cls.cn/detail/2382303",
@@ -311,15 +358,15 @@
           "time_info": "[08时14分 ~ 13时22分]"
         },
         {
-          "title": "多地取消执行 40 多年的固定分时电价，将有哪些变化？对电力市场和居民日常用电有哪些影响？",
-          "url": "https://www.zhihu.com/question/2042878236959536823",
+          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2042900633947038528",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "芯片业又迎利好！三星薪资协议获批 存储员工坐等270万元巨奖",
@@ -334,13 +381,24 @@
           "time_info": "[13时21分 ~ 18时05分]"
         },
         {
+          "title": "【焦点复盘】科创50冲高回落跌2.8%，机器人概念遭重挫，夏季用电高峰引爆电力股",
+          "url": "https://www.cls.cn/detail/2383049",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
           "title": "腾讯：沧海V2芯片将于下半年量产",
           "url": "https://flash.jin10.com/detail/20260527173422322800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -351,7 +409,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -362,7 +420,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -393,6 +451,18 @@
           "time_info": "[04时16分 ~ 08时14分]"
         },
         {
+          "title": "极客湾与神秘芯片切割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354621&amp;topic_name=%E6%9E%81%E5%AE%A2%E6%B9%BE%E4%B8%8E%E7%A5%9E%E7%A7%98%E8%8A%AF%E7%89%87%E5%88%87%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时04分 ~ 22时32分]"
+        },
+        {
           "title": "没有高端光刻机中国芯片怎么突围",
           "url": "https://www.toutiao.com/trending/7644155934092037658/",
           "source": "今日头条",
@@ -404,17 +474,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 06时24分]"
-        },
-        {
-          "title": "极客湾与神秘芯片切割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354621&amp;topic_name=%E6%9E%81%E5%AE%A2%E6%B9%BE%E4%B8%8E%E7%A5%9E%E7%A7%98%E8%8A%AF%E7%89%87%E5%88%87%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "日韩股市共创新高！芯片股集体“暴走” SK海力士突破万亿美元市值",
@@ -445,7 +504,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -478,7 +537,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -574,8 +633,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时05分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 22时32分]"
         },
         {
           "title": "武契奇说买不起小米汽车 雷军回应",
@@ -751,7 +810,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -784,7 +843,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
@@ -792,7 +851,7 @@
     },
     {
       "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "每天限驾8小时涉及网约车出租车吗",
@@ -804,6 +863,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "每天限驾8小时涉及网约车、出租车吗？疲劳驾驶认定“三问三答”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244504",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "滴滴出行致歉，回应系统异常",
