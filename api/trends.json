@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T00:47:57.232803+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T03:35:25.375634+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
@@ -26,19 +26,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
+        },
+        {
+          "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33260666",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -48,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -59,19 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33260666",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -81,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -92,75 +94,37 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
-          "url": "https://www.zhihu.com/question/2043515093007303790",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "OpenAI确认推出Rosalind BioDefense Program。",
-          "url": "https://wallstreetcn.com/livenews/3111534",
+          "title": "美联储戴利：利用AI获得持续生产率增长的障碍很大程度上在于监管方面。 看到AI为生产率增长带来的绿色萌芽（积极迹象）。 未看到AI造成美国大规模失业或劳动力流离失所。",
+          "url": "https://wallstreetcn.com/livenews/3111573",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "03时35分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
@@ -178,11 +142,12 @@
           "url": "https://wallstreetcn.com/articles/3773412",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -192,15 +157,89 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "史上首款2nm芯片性能分析",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
+        },
+        {
+          "title": "段永平向江西安福捐赠1万股贵州茅台股票：股票作为本金长期锁定，以分红、股息等作为可支出资金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33262679",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "贝莱德削减模型投资组合的股票持仓，对股市超额回报持谨慎看法",
+          "url": "https://wallstreetcn.com/livenews/3111579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
+        },
+        {
+          "title": "OpenAI确认推出Rosalind BioDefense Program。",
+          "url": "https://wallstreetcn.com/livenews/3111534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -220,19 +259,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         },
         {
           "title": "乘客车内排泄司机花1000元换座椅？滴滴出行回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33264407",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 03时35分]"
         }
       ]
     },
