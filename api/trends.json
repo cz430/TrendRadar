@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T16:46:10.926748+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-05-29T20:21:49.355650+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI会带来怎样的社会变革",
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时21分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -154,6 +154,29 @@
           "time_info": "[00时57分 ~ 07时38分]"
         },
         {
+          "title": "我写的论文怎么成AI写的了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%99%E7%9A%84%E8%AE%BA%E6%96%87%E6%80%8E%E4%B9%88%E6%88%90AI%E5%86%99%E7%9A%84%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时21分]"
+        },
+        {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
           "source": "澎湃新闻",
@@ -177,6 +200,18 @@
           "time_info": "03时41分"
         },
         {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时21分]"
+        },
+        {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
           "source": "澎湃新闻",
@@ -187,6 +222,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 06时01分]"
+        },
+        {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
         },
         {
           "title": "广东90后女生用AI接了400万大单",
@@ -201,29 +248,6 @@
           "time_info": "[00时57分 ~ 06时01分]"
         },
         {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时46分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时46分]"
-        },
-        {
           "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
           "url": "https://www.cls.cn/detail/2384829",
           "source": "财联社热门",
@@ -234,6 +258,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 16时46分]"
+        },
+        {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
         },
         {
           "title": "92岁老艺术家手搓AI写了封情书",
@@ -270,28 +306,6 @@
           "time_info": "[16时45分 ~ 16时46分]"
         },
         {
-          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
-          "url": "https://www.cls.cn/detail/2385245",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "AI眼镜的“iPhone时刻”快来了吗",
-          "url": "https://www.cls.cn/detail/2385164",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
           "title": "AI算力需求增加，多家公司加速布局高端电子电路铜箔领域",
           "url": "https://wallstreetcn.com/livenews/3110977",
           "source": "华尔街见闻-快讯",
@@ -301,6 +315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "广东夏季高考用AI批卷系不实传言",
+          "url": "https://www.toutiao.com/trending/7644786880849182729/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
@@ -320,9 +356,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "在戴尔上调本财年利润和营收预期后，AI服务器制造商相关股在盘前大涨，惠普(HPQ.N)上涨23.5%，超微电脑(SMCI.O)上涨10.6%，IBM上涨5%。",
@@ -331,7 +378,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -342,7 +389,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -356,6 +403,287 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "字节跳动AI4S团队调整，由杨震原负责管理",
+          "url": "https://wallstreetcn.com/livenews/3111381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
+          "url": "https://www.cls.cn/detail/2384655",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 12时10分]"
+        },
+        {
+          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时38分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.toutiao.com/trending/7644918296260677126/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 07时38分]"
+        },
+        {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时21分]"
+        },
+        {
+          "title": "比亚迪发布中国首款4nm智驾芯片",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 07时38分]"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 20时21分]"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://www.cls.cn/detail/2384059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 06时01分]"
+        },
+        {
+          "title": "中国自研高算力芯片突破4纳米",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94%E9%AB%98%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%AA%81%E7%A0%B44%E7%BA%B3%E7%B1%B3%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时57分 ~ 06时01分]"
+        },
+        {
+          "title": "史上首款2nm芯片性能分析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
+        },
+        {
+          "title": "评论员：国产芯片开启全面突围时代",
+          "url": "https://www.toutiao.com/trending/7644908481174048262/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 03时41分]"
+        },
+        {
+          "title": "中国芯片又传来好消息",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8F%88%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 16时46分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
+          "url": "https://www.cls.cn/detail/2385444",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "全球芯片LOF：本基金将于2026年5月29日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260529115152796800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "三星电子：已开始向主要全球客户发运12层HBM4E芯片样品。",
+          "url": "https://flash.jin10.com/detail/20260529070228916800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "台积电高管：能源效率正成为最重要的芯片设计考虑因素。",
+          "url": "https://flash.jin10.com/detail/20260529001434738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "韩国人沉迷炒股 股票窗口伪装办公",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%B2%89%E8%BF%B7%E7%82%92%E8%82%A1+%E8%82%A1%E7%A5%A8%E7%AA%97%E5%8F%A3%E4%BC%AA%E8%A3%85%E5%8A%9E%E5%85%AC",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "芯片股集体暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "市场监管总局批准发布血管芯片国家标准",
+          "url": "https://wallstreetcn.com/livenews/3111093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
+          "url": "https://wallstreetcn.com/livenews/3111248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "CBOE将启动部分单只股票期权的延长交易时段",
+          "url": "https://flash.jin10.com/detail/20260529022731174800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "欧盟：需要1200亿欧元来重振本土芯片生产",
+          "url": "https://wallstreetcn.com/livenews/3110877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "【深圳电网电力负荷超过历史最高值，本次负荷创新高较去年提前40天】从深圳供电局了解到，2026年5月28日13时45分，深圳电网电力负荷超过历史最高值，达2424.18万千瓦，较去年最高负荷（2401.12万千瓦）增加23万千瓦，增幅1%。本次负荷创新高较去年提前40天。 当日（5月28日）用电负荷持续攀升，17时10分，深圳电网电力负荷再次创历史新高，达2430.19万千瓦，较去年最高负荷（2401.12万千瓦）增加29万千瓦，增幅1.21%。 据电力部门预测，今年深圳电网最高负荷或将达2620万千瓦，较去年最高负荷增长9.1%。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3110876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "上交所：本周对301起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中韩半导体ETF、全球芯片LOF等溢价较高的基金，*ST春天、泰金新能等严重异常波动股票、*ST正平等异常波动退市风险警示股票以及退市观典进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3111378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -380,11 +708,12 @@
           "url": "https://www.zhihu.com/question/2043515093007303790",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
         },
         {
           "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
@@ -433,6 +762,17 @@
           "time_info": "[12时09分 ~ 16时46分]"
         },
         {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
+        },
+        {
           "title": "如何看待微软取消了 Claude Code 订阅？",
           "url": "https://www.zhihu.com/question/2042203258689672770",
           "source": "知乎",
@@ -442,6 +782,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 06时01分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
         },
         {
           "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
@@ -455,33 +806,11 @@
           "time_info": "[12时09分 ~ 12时10分]"
         },
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
           "title": "从“卖卡”到“卖Token”：AI算力市场重构与国产芯片的窗口期|深度",
           "url": "https://www.cls.cn/detail/2384876",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
-          "url": "https://www.zhihu.com/question/2042260682780009473",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -527,7 +856,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -600,232 +929,8 @@
       ]
     },
     {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
-          "url": "https://www.cls.cn/detail/2384655",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 12时10分]"
-        },
-        {
-          "title": "何庭波三分钟详解华为韬（τ）定律：芯片发展有了加速度，未来10年我们不会越来越远，只会越来越好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33249817",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时38分]"
-        },
-        {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时46分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.toutiao.com/trending/7644918296260677126/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 07时38分]"
-        },
-        {
-          "title": "比亚迪发布中国首款4nm智驾芯片",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%BE4nm%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 07时38分]"
-        },
-        {
-          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
-          "url": "https://www.cls.cn/detail/2384059",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时01分]"
-        },
-        {
-          "title": "中国自研高算力芯片突破4纳米",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%87%AA%E7%A0%94%E9%AB%98%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%AA%81%E7%A0%B44%E7%BA%B3%E7%B1%B3%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时01分]"
-        },
-        {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 16时46分]"
-        },
-        {
-          "title": "评论员：国产芯片开启全面突围时代",
-          "url": "https://www.toutiao.com/trending/7644908481174048262/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 03时41分]"
-        },
-        {
-          "title": "史上首款2nm芯片性能分析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "中国芯片又传来好消息",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8F%88%E4%BC%A0%E6%9D%A5%E5%A5%BD%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
-        },
-        {
-          "title": "全球芯片LOF：本基金将于2026年5月29日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260529115152796800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "三星电子：已开始向主要全球客户发运12层HBM4E芯片样品。",
-          "url": "https://flash.jin10.com/detail/20260529070228916800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "台积电高管：能源效率正成为最重要的芯片设计考虑因素。",
-          "url": "https://flash.jin10.com/detail/20260529001434738800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "市场监管总局批准发布血管芯片国家标准",
-          "url": "https://wallstreetcn.com/livenews/3111093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
-          "title": "广州“十五五”规划纲要：重点突破国产化人工智能算力芯片适配、异构算力动态调度技术",
-          "url": "https://wallstreetcn.com/livenews/3111248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "CBOE将启动部分单只股票期权的延长交易时段",
-          "url": "https://flash.jin10.com/detail/20260529022731174800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "欧盟：需要1200亿欧元来重振本土芯片生产",
-          "url": "https://wallstreetcn.com/livenews/3110877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "【深圳电网电力负荷超过历史最高值，本次负荷创新高较去年提前40天】从深圳供电局了解到，2026年5月28日13时45分，深圳电网电力负荷超过历史最高值，达2424.18万千瓦，较去年最高负荷（2401.12万千瓦）增加23万千瓦，增幅1%。本次负荷创新高较去年提前40天。 当日（5月28日）用电负荷持续攀升，17时10分，深圳电网电力负荷再次创历史新高，达2430.19万千瓦，较去年最高负荷（2401.12万千瓦）增加29万千瓦，增幅1.21%。 据电力部门预测，今年深圳电网最高负荷或将达2620万千瓦，较去年最高负荷增长9.1%。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3110876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美无人机用星链太多，马斯克要多收钱",
@@ -843,11 +948,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E8%A2%AB%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%9D%8E%E6%96%8C%E9%AA%97%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 16时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 20时21分]"
+        },
+        {
+          "title": "雷军称被何小鹏李斌骗了",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E8%A2%AB%E4%BD%95%E5%B0%8F%E9%B9%8F%E6%9D%8E%E6%96%8C%E9%AA%97%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "马斯克回应蓝色起源火箭爆炸：希望其尽快恢复",
@@ -875,8 +992,19 @@
     },
     {
       "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "乘客坐网约车在车内排泄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354702&amp;topic_name=%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9C%A8%E8%BD%A6%E5%86%85%E6%8E%92%E6%B3%84",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
         {
           "title": "乘客在网约车内排泄 司机崩溃",
           "url": "https://www.toutiao.com/trending/7644794692186505235/",
