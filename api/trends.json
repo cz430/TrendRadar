@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T11:56:24.708214+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-30T14:52:32.170340+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 11时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 14时52分]"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
@@ -167,9 +167,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
+          "url": "https://wallstreetcn.com/articles/3773430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "国家制造强国建设战略咨询委员会副主任苏波：要深度把握AI与先进制造的融合趋势，完善顶层设计",
@@ -178,9 +189,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "AI时代选专业必看",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E9%80%89%E4%B8%93%E4%B8%9A%E5%BF%85%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "美联储戴利：利用AI获得持续生产率增长的障碍很大程度上在于监管方面。 看到AI为生产率增长带来的绿色萌芽（积极迹象）。 未看到AI造成美国大规模失业或劳动力流离失所。",
@@ -197,7 +219,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "创业板跌超2%，科创50重挫逾5%，电力、消费拉升，芯片半导体集体下挫，恒指涨近1%，联想集团再涨超20%",
@@ -210,8 +232,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 11时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 14时52分]"
+        },
+        {
+          "title": "史上首款2nm芯片性能分析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 14时52分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -223,19 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 07时20分]"
-        },
-        {
-          "title": "史上首款2nm芯片性能分析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE2nm%E8%8A%AF%E7%89%87%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 11时56分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -261,6 +284,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "印度证交所：8月3日起股票衍生品收盘时间延后10分钟",
+          "url": "https://wallstreetcn.com/livenews/3111744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "段永平向江西安福捐赠1万股贵州茅台股票：股票作为本金长期锁定，以分红、股息等作为可支出资金",
           "url": "https://m.thepaper.cn/newsDetail_forward_33262679",
           "source": "澎湃新闻",
@@ -278,11 +312,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 14时52分]"
         },
         {
           "title": "MSCI发展中国家（新兴市场）股票指数涨1.6%，创历史新高，5月份累计上涨9.5%。 MSCI新兴市场外汇指数涨0.2%，连续八个交易日走高、创2024年7月份以来最长连涨天数。",
@@ -332,6 +367,17 @@
           "time_info": "[05时57分 ~ 07时20分]"
         },
         {
+          "title": "4月份我国核发绿色电力证书2.37亿个",
+          "url": "https://flash.jin10.com/detail/20260530122322086800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "贝莱德削减模型投资组合的股票持仓，对股市超额回报持谨慎看法",
           "url": "https://wallstreetcn.com/livenews/3111579",
           "source": "华尔街见闻-快讯",
@@ -357,7 +403,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
@@ -396,6 +442,18 @@
           "time_info": "[00时47分 ~ 07时20分]"
         },
         {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时52分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
           "url": "https://flash.jin10.com/detail/20260530034751105800",
           "source": "金十数据",
@@ -419,15 +477,15 @@
           "time_info": "[05时57分 ~ 07时20分]"
         },
         {
-          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
-          "url": "https://www.cls.cn/detail/2386025",
-          "source": "财联社热门",
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "14时52分"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
@@ -443,6 +501,50 @@
       ]
     },
     {
+      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "乘客坐网约车在车内排泄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354702&amp;topic_name=%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9C%A8%E8%BD%A6%E5%86%85%E6%8E%92%E6%B3%84",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 14时52分]"
+        },
+        {
+          "title": "乘客车内排泄司机花1000元换座椅？滴滴出行回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33264407",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 14时52分]"
+        },
+        {
+          "title": "深圳网约车市场已饱和，官方发布风险提示",
+          "url": "https://wallstreetcn.com/livenews/3111729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
       "match_count": 3,
       "titles": [
@@ -451,11 +553,12 @@
           "url": "https://www.zhihu.com/question/2043773481611786018",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时52分]"
         },
         {
           "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
@@ -464,9 +567,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 14时52分]"
         },
         {
           "title": "雷军称被何小鹏李斌骗了",
@@ -478,38 +581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "乘客坐网约车在车内排泄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354702&amp;topic_name=%E4%B9%98%E5%AE%A2%E5%9D%90%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%9C%A8%E8%BD%A6%E5%86%85%E6%8E%92%E6%B3%84",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 11时56分]"
-        },
-        {
-          "title": "乘客车内排泄司机花1000元换座椅？滴滴出行回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33264407",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 11时56分]"
         }
       ]
     }
