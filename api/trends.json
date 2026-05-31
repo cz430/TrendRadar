@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T16:18:55.881264+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-05-31T19:03:34.662957+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 19时03分]"
         },
         {
           "title": "英伟达、微软一同发布神秘预告 传闻中的PC芯片下周亮相？",
@@ -31,13 +31,24 @@
           "time_info": "[01时15分 ~ 16时18分]"
         },
         {
+          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代Windows入口",
+          "url": "https://wallstreetcn.com/articles/3773517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了",
           "url": "https://wallstreetcn.com/articles/3773517",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -59,11 +70,12 @@
           "url": "https://wallstreetcn.com/livenews/3111883",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 19时03分]"
         },
         {
           "title": "报道：首款搭载英伟达芯片的Windows PC将于下周亮相",
@@ -87,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 19时03分]"
         },
         {
           "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
@@ -99,8 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 19时03分]"
         },
         {
           "title": "百诚医药：终止筹划控制权变更事项 股票复牌",
@@ -109,7 +121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -120,15 +132,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "亿晶光电：预重整方案实施出资人权益调整 转增股票用于偿债等",
+          "url": "https://flash.jin10.com/detail/20260531172845096800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -138,8 +161,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 19时03分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -156,6 +179,18 @@
           "time_info": "[01时15分 ~ 16时18分]"
         },
         {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 19时03分]"
+        },
+        {
           "title": "官方出手,AI吸附遭刑事打击",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "贴吧",
@@ -168,15 +203,15 @@
           "time_info": "[01时15分 ~ 12时21分]"
         },
         {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
+          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
+          "url": "https://wallstreetcn.com/articles/3773499",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "19时03分"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -216,12 +251,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 16时18分]"
+        },
+        {
+          "title": "方正证券：AI主线继续演绎，同时兼顾HALO资产左侧的布局机会",
+          "url": "https://flash.jin10.com/detail/20260531180851720800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         }
       ]
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -232,8 +289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 19时03分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -246,6 +303,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时04分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
+          "url": "https://www.zhihu.com/question/2043802300246915002",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -289,11 +357,12 @@
           "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 19时03分]"
         }
       ]
     },
@@ -308,11 +377,12 @@
           "ranks": [
             11,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 16时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 19时03分]"
         },
         {
           "title": "深圳：网约车市场已饱和",
@@ -327,6 +397,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时04分]"
+        },
+        {
+          "title": "深圳网约车市场已饱和，官方发布风险提示",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33274917",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 19时03分]"
         },
         {
           "title": "深圳网约车市场已饱和，官方发布风险提示",
@@ -350,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "深圳网约车市场已饱和，官方发布风险提示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33274917",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         }
       ]
     },
