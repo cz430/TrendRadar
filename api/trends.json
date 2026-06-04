@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T03:26:50.775215+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-05T05:47:03.370761+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -16,19 +16,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3773812",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
@@ -48,11 +49,73 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
+        },
+        {
+          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
+          "url": "https://wallstreetcn.com/articles/3773793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
+        },
+        {
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时47分]"
+        },
+        {
+          "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
+          "url": "https://www.zhihu.com/question/13090511317",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时47分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -66,39 +129,15 @@
           "time_info": "[00时23分 ~ 03时26分]"
         },
         {
-          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
-          "url": "https://wallstreetcn.com/articles/3773793",
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
-        },
-        {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "time_info": "[05时46分 ~ 05时47分]"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
@@ -110,28 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
-          "url": "https://www.zhihu.com/question/13090511317",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "好怕现实中也有人长AI这样",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         },
         {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
@@ -151,7 +168,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -159,7 +176,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -169,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "据英国金融时报：美国国家安全局正利用Anthropic的“Mythos”模型实施网络攻击。",
@@ -179,7 +196,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         },
@@ -190,9 +207,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "Anthropic呼吁全球暂缓前沿AI研发",
+          "url": "https://flash.jin10.com/detail/20260605050144173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "Anthropic呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/livenews/3114639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
+          "url": "https://flash.jin10.com/detail/20260605044355670800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "谷歌计划投放3200万只蚊子",
@@ -219,8 +269,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "博通重挫引芯片板块抛售 纳指期货盘前跌超1% | 今夜看点",
@@ -231,8 +281,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "【每日收评】三大指数缩量整理全线收跌，全市场超4100股飘绿，半导体芯片逆势活跃",
@@ -243,8 +293,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         },
         {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
@@ -253,7 +303,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
         }
@@ -271,8 +321,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 03时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 05时47分]"
         }
       ]
     }
