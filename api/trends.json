@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T02:09:35.385700+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-08T04:18:13.118754+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "AI炒完芯片后，下一轮被抢的会是谁？",
@@ -76,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -90,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -102,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -128,11 +130,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "冲刺IPO！本源量子完成30亿元融资",
@@ -140,11 +143,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 04时18分]"
         },
         {
           "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
@@ -171,8 +175,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时18分]"
         }
       ]
     }
