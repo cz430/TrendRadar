@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T05:55:05.344990+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-06-09T07:16:48.180221+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
@@ -48,9 +48,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
+          "url": "https://www.cls.cn/detail/2393706",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 07时16分]"
         },
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -64,15 +76,28 @@
           "time_info": "[00时04分 ~ 05时55分]"
         },
         {
-          "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
-          "url": "https://www.cls.cn/detail/2393706",
-          "source": "财联社热门",
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时55分]"
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时16分]"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时55分 ~ 07时16分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果的私有云将使用三款由苹果自主研发的AI模型，这些模型是基于其与谷歌的合作开发的。",
@@ -86,17 +111,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "OpenAI自曝已秘密提交IPO申请",
-          "url": "https://flash.jin10.com/detail/20260609052258365800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
           "title": "苹果软件主管克雷格·费德里吉：（谈苹果全新智能功能）我们的系统并非基于谷歌搜索。",
           "url": "https://flash.jin10.com/detail/20260609031355429800",
           "source": "金十数据",
@@ -108,24 +122,13 @@
           "time_info": "03时25分"
         },
         {
-          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
-          "url": "https://flash.jin10.com/detail/20260609051732279800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
           "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
           "url": "https://flash.jin10.com/detail/20260609051727017800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -136,7 +139,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -147,7 +150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -158,7 +161,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -174,6 +177,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "谷歌A跌幅收窄至不足1%，此前一度跌2.2%。",
           "url": "https://wallstreetcn.com/livenews/3116299",
           "source": "华尔街见闻-快讯",
@@ -185,13 +199,24 @@
           "time_info": "03时25分"
         },
         {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
           "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -199,7 +224,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
@@ -210,19 +235,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
           "url": "https://wallstreetcn.com/articles/3774087",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -245,20 +271,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
-        },
-        {
-          "title": "Siri AI",
-          "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
           "title": "当我把今年高考语文作文题喂给AI",
@@ -267,11 +281,12 @@
           "ranks": [
             14,
             12,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
           "title": "日韩股市突然暴跌 AI泡沫要破了吗",
@@ -279,22 +294,71 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://flash.jin10.com/detail/20260609064804765800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "Siri AI",
+          "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 07时16分]"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://wallstreetcn.com/livenews/3116381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
           "url": "https://www.zhihu.com/question/2043797160312010091",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时16分]"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
+          "url": "https://wallstreetcn.com/livenews/3116349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时54分 ~ 05时55分]"
+          "time_info": "[05时55分 ~ 07时16分]"
         },
         {
           "title": "报告称全球60%流量来自AI和机器人",
@@ -306,17 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时54分 ~ 05时55分]"
-        },
-        {
-          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
-          "url": "https://wallstreetcn.com/livenews/3116349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
         },
         {
           "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
@@ -377,7 +430,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
@@ -388,8 +441,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
+        },
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
+          "url": "https://www.cls.cn/detail/2394108",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
           "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
@@ -400,20 +477,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         },
         {
-          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
-          "url": "https://www.cls.cn/detail/2394108",
+          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
+          "url": "https://www.cls.cn/detail/2394207",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
@@ -425,6 +501,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 03时25分]"
+        },
+        {
+          "title": "从电力管家到散热高手，碳化硅全产业链供需两旺",
+          "url": "https://wallstreetcn.com/livenews/3116370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -440,8 +527,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时16分]"
         }
       ]
     }
