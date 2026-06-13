@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:21:02.127323+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-06-13T22:12:25.754110+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
@@ -31,8 +31,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 22时12分]"
+        },
+        {
+          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 22时12分]"
         },
         {
           "title": "雷军回应装600斤车厘子被指违规",
@@ -57,6 +71,19 @@
           "time_info": "00时26分"
         },
         {
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时12分]"
+        },
+        {
           "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3118990",
           "source": "华尔街见闻-快讯",
@@ -79,53 +106,54 @@
           "time_info": "00时26分"
         },
         {
-          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
-          "url": "https://wallstreetcn.com/livenews/3119142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 19时21分]"
-        },
-        {
           "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
           "source": "澎湃新闻",
           "ranks": [
             13,
             14,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 22时12分]"
         },
         {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
+          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
+          "url": "https://wallstreetcn.com/livenews/3119142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 22时12分]"
+        },
+        {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时21分]"
+          "time_info": "[19时20分 ~ 22时12分]"
+        },
+        {
+          "title": "马斯克成史上首位万亿美元富豪！SpaceX上市首日涨19%，市值2.1万亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372407",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 22时12分]"
         },
         {
           "title": "马斯克成全球首位万亿富翁",
@@ -138,17 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 07时24分]"
-        },
-        {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
@@ -196,17 +213,6 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "马斯克成史上首位万亿美元富豪！SpaceX上市首日涨19%，市值2.1万亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372407",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
           "title": "雷军回应用私家车装600斤车厘子",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E7%94%A8%E7%A7%81%E5%AE%B6%E8%BD%A6%E8%A3%85600%E6%96%A4%E8%BD%A6%E5%8E%98%E5%AD%90",
           "source": "百度热搜",
@@ -216,6 +222,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
+          "url": "https://wallstreetcn.com/articles/3774560",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "雷军回应装600斤车厘子被指违规",
@@ -235,7 +263,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -271,12 +299,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "雷军测试直播计划7小时实际5小时",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%B5%8B%E8%AF%95%E7%9B%B4%E6%92%AD%E8%AE%A1%E5%88%927%E5%B0%8F%E6%97%B6%E5%AE%9E%E9%99%855%E5%B0%8F%E6%97%B6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -286,8 +325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时12分]"
         },
         {
           "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
@@ -299,8 +338,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 22时12分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -431,13 +470,24 @@
           "time_info": "[12时18分 ~ 16时26分]"
         },
         {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "粤港澳大湾区枢纽公共算力服务平台Token工厂在韶关正式点亮",
           "url": "https://wallstreetcn.com/livenews/3119135",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -475,6 +525,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33373715",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "Anthropic：目前还没有测试人员能够找到一种通用的越狱方法。",
           "url": "https://flash.jin10.com/detail/20260613085714642800",
           "source": "金十数据",
@@ -484,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "Anthropic禁止非美用户使用模型",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E7%A6%81%E6%AD%A2%E9%9D%9E%E7%BE%8E%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%A8%A1%E5%9E%8B&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "Anthropic：不同意存在某个潜在越狱漏洞，就应成为召回已部署给数亿用户的商业模型的原因。",
@@ -533,7 +605,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -544,8 +616,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 22时12分]"
         },
         {
           "title": "特朗普扮忍者AI视频引日本不满",
@@ -674,6 +746,28 @@
           "time_info": "00时26分"
         },
         {
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2048803279166088696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "九鹭非香把七时吉祥重新做成AI剧了",
           "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -710,7 +804,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "SK海力士、三星、台积电同时被限！华尔街大行限制对冲基金对亚洲芯片股的杠杆押注",
@@ -724,6 +818,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 12时18分]"
+        },
+        {
+          "title": "国际原子能机构（IAEA）：扎波罗热核电站今天在IAEA促成的局部停火保护下，成功修复备用电力线路后重新接入电网。",
+          "url": "https://flash.jin10.com/detail/20260613213604357800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
@@ -802,7 +907,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
