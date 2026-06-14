@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-06-14T08:15:02.583122+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-06-14T13:56:16.089751+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
+        },
         {
           "title": "上线仅四日就遭下架，Fable 5和Mythos 5被美政府列出口管制，Anthropic服从但不认同",
           "url": "https://wallstreetcn.com/articles/3774567",
@@ -34,30 +50,27 @@
           "time_info": "[00时19分 ~ 08时15分]"
         },
         {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
-        },
-        {
           "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33373715",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "如何评价 Claude Fable 5 全球暂停访问？",
@@ -69,6 +82,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 00时20分]"
+        },
+        {
+          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
+          "url": "https://wallstreetcn.com/articles/3774595",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 13时56分]"
+        },
+        {
+          "title": "谁降价谁更弱势！摩根大通：智谱和Minimax做了同样的实验，但结果相反",
+          "url": "https://wallstreetcn.com/articles/3774596",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 13时56分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -83,26 +120,26 @@
           "time_info": "[02时13分 ~ 04时21分]"
         },
         {
-          "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
-          "url": "https://wallstreetcn.com/articles/3774595",
+          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
+          "url": "https://wallstreetcn.com/articles/3774600",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
-          "title": "谁降价谁更弱势！摩根大通：智谱和Minimax做了同样的实验，但结果相反",
-          "url": "https://wallstreetcn.com/articles/3774596",
+          "title": "“机器人伴侣”来了！10天已预售3800台，男款身着修身西装，女款可上妆，搭载“养成系”情感大模型，仅限成人购买！",
+          "url": "https://wallstreetcn.com/articles/3774586",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -142,18 +179,19 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -166,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -180,8 +218,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -193,6 +231,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 08时15分]"
+        },
+        {
+          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
+          "url": "https://wallstreetcn.com/articles/3774579",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 13时56分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -207,15 +257,15 @@
           "time_info": "[02时13分 ~ 06时10分]"
         },
         {
-          "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
-          "url": "https://wallstreetcn.com/articles/3774579",
-          "source": "华尔街见闻",
+          "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
+          "url": "https://www.zhihu.com/question/2037135692707390495",
+          "source": "知乎",
           "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "time_info": "[13时55分 ~ 13时56分]"
         },
         {
           "title": "这才是AI发展真正的意义",
@@ -247,17 +297,31 @@
           "time_info": "[00时19分 ~ 08时15分]"
         },
         {
+          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
+        },
+        {
           "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
           "url": "https://www.cls.cn/detail/2398924",
           "source": "财联社热门",
           "ranks": [
             5,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时56分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
@@ -268,18 +332,6 @@
             8,
             6,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时15分]"
-        },
-        {
-          "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 8,
