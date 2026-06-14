@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T20:02:55.263274+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-06-14T23:10:21.490726+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "time_info": "[00时19分 ~ 08时15分]"
         },
         {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 23时10分]"
+        },
+        {
           "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33373715",
           "source": "澎湃新闻",
@@ -60,17 +72,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 13时56分]"
-        },
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 20时02分]"
         },
         {
           "title": "谁降价谁更弱势！摩根大通：智谱和Minimax做了同样的实验，但结果相反",
@@ -84,6 +85,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时14分 ~ 20时02分]"
+        },
+        {
+          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
+          "url": "https://wallstreetcn.com/articles/3774600",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 23时10分]"
         },
         {
           "title": "亚马逊之后，Meta也限制AI使用量了！当大厂都用不起Token，大模型巨头该“控制利润率”了？",
@@ -109,19 +124,6 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
-          "url": "https://wallstreetcn.com/articles/3774600",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 20时02分]"
-        },
-        {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
           "url": "https://flash.jin10.com/detail/20260614010232105800",
           "source": "金十数据",
@@ -143,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时10分]"
         },
         {
           "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
@@ -167,17 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时45分 ~ 20时02分]"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
         },
         {
           "title": "Anthropic最强模型被禁后，智谱宣布GLM5.2全量开放",
@@ -216,7 +218,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -226,11 +228,12 @@
             3,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 20时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 23时10分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -241,11 +244,12 @@
             8,
             7,
             6,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 20时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 23时10分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -258,8 +262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 20时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 23时10分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -281,8 +285,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 23时10分]"
         },
         {
           "title": "AI版次贷危机的味道？1.8万亿美元表外敞口，正成为这轮狂欢的定时炸弹",
@@ -309,6 +313,29 @@
           "time_info": "[02时13分 ~ 06时10分]"
         },
         {
+          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
+          "url": "https://wallstreetcn.com/articles/3774608",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时10分]"
+        },
+        {
+          "title": "蚂蚁集团正秘密测试AI版支付宝",
+          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 23时10分]"
+        },
+        {
           "title": "作为老师，你见过最明显的 AI 作业是什么？你怎么看待当下学生用 AI 写论文这件事？",
           "url": "https://www.zhihu.com/question/2037135692707390495",
           "source": "知乎",
@@ -331,15 +358,15 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
+          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
+          "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "23时10分"
         },
         {
           "title": "美禁止外国主体使用安特罗匹克最新AI模型",
@@ -348,7 +375,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -386,21 +413,21 @@
           "time_info": "17时45分"
         },
         {
-          "title": "蚂蚁集团正秘密测试AI版支付宝",
-          "url": "https://www.baidu.com/s?wd=%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%AD%A3%E7%A7%98%E5%AF%86%E6%B5%8B%E8%AF%95AI%E7%89%88%E6%94%AF%E4%BB%98%E5%AE%9D",
-          "source": "百度热搜",
+          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "23时10分"
         }
       ]
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
@@ -488,6 +515,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "雷军收到YU7车主送的蒜鸟玩偶",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E6%94%B6%E5%88%B0YU7%E8%BD%A6%E4%B8%BB%E9%80%81%E7%9A%84%E8%92%9C%E9%B8%9F%E7%8E%A9%E5%81%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "马斯克“锁死”SpaceX背后",
+          "url": "https://www.toutiao.com/trending/7651237008341208595/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     }
