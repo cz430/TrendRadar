@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T14:21:30.885415+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-06-17T19:55:14.255783+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "为什么DeepSeek是AI泡沫斩杀线",
@@ -51,11 +51,12 @@
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 19时55分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -70,6 +71,40 @@
           "time_info": "[03时49分 ~ 08时23分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 19时55分]"
+        },
+        {
+          "title": "当Fable 5全球下架，GLM 5.2逼近Opus 4.8“意义重大”",
+          "url": "https://wallstreetcn.com/articles/3774855",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "GLM-5.2 正式发布：开源之王来了，摸到了Opus-4.8",
+          "url": "https://wallstreetcn.com/articles/3774851",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
           "url": "https://www.zhihu.com/question/2042539496676352614",
           "source": "知乎",
@@ -80,17 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 06时19分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
@@ -121,7 +145,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -132,7 +156,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -198,7 +222,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -206,7 +230,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -252,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -295,6 +319,39 @@
           "time_info": "[00时02分 ~ 06时19分]"
         },
         {
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
           "url": "https://wallstreetcn.com/livenews/3120472",
           "source": "华尔街见闻-快讯",
@@ -323,7 +380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -359,13 +416,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "新加坡金融管理局行长谢啇真：全球股权投资估值高度依赖于AI 但相关营收回报不确定性强",
+          "url": "https://wallstreetcn.com/livenews/3120947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
+          "url": "https://wallstreetcn.com/articles/3774826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 19时55分]"
+        },
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
           "url": "https://www.cls.cn/detail/2401752",
@@ -413,26 +493,26 @@
           "time_info": "06时19分"
         },
         {
-          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
-          "url": "https://wallstreetcn.com/articles/3774826",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "市场“草木皆兵”：微软被曝终止与甲骨文30亿美元云基础设施谈判，加剧芯片股回调",
           "url": "https://wallstreetcn.com/articles/3774849",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "*ST新研：公司股票将于6月22日起撤销退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260617192755598800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
@@ -441,7 +521,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -455,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "诚邦股份：拟定增募资不超过1亿元，用于嵌入式存储芯片扩产项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3120967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "据日经新闻：日本政府计划在未来五年内派遣3万名青年研究人员赴海外进行中长期研究，希望他们能在人工智能和量子计算等领域积累顶级经验。",
@@ -477,6 +568,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
+        },
+        {
+          "title": "美国向SandboxAQ拨款5亿美元，用于寻找新的芯片制造材料",
+          "url": "https://flash.jin10.com/detail/20260617191402562800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "海兴电力：公司中标国家电网项目总金额约为3.12亿元",
+          "url": "https://flash.jin10.com/detail/20260617191024825800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "*ST星光：公司股票将于6月22日起撤销退市风险警示",
+          "url": "https://flash.jin10.com/detail/20260617190824891800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "首尾相差超过700个百分点，股票策略私募业绩大分化",
@@ -548,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
