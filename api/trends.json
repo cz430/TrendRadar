@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T17:01:33.068220+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-06-21T19:51:13.428445+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时39分 ~ 07时15分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时51分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -45,16 +57,16 @@
           "time_info": "[01时39分 ~ 07时15分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
+          "title": "数学博士生2年研究被AI抢发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            3
+            28,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时51分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -70,6 +82,17 @@
           "time_info": "[01时39分 ~ 07时15分]"
         },
         {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时51分]"
+        },
+        {
           "title": "AI短剧“买脸” 每张脸500元一年",
           "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
           "source": "百度热搜",
@@ -80,6 +103,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时39分 ~ 07时15分]"
+        },
+        {
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时51分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -95,59 +130,50 @@
           "time_info": "[03时45分 ~ 07时15分]"
         },
         {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 17时01分]"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
           "title": "父亲节用AI表达爱",
           "url": "https://www.douyin.com/hot/2542302",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
-          "title": "数学博士生2年研究被AI抢发",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时51分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
           "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 19时51分]"
+        },
+        {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
+        },
+        {
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
@@ -276,6 +302,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
+          "url": "https://wallstreetcn.com/articles/3775122",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时00分 ~ 19时51分]"
+        },
+        {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
@@ -285,17 +323,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时53分 ~ 17时01分]"
-        },
-        {
-          "title": "GPT-5.6或将下周问世：从“模型”迈向“可执行Agent”，定价或仅为竞品1/3",
-          "url": "https://wallstreetcn.com/articles/3775122",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -366,11 +393,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时51分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -421,7 +449,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "雷军回应吃早饭被小女孩吐槽",
@@ -433,6 +461,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "雷军回应被小学生吐槽",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -447,6 +486,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时39分 ~ 07时15分]"
+        },
+        {
+          "title": "刘震云雷军张蕾北京书展跨界对话",
+          "url": "https://www.douyin.com/hot/2542342",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 19时51分]"
         },
         {
           "title": "马斯克拿下7800亿元天价薪酬",
