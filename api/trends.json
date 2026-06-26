@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T08:15:52.469470+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-06-26T13:14:17.410134+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -31,6 +31,20 @@
           "time_info": "[01时16分 ~ 04时09分]"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 13时14分]"
+        },
+        {
           "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
           "url": "https://flash.jin10.com/detail/20260626034529365800",
           "source": "金十数据",
@@ -42,17 +56,17 @@
           "time_info": "04时09分"
         },
         {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            7,
-            9
+            12,
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 08时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 13时14分]"
         },
         {
           "title": "你对AI脸产生生理性厌恶了吗",
@@ -98,18 +112,6 @@
             13,
             11,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 08时15分]"
-        },
-        {
-          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -167,15 +169,48 @@
           "time_info": "[04时09分 ~ 06时24分]"
         },
         {
+          "title": "据传三星十年内拟投1000万亿韩元，韩国存储双雄或联手掀起AI基建浪潮",
+          "url": "https://flash.jin10.com/detail/20260626123316382800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "主流AI Coding开发鹅腿识别",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%BB%E6%B5%81AICoding%E5%BC%80%E5%8F%91%E9%B9%85%E8%85%BF%E8%AF%86%E5%88%AB",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "美国银行将2026年中国出口增长预测上调至15%，受AI领域推动。",
+          "url": "https://wallstreetcn.com/livenews/3125048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
@@ -231,12 +266,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "短剧霸总刚当上男主就被AI抢角色",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%88%9A%E5%BD%93%E4%B8%8A%E7%94%B7%E4%B8%BB%E5%B0%B1%E8%A2%ABAI%E6%8A%A2%E8%A7%92%E8%89%B2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -249,6 +295,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 06时24分]"
+        },
+        {
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时14分]"
+        },
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 13时14分]"
+        },
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 13时14分]"
         },
         {
           "title": "高通承认：受制于美国，要为中国定制芯片",
@@ -272,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
-          "url": "https://wallstreetcn.com/articles/3775470",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
         },
         {
           "title": "全球咨询公司ICF International：美国电网正以惊人的速度扩张，到2030年，其新增规模可能相当于该国目前最大的区域电力系统。",
@@ -309,30 +383,26 @@
           "time_info": "[01时16分 ~ 08时15分]"
         },
         {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
-          "source": "华尔街见闻",
+          "title": "中国电力凭什么是“全球唯一”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B%E5%87%AD%E4%BB%80%E4%B9%88%E6%98%AF%E2%80%9C%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8,
-            7,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 08时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
+          "title": "国际原子能机构：扎波罗热核电站关键电力线路及其他能源基础设施的修复工作已完成。",
+          "url": "https://flash.jin10.com/detail/20260626124457220800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 08时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
@@ -348,6 +418,18 @@
           "time_info": "[01时16分 ~ 08时15分]"
         },
         {
+          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
+          "url": "https://wallstreetcn.com/articles/3775516",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时14分]"
+        },
+        {
           "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
           "url": "https://www.cls.cn/detail/2408999",
           "source": "财联社热门",
@@ -360,26 +442,15 @@
           "time_info": "[01时16分 ~ 04时09分]"
         },
         {
-          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
-          "url": "https://wallstreetcn.com/articles/3775516",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
           "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
           "url": "https://wallstreetcn.com/articles/3775489",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时14分]"
         },
         {
           "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
@@ -404,13 +475,24 @@
           "time_info": "06时24分"
         },
         {
+          "title": "全球芯片LOF：将于2026年6月26日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260626120722541800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "韩国财长称，韩国下半年将冻结电力、天然气价格；韩国将保留燃油价格上限制度，直到价格缓解。（韩联社）",
           "url": "https://wallstreetcn.com/livenews/3124887",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -421,7 +503,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -437,13 +519,24 @@
           "time_info": "01时16分"
         },
         {
+          "title": "日经225指数跌幅扩大至4.6%，软银、芯片股大跌。",
+          "url": "https://wallstreetcn.com/livenews/3125030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
           "url": "https://flash.jin10.com/detail/20260626065012470800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         }
@@ -451,8 +544,19 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
         {
           "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
           "url": "https://wallstreetcn.com/livenews/3124869",
@@ -486,6 +590,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 06时24分]"
+        },
+        {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时14分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "报道：OpenAI倾向于等到2027年再进行IPO",
@@ -543,17 +681,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
           "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3124849",
           "source": "华尔街见闻-快讯",
@@ -576,6 +703,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "监管介入虚假高报师倒卖千问报告",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%91%E7%AE%A1%E4%BB%8B%E5%85%A5%E8%99%9A%E5%81%87%E9%AB%98%E6%8A%A5%E5%B8%88%E5%80%92%E5%8D%96%E5%8D%83%E9%97%AE%E6%8A%A5%E5%91%8A%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
           "source": "金十数据",
@@ -590,7 +728,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
@@ -606,6 +744,28 @@
           "time_info": "[01时16分 ~ 08时15分]"
         },
         {
+          "title": "疑似小米员工发文《置身米内》，将雷军比作项羽，有哪些看点？",
+          "url": "https://www.zhihu.com/question/2052883811151745057",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "马斯克旗下的SpaceX已向投资者表示，计划面向美国消费者推出Starlink移动通信服务。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3125055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
           "title": "中期选举将近 美媒曝光马斯克向共和党大手笔捐款",
           "url": "https://flash.jin10.com/detail/20260626032630006800",
           "source": "金十数据",
@@ -615,6 +775,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "据英国金融时报：马斯克旗下SpaceX计划将星链移动服务推向美国大众消费市场。",
+          "url": "https://flash.jin10.com/detail/20260626120325897800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "何小鹏：今年底自动驾驶可合法进入全球",
+          "url": "https://flash.jin10.com/detail/20260626121055373800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     }
