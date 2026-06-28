@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T13:21:19.968741+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-06-28T17:19:30.041469+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -101,9 +101,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
@@ -112,9 +123,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "MWC观察 | 6G尚远，Token当红，运营商的挑战和转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33469541",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制",
@@ -131,7 +164,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -142,8 +175,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 17时19分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -152,11 +185,50 @@
           "ranks": [
             23,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 17时19分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 17时19分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            10,
+            19,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时13分 ~ 17时19分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -171,8 +243,8 @@
           "time_info": "[00时10分 ~ 06时08分]"
         },
         {
-          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
-          "url": "https://wallstreetcn.com/articles/3775674",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
           "source": "华尔街见闻",
           "ranks": [
             8,
@@ -180,31 +252,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时08分 ~ 13时21分]"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            10,
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 13时21分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "[13时21分 ~ 17时19分]"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -213,7 +261,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -232,7 +280,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
@@ -285,6 +333,17 @@
           "time_info": "[00时10分 ~ 06时08分]"
         },
         {
+          "title": "祥鑫科技：液冷散热产品不会对公司的经营业绩产生重大影响",
+          "url": "https://flash.jin10.com/detail/20260628154829666800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33468093",
           "source": "澎湃新闻",
@@ -294,6 +353,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "银河微电：拟收购恒泰柯100%股权 股票及可转债明起复牌",
+          "url": "https://flash.jin10.com/detail/20260628153936389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "雷军回应被扣营销帽子",
+          "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%A3%E8%90%A5%E9%94%80%E5%B8%BD%E5%AD%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     }
