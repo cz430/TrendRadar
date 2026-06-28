@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:19:30.041469+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-06-28T19:50:11.279357+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -48,6 +48,17 @@
           "time_info": "[00时10分 ~ 08时08分]"
         },
         {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
@@ -84,6 +95,42 @@
           "time_info": "[00时10分 ~ 08时08分]"
         },
         {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时50分]"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时50分]"
+        },
+        {
+          "title": "MWC观察 | 6G尚远，Token当红，运营商的挑战和转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33469541",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时50分]"
+        },
+        {
           "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
           "url": "https://wallstreetcn.com/articles/3775659",
           "source": "华尔街见闻",
@@ -106,17 +153,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
-          "url": "https://www.cls.cn/detail/2411046",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
           "url": "https://flash.jin10.com/detail/20260628120732763800",
           "source": "金十数据",
@@ -126,28 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "MWC观察 | 6G尚远，Token当红，运营商的挑战和转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33469541",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制",
@@ -163,124 +177,8 @@
       ]
     },
     {
-      "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 17时19分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 17时19分]"
-        },
-        {
-          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
-          "url": "https://wallstreetcn.com/articles/3775674",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 17时19分]"
-        },
-        {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            10,
-            19,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 17时19分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 06时08分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 17时19分]"
-        },
-        {
-          "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
-          "url": "https://www.zhihu.com/question/2053468017514602830",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "黄灿灿 AI你猜错了",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20AI%E4%BD%A0%E7%8C%9C%E9%94%99%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
@@ -296,6 +194,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 13时21分]"
+        },
+        {
+          "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
+          "url": "https://www.cls.cn/detail/2411079",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
@@ -333,13 +242,24 @@
           "time_info": "[00时10分 ~ 06时08分]"
         },
         {
+          "title": "苹果芯片成本涨45售价狂加250美元",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%8A%AF%E7%89%87%E6%88%90%E6%9C%AC%E6%B6%A845%E5%94%AE%E4%BB%B7%E7%8B%82%E5%8A%A0250%E7%BE%8E%E5%85%83&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
+        {
           "title": "祥鑫科技：液冷散热产品不会对公司的经营业绩产生重大影响",
           "url": "https://flash.jin10.com/detail/20260628154829666800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -361,16 +281,155 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "匈牙利政府：国家电力输电系统运营商MAVIR预计周日和下周一的峰值负荷将保持在夏季纪录水平以下。",
+          "url": "https://flash.jin10.com/detail/20260628171314323800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 机器学习 深度学习 强化学习",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 19时50分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 19时50分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 19时50分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 19时50分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            10,
+            19,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时13分 ~ 19时50分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 17时19分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
+          "url": "https://www.zhihu.com/question/2053468017514602830",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "黄灿灿 AI你猜错了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20AI%E4%BD%A0%E7%8C%9C%E9%94%99%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克：基于我们1.5万亿参数的V9基础模型、并在补充训练中加入Cursor数据的Grok 4.5，现已在SpaceX和特斯拉进入内测阶段。",
+          "url": "https://flash.jin10.com/detail/20260628185444117800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
         {
           "title": "雷军回应被扣营销帽子",
           "url": "https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%89%A3%E8%90%A5%E9%94%80%E5%B8%BD%E5%AD%90&t=31&band_rank=20&Refer=top",
@@ -378,7 +437,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
