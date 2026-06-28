@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T05:09:36.704140+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-29T07:10:35.553584+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
@@ -50,19 +50,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
+        },
+        {
+          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
+          "url": "https://wallstreetcn.com/livenews/3125724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
           "url": "https://wallstreetcn.com/livenews/3125707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 07时10分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -72,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -81,11 +93,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -113,7 +137,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -123,8 +147,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
+        },
+        {
+          "title": "美媒：智谱GLM-5.2在找漏洞方面可比肩Mythos",
+          "url": "https://flash.jin10.com/detail/20260629065023988800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -134,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -143,22 +178,24 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "MWC观察 | 6G尚远，Token当红，运营商的挑战和转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33469541",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -175,18 +212,30 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
           "url": "https://www.cls.cn/detail/2411079",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时10分]"
+        },
+        {
+          "title": "委内瑞拉地震重灾区拉瓜伊拉州电力及供水已部分恢复",
+          "url": "https://flash.jin10.com/detail/20260629065105514800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
