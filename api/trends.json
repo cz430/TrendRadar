@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T04:07:08.271080+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-06-30T06:14:17.804671+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -51,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "吴启华自曝卖肖像权拍AI电影",
@@ -60,11 +60,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
@@ -81,7 +82,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
@@ -91,8 +92,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
+        },
+        {
+          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
+          "url": "https://wallstreetcn.com/articles/3775760",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         },
         {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股盘中）",
@@ -106,18 +119,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
-          "url": "https://wallstreetcn.com/articles/3775760",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
-        },
-        {
           "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
           "url": "https://www.cls.cn/detail/2411791",
           "source": "财联社热门",
@@ -126,8 +127,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
+        },
+        {
+          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3126328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "据华尔街日报，Carlisle提议，按照现金+股票方式收购建筑行业的Owens Corning。 但Owens Corning迄今并没有投入太多精力去洽谈这笔潜在交易。 Owens Corning（OS）涨幅扩大至11.8%。",
@@ -136,7 +148,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
         }
@@ -144,7 +156,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -169,6 +181,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 04时07分]"
+        },
+        {
+          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
+          "url": "https://flash.jin10.com/detail/20260630055543411800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "英伟达(NVDA.O)：Anthropic的Claude系列模型已上线微软Azure的NVIDIA GB300 Blackwell Ultra平台。",
@@ -207,8 +230,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时14分]"
         }
       ]
     }
