@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T04:50:39.310362+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-02T06:22:53.368838+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -26,8 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
+        },
+        {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -35,22 +47,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -60,8 +62,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
@@ -70,7 +83,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -81,7 +94,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -100,7 +113,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -118,11 +131,12 @@
           "url": "https://wallstreetcn.com/livenews/3127615",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时22分]"
         },
         {
           "title": "韩国股市又被“小作文”打崩：国民年金被曝7月启动再平衡，或抛售高达74万亿国内股票",
@@ -132,19 +146,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260702040547223800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时22分]"
+        },
+        {
+          "title": "卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3127603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时22分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
@@ -153,18 +180,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3127603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -186,9 +202,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超9%，成分股泰瑞达、闪迪、美光跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3127601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -201,22 +228,24 @@
           "url": "https://flash.jin10.com/detail/20260702041739954800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时22分]"
         },
         {
           "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
           "url": "https://flash.jin10.com/detail/20260702041320467800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 06时22分]"
         },
         {
           "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
@@ -226,8 +255,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
@@ -235,11 +264,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 06时22分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
@@ -287,7 +317,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
