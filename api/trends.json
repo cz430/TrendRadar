@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:22:56.200832+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-02T20:12:51.529160+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 20时12分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -28,11 +28,12 @@
             5,
             10,
             16,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时03分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时03分 ~ 20时12分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时03分 ~ 06时22分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 20时12分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -60,15 +73,16 @@
           "time_info": "[02时03分 ~ 08时15分]"
         },
         {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
+          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时14分 ~ 20时12分]"
         },
         {
           "title": "“大空头”伯里加码做空AI，称韩国芯片投资为“终结的开端”",
@@ -82,16 +96,17 @@
           "time_info": "13时03分"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
           "ranks": [
-            6,
-            7
+            14,
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时14分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 20时12分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -103,6 +118,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时03分 ~ 06时22分]"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 20时12分]"
         },
         {
           "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
@@ -141,27 +168,16 @@
           "time_info": "[08时14分 ~ 13时03分]"
         },
         {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
+          "title": "AI已出现欺骗行为 联合国发出警告",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
           "ranks": [
-            8
+            15,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时22分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时22分]"
+          "time_info": "[17时22分 ~ 20时12分]"
         },
         {
           "title": "AI模型预测世界杯",
@@ -170,9 +186,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -197,26 +224,37 @@
           "time_info": "08时15分"
         },
         {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "Meta是否已在尖端AI竞赛中率先“投降”？华尔街纷纷热议！",
           "url": "https://www.cls.cn/detail/2414950",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
         {
-          "title": "AI已出现欺骗行为 联合国发出警告",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%AC%BA%E9%AA%97%E8%A1%8C%E4%B8%BA+%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
+          "title": "高盛反驳AI泡沫“三大担忧”，看好这三大主题！",
+          "url": "https://www.cls.cn/detail/2415001",
+          "source": "财联社热门",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "20时12分"
         },
         {
           "title": "英伟达通过收入分成方式与AI云公司合作",
@@ -258,9 +296,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "如何看待 rust 2026 roadmap 计划实现 Move Trait, 移除 Pin?",
@@ -291,9 +340,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "市场大跌AI行情要结束了吗",
+          "url": "https://www.toutiao.com/trending/7657850303982603827/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
@@ -310,8 +381,20 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 20时12分]"
+        },
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
           "url": "https://wallstreetcn.com/articles/3775932",
@@ -324,15 +407,16 @@
           "time_info": "[02时03分 ~ 04时50分]"
         },
         {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
+          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+          "url": "https://www.cls.cn/detail/2415140",
+          "source": "财联社热门",
           "ranks": [
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时22分]"
+          "time_info": "[17时22分 ~ 20时12分]"
         },
         {
           "title": "韩国股市又被“小作文”打崩：国民年金被曝7月启动再平衡，或抛售高达74万亿国内股票",
@@ -347,13 +431,24 @@
           "time_info": "[02时03分 ~ 13时03分]"
         },
         {
+          "title": "摩根大通：芯片股的极端跑赢表现难以持续",
+          "url": "https://wallstreetcn.com/livenews/3128012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "证监会同意宇树科技股份有限公司首次公开发行股票注册。",
           "url": "https://wallstreetcn.com/livenews/3127942",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -369,17 +464,6 @@
           "time_info": "08时15分"
         },
         {
-          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-          "url": "https://www.cls.cn/detail/2415140",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
           "url": "https://wallstreetcn.com/livenews/3127615",
           "source": "华尔街见闻-快讯",
@@ -390,6 +474,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 06时22分]"
+        },
+        {
+          "title": "芯片股抛售拖累全球股市，美光盘前跌近3%，韩股收跌7%，日元走强，黄金稳于4000上方",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 20时12分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -404,6 +500,18 @@
           "time_info": "[04时50分 ~ 06时22分]"
         },
         {
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 20时12分]"
+        },
+        {
           "title": "卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。",
           "url": "https://wallstreetcn.com/livenews/3127603",
           "source": "华尔街见闻-快讯",
@@ -416,35 +524,13 @@
           "time_info": "[04时50分 ~ 06时22分]"
         },
         {
-          "title": "芯片股抛售拖累全球股市，美光盘前跌近3%，韩股收跌7%，日元走强，黄金稳于4000上方",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3776030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "证监会同意宇树科技首次公开发行股票注册",
           "url": "https://news.ifeng.com/c/8uR1VDkUpF3",
           "source": "凤凰网",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -455,7 +541,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -466,9 +552,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "证监会同意福建马坑矿业股份有限公司首次公开发行股票。",
+          "url": "https://flash.jin10.com/detail/20260702195448470800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
@@ -493,6 +590,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "图灵量子与海光信息联合发布量子加密分布式存储方案",
+          "url": "https://wallstreetcn.com/livenews/3127992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
           "title": "标普500指数初步收跌0.2%，科技板块跌1.7%，能源板块跌0.8%，金融板块涨2.1%，电信板块涨2.6%。 纳斯达克100指数初步收跌1.5%，成分股中，Nebius Group初步收跌16.2%，CoreWeave跌13.6%，科磊、泰瑞达、闪迪跌超10%，美光跌9.9%，阿斯麦ADR跌7.5%，Strategy则涨7.9%，Palantir、拼多多ADR涨8.1%，Meta涨9%，Applovin涨9.6%。 美股存储芯片指数跌超8%，成分股闪迪、泰瑞达、拉姆研究跌约10%。费城半导体指数跌6.3%。 Salesforce、耐克初步收涨超4%，与美国运通、微软、联合健康、IBM领跑道指成分股，思科则跌0.6%，霍尼韦尔、英伟达跌1%，Merck跌2.1%，沃尔玛跌3.8%，卡特彼勒跌6.6%。",
           "url": "https://wallstreetcn.com/livenews/3127599",
           "source": "华尔街见闻-快讯",
@@ -510,9 +618,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "印度煤炭公司6月向电力行业的煤炭供应量同比增长5.9%。",
+          "url": "https://flash.jin10.com/detail/20260702194501164800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
+        },
+        {
+          "title": "北京君正：由于公司存储芯片持续在涨价 预计各季度毛利率会环比有所增长",
+          "url": "https://wallstreetcn.com/livenews/3127978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时12分"
         },
         {
           "title": "豪美新材：向特定对象发行股票申请获得中国证券监督管理委员会同意注册批复。",
@@ -521,7 +651,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -549,7 +679,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -653,7 +783,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -675,7 +805,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -708,7 +838,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         }
@@ -724,11 +854,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时03分 ~ 20时12分]"
         },
         {
           "title": "至少经过多少个人，可以将马腾和马化腾联系起来？",
