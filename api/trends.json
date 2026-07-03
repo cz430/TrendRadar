@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T03:38:04.878018+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-04T05:14:22.531018+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -26,8 +26,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -35,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -49,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -61,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -72,19 +95,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时14分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
@@ -100,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -112,8 +147,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "曝阿里7月10日起全面禁用Claude",
+          "url": "https://www.toutiao.com/trending/7658254613019102783/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
@@ -123,32 +184,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
-        },
-        {
-          "title": "曝阿里7月10日起全面禁用Claude",
-          "url": "https://www.toutiao.com/trending/7658254613019102783/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -156,17 +193,18 @@
           "source": "知乎",
           "ranks": [
             14,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -176,19 +214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
-          "url": "https://wallstreetcn.com/livenews/3128822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -199,8 +226,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
+          "url": "https://wallstreetcn.com/livenews/3128835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 05时14分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
@@ -211,8 +261,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 4,
+          "time_info": "[01时39分 ~ 05时14分]"
         },
         {
           "title": "国际原子能机构（IAEA）：获悉扎波罗热核电站今天在军事冲突期间第21次失去外部电力供应。",
