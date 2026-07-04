@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-04T14:52:48.387463+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-04T17:27:28.219811+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
       "match_count": 15,
       "titles": [
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 17时27分]"
+        },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时39分 ~ 05时14分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时52分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -75,17 +75,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://wallstreetcn.com/livenews/3128902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3128806",
           "source": "华尔街见闻-快讯",
@@ -120,6 +109,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时39分 ~ 05时14分]"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时27分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -200,11 +201,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 17时27分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
@@ -243,17 +245,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
-          "url": "https://flash.jin10.com/detail/20260704135129983800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
           "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
           "url": "https://wallstreetcn.com/livenews/3128822",
           "source": "华尔街见闻-快讯",
@@ -278,6 +269,18 @@
           "time_info": "[11时39分 ~ 14时52分]"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：准备协助海外芯片制造商在日本投资。",
+          "url": "https://flash.jin10.com/detail/20260704135129983800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时27分]"
+        },
+        {
           "title": "首款神经动力学芯片问世 有助于脑机接口等技术发展",
           "url": "https://flash.jin10.com/detail/20260704105802342800",
           "source": "金十数据",
@@ -288,6 +291,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 14时52分]"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
+          "url": "https://wallstreetcn.com/livenews/3128897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时27分]"
         },
         {
           "title": "国际原子能机构（IAEA）：获悉扎波罗热核电站今天在军事冲突期间第21次失去外部电力供应。",
@@ -307,18 +322,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "日本经济产业大臣赤泽亮正：准备援助在日投资的海外芯片制造商。",
-          "url": "https://wallstreetcn.com/livenews/3128897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -376,6 +380,30 @@
           "time_info": "[01时39分 ~ 11时39分]"
         },
         {
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时27分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 17时27分]"
+        },
+        {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
           "url": "https://wallstreetcn.com/livenews/3128878",
           "source": "华尔街见闻-快讯",
@@ -398,6 +426,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 14时52分]"
+        },
+        {
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时27分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -449,18 +489,6 @@
           "time_info": "[01时39分 ~ 05时14分]"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时52分]"
-        },
-        {
           "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
           "url": "https://flash.jin10.com/detail/20260704102911165800",
           "source": "金十数据",
@@ -471,28 +499,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 14时52分]"
-        },
-        {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         },
         {
           "title": "Claude：正在调查多个模型中出现的异常错误。",
@@ -516,11 +522,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33513181",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 17时27分]"
         }
       ]
     }
