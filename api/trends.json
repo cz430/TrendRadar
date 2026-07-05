@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T11:58:00.875840+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-07-05T15:35:31.321306+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 15时35分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -37,33 +38,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 11时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 15时35分]"
         },
         {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
           "url": "https://flash.jin10.com/detail/20260705113833548800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 15时35分]"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
           "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 15时35分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -77,15 +81,37 @@
           "time_info": "05时05分"
         },
         {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
           "url": "https://flash.jin10.com/detail/20260705094741928800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "AI都进入吃播时代了",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E8%BF%9B%E5%85%A5%E5%90%83%E6%92%AD%E6%97%B6%E4%BB%A3%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -94,7 +120,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
@@ -102,7 +128,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -117,6 +143,18 @@
           "time_info": "[01时12分 ~ 11时58分]"
         },
         {
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 15时35分]"
+        },
+        {
           "title": "豆包、千问：将下线智能体功能",
           "url": "https://wallstreetcn.com/articles/3776193",
           "source": "华尔街见闻",
@@ -126,18 +164,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时03分]"
-        },
-        {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时58分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -160,8 +186,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 15时35分]"
+        },
+        {
+          "title": "澳媒：Anthropic拟收购澳大利亚数据中心算力资源",
+          "url": "https://flash.jin10.com/detail/20260705144920210800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -210,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
@@ -218,7 +266,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
@@ -226,11 +274,40 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 11时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 15时35分]"
+        },
+        {
+          "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+          "url": "https://www.zhihu.com/question/2056487235072029858",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据英国《金融时报》：优步（Uber）已不再计划今年在原定拓展的7个国家中的5个推出服务，其中包括奥地利、挪威和希腊。",
+          "url": "https://flash.jin10.com/detail/20260705121118706800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
