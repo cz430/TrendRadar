@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:13:21.358840+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-07-06T13:17:25.285287+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 13时17分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -27,11 +27,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 13时17分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -41,11 +42,23 @@
             13,
             11,
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时09分 ~ 08时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时09分 ~ 13时17分]"
+        },
+        {
+          "title": "研究人员借助AI技术发现两种新型超导体",
+          "url": "https://wallstreetcn.com/livenews/3129164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -72,6 +85,17 @@
           "time_info": "[02时09分 ~ 06时07分]"
         },
         {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
           "url": "https://flash.jin10.com/detail/20260706053240940800",
           "source": "金十数据",
@@ -81,6 +105,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "研究人员借助AI技术发现两种新型超导体",
+          "url": "https://flash.jin10.com/detail/20260706124426246800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
+          "url": "https://www.cls.cn/detail/2417331",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "金山办公回应“WPS滥收费、背刺用户” ：言论不实。免费基础功能绝不收费，少数AI办公智能体等高成本服务，会独立计费，用户按需购买。",
+          "url": "https://wallstreetcn.com/livenews/3129154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "谁在提前退出AI盛宴",
@@ -97,7 +154,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -105,11 +162,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 13时17分]"
         },
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -145,12 +203,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 06时07分]"
+        },
+        {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
@@ -165,15 +234,43 @@
           "time_info": "[00时14分 ~ 04时19分]"
         },
         {
+          "title": "全球芯片LOF：将于2026年7月6日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260706123723119800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "上周逾百亿资金回流股票ETF，硬科技板块热度居高不下",
           "url": "https://wallstreetcn.com/livenews/3129030",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
+          "url": "https://wallstreetcn.com/articles/3776229",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     }
