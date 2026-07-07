@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T04:04:47.710254+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-07-08T06:15:42.980059+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
           "url": "https://wallstreetcn.com/articles/3776333",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "三星财报引发全球芯片股回调 纳斯达克100指数期货跌近1% | 今夜看点",
@@ -49,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "网传新能源车智驾芯片新规系谣言",
@@ -60,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "智驾芯片70%自主化新规系谣言",
@@ -71,8 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "半导体行业组织、麦肯锡与美国国家科学基金会研究显示，到2030年，芯片行业或面临最多15.7万个岗位缺口。",
@@ -81,7 +82,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
         },
@@ -111,7 +112,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -133,8 +134,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -190,13 +191,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "Anthropic计划在美国曼哈顿扩张，纽约市员工规模将翻倍至1000人。 计划在Hudson Square租赁16层楼高的建筑物。 该公司将从2026年夏季开始搬迁到纽约市。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3130172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
           "url": "https://wallstreetcn.com/articles/3776368",
@@ -206,8 +229,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 06时15分]"
         },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -227,9 +250,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "报道：SpaceXAI与Cursor计划最快于周三推出新模型",
+          "url": "https://wallstreetcn.com/livenews/3130175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         }
       ]
     },
