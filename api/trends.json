@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T11:48:58.079989+08:00",
-  "total_titles_processed": 763,
+  "generated_at": "2026-07-09T15:43:32.957821+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 15时43分]"
         },
         {
           "title": "日本高中生携AI爆破被捕",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 15时43分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -38,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 15时43分]"
         },
         {
           "title": "AI芯片公司Positron洽谈约7.5亿美元融资 估值最高或达50亿美元",
@@ -68,6 +71,29 @@
           "time_info": "[01时43分 ~ 07时14分]"
         },
         {
+          "title": "高盛重磅发声：做多中国AI价值链",
+          "url": "https://www.cls.cn/detail/2421215",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时43分]"
+        },
+        {
           "title": "看空AI就是踏空？私募又争起来了，没买过AI的有什么资格吹哨？",
           "url": "https://www.cls.cn/detail/2420437",
           "source": "财联社热门",
@@ -79,15 +105,37 @@
           "time_info": "[01时43分 ~ 05时14分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时43分]"
+        },
+        {
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "15时43分"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
@@ -96,18 +144,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
-          "url": "https://www.cls.cn/detail/2421094",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -151,7 +188,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -159,7 +196,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
@@ -223,6 +260,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "创业板涨超4%，科创50狂飙7%，中芯国际市值超贵州茅台，AI大模型双雄分化，智谱涨5%、MINIMAX大跌20%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "OpenAI：发布国家安全原则文件。",
           "url": "https://flash.jin10.com/detail/20260709043809283800",
           "source": "金十数据",
@@ -232,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "RedVelvet海报疑似Gemini生成",
+          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -259,7 +318,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -268,9 +327,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时43分]"
         },
         {
           "title": "顶着美国压力，携光刻机、芯片巨头，荷兰大臣此时访华有何意味？",
@@ -328,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "创业板指涨超4%，科创50涨近7%，沪指涨近1%，深成指涨2.5%，半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3131130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     },
@@ -336,13 +406,25 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "雷军正式公布小米汽车新系列",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时43分]"
+        },
+        {
           "title": "雷军说小米造车5年只做了两个系列",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BD%A65%E5%B9%B4%E5%8F%AA%E5%81%9A%E4%BA%86%E4%B8%A4%E4%B8%AA%E7%B3%BB%E5%88%97%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -375,18 +457,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "雷军正式公布小米汽车新系列",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%96%B0%E7%B3%BB%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -394,8 +465,30 @@
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "腾讯云Agent Bucket正式发布",
+          "url": "https://wallstreetcn.com/livenews/3131144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "你有哪些与燃油车相关的记忆？",
+          "url": "https://www.zhihu.com/roundtable/jiunengyuanqiche",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
           "url": "https://wallstreetcn.com/livenews/3130814",
