@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:39:17.705698+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-12T23:03:00.705964+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 21时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时03分 ~ 23时03分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时03分 ~ 21时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时03分 ~ 23时03分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -42,6 +42,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 04时57分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时16分 ~ 23时03分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时03分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -70,18 +94,6 @@
           "time_info": "[00时03分 ~ 08时04分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时39分]"
-        },
-        {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
           "url": "https://wallstreetcn.com/articles/3776704",
           "source": "华尔街见闻",
@@ -92,17 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 17时58分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
@@ -220,6 +221,18 @@
           "time_info": "[03时19分 ~ 19时17分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时58分 ~ 23时03分]"
+        },
+        {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
           "url": "https://wallstreetcn.com/livenews/3132350",
           "source": "华尔街见闻-快讯",
@@ -255,18 +268,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 08时04分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时58分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
