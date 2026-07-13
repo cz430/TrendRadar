@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T12:34:37.803992+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-13T16:20:53.490205+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 12时34分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 16时20分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -59,11 +60,12 @@
           "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时20分]"
         },
         {
           "title": "什么是AI黑客松",
@@ -72,9 +74,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时20分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -93,33 +107,57 @@
           "url": "https://www.cls.cn/detail/2424084",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时20分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
           "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时20分]"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "16时20分"
+        },
+        {
+          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
+          "url": "https://www.cls.cn/detail/2424076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
+          "url": "https://www.cls.cn/detail/2424017",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "英力股份：AI服务器业务当前仍为前期储备阶段，无大额投入和落地订单，暂未安排客户批量送样及量产验证工作，暂无对外可披露的送样测试时间表。",
@@ -128,9 +166,104 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "高盛：中国股票出现“轮动信号”",
+          "url": "https://www.toutiao.com/trending/7660891930447970346/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "中国电力技术创新位居全球首位",
+          "url": "https://www.toutiao.com/trending/7661405401853722667/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "据英国金融时报：投资者正在减少对亚洲芯片制造商的押注。",
+          "url": "https://flash.jin10.com/detail/20260713120656219800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国内存芯片制造商股价在盘前交易中下跌，美光科技下跌6.6%，闪迪下跌6.5%，希捷科技下跌5.4%，西部数据下跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20260713160834863800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 16时20分]"
+        },
+        {
+          "title": "新产品配套英伟达产业链 液冷概念股斩获3天2板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2423885",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "全球首颗软件定义近存计算3D芯片在上海发布",
+          "url": "https://wallstreetcn.com/livenews/3132686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "【A股收盘：沪指低开低走跌超2%，全市场下跌个股超4600只】市场全天低开低走，三大指数集体下挫。氦气概念逆势走强，九丰能源、水发燃气涨停。中药股盘中活跃，陇神戎发、九芝堂、天目药业等涨停。下跌方面，半导体芯片股下挫，兆易创新、香农芯创等多股跌停；算力硬件股大幅调整，生益科技、金安国纪等跌停。个股呈现普跌态势，沪深京三市超4600股飘绿，今日成交逾2.83万亿。截止收盘沪指跌2.06%，深成指跌3.48%，创业板指跌3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3132671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -180,7 +313,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -191,35 +324,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据英国金融时报：投资者正在减少对亚洲芯片制造商的押注。",
-          "url": "https://flash.jin10.com/detail/20260713120656219800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
