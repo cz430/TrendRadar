@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T19:39:27.627878+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-07-15T21:53:36.080877+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -77,6 +77,21 @@
           "time_info": "[00时23分 ~ 11时16分]"
         },
         {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 21时53分]"
+        },
+        {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
           "url": "https://www.cls.cn/detail/2426403",
           "source": "财联社热门",
@@ -90,18 +105,27 @@
           "time_info": "[00时23分 ~ 07时57分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
           "ranks": [
             4,
-            3,
-            10,
-            11
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时53分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时53分]"
         },
         {
           "title": "金山办公将推出独立AI办公智能体灵犀专业版，率先上线PC端",
@@ -113,28 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "帮美国打伊朗，换来AI芯片“绿灯”！阿联酋与特朗普家族的利益交换浮出水面",
@@ -218,6 +220,17 @@
           "time_info": "[02时08分 ~ 02时09分]"
         },
         {
+          "title": "美国通胀降温叠加AI交易重燃，美股盘初走高，阿斯麦涨约3%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "长鑫科技：AI发展对DRAM市场需求存在不确定性 投资者需关注行业波动风险",
           "url": "https://wallstreetcn.com/livenews/3134233",
           "source": "华尔街见闻-快讯",
@@ -235,7 +248,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -268,7 +281,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -290,9 +303,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "【豆包AI手机今年将发布多款机型】据界面新闻，字节跳动联合中兴努比亚打造的首款 AI 智能体手机（ “豆包 AI 智能体手机”）今年将有多款机型发布，其中一款将于 2026 世界人工智能大会期间亮相，其整体备货约20万台，首批备货10万台以内。界面新闻就此消息向中兴求证，截至发稿中兴方面暂无回应。供应链人士表示，本代产品最初备货远超前代，部分备件的规模超过百万，由于上游元器件成本的上涨，经历过多次调整，由原先的30万调整至20万台左右。",
+          "url": "https://wallstreetcn.com/livenews/3134387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美联储主席沃什：我的判断是，AI将增强工作，而非取代工作。",
@@ -419,7 +443,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
@@ -446,6 +470,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 14时20分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
+          "url": "https://www.cls.cn/detail/2427247",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时12分 ~ 21时53分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -487,9 +524,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "证监会同意深圳嘉立创科技集团股份有限公司首次公开发行股票注册。",
+          "url": "https://flash.jin10.com/detail/20260715213628331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "仕佳光子：拟定增募资不超过28亿元，用于高速AWG芯片及光互连组件产能建设项目等",
@@ -498,7 +546,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -513,18 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 17时12分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
-          "url": "https://www.cls.cn/detail/2427247",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 19时39分]"
         },
         {
           "title": "券商晨会精华：英伟达Rubin VR200芯片催化高阶电容电感需求",
@@ -563,6 +599,18 @@
           "time_info": "[02时09分 ~ 04时18分]"
         },
         {
+          "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
+          "url": "https://www.cls.cn/detail/2427337",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时53分]"
+        },
+        {
           "title": "我国平均每天生产芯片超15亿块",
           "url": "https://www.toutiao.com/trending/7661787411811205163/",
           "source": "今日头条",
@@ -597,15 +645,15 @@
           "time_info": "11时16分"
         },
         {
-          "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
-          "url": "https://www.cls.cn/detail/2427337",
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时39分"
+          "time_info": "21时53分"
         },
         {
           "title": "资金借道股票型ETF流入市场，宽基产品获大举增持",
@@ -663,6 +711,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "摩根士丹利股票交易业务创纪录 加入华尔街大行“丰收季”",
+          "url": "https://wallstreetcn.com/livenews/3134384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "公司已有布局超导量子计算，光子计算芯片？智度股份：不属实",
           "url": "https://wallstreetcn.com/livenews/3134213",
           "source": "华尔街见闻-快讯",
@@ -713,7 +772,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -724,7 +783,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         }
@@ -732,7 +791,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -757,6 +816,17 @@
           "time_info": "17时12分"
         },
         {
+          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
+          "url": "https://www.cls.cn/detail/2427348",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
           "url": "https://wallstreetcn.com/livenews/3133848",
           "source": "华尔街见闻-快讯",
@@ -766,6 +836,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 21时53分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -784,24 +868,12 @@
           "source": "微博",
           "ranks": [
             1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 19时39分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
             10,
-            9,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时39分]"
+          "time_info": "[17时12分 ~ 21时53分]"
         },
         {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
@@ -814,6 +886,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 02时09分]"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时53分]"
         },
         {
           "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
@@ -838,17 +922,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
-          "url": "https://www.cls.cn/detail/2427193",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
           "title": "OpenAI回应苹果诉讼：目前未发现任何证据支持相关指控。",
           "url": "https://flash.jin10.com/detail/20260715033822967800",
           "source": "金十数据",
@@ -866,7 +939,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -904,6 +977,17 @@
           "time_info": "17时12分"
         },
         {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指涨0.63%。SK海力士ADR(SKHY.O)跌7%，阿里巴巴(BABA.N)涨超4%，消息面上，阿里千问将作为AI能力集成至苹果智能。微软(MSFT.O)、苹果(AAPL.O)、IBM(IBM.N)均涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260715213026496800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "阿里千问将作为AI能力集成至Apple智能",
           "url": "https://finance.ifeng.com/c/8umZVyZe3Sv",
           "source": "凤凰网",
@@ -921,7 +1005,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -998,7 +1082,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
