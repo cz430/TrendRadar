@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T13:48:20.424711+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-07-16T16:23:03.028718+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时01分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 16时23分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -46,19 +59,6 @@
           "time_info": "[01时22分 ~ 07时01分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 13时48分]"
-        },
-        {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3134533",
           "source": "华尔街见闻-快讯",
@@ -68,6 +68,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 16时23分]"
         },
         {
           "title": "SPACEXAI：开源Grok Build，SPACEXAI的编码代理和TUI。",
@@ -92,18 +105,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 13时48分]"
-        },
-        {
           "title": "澳大利亚政府成立AI办公室",
           "url": "https://news.ifeng.com/c/8unXnFx9vmo",
           "source": "凤凰网",
@@ -111,8 +112,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 16时23分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时48分]"
+          "time_info": "[13时48分 ~ 16时23分]"
+        },
+        {
+          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
+          "url": "https://www.cls.cn/detail/2427879",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "央视记者在街头找AI伙伴",
@@ -126,6 +150,17 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
           "url": "https://www.zhihu.com/question/2058593981005665566",
           "source": "知乎",
@@ -135,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 03时20分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
@@ -192,15 +238,15 @@
           "time_info": "05时05分"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "有外媒渲染中国提供开源AI模型是“陷阱”，外交部：反对以意识形态划线",
+          "url": "https://wallstreetcn.com/livenews/3134930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "16时23分"
         },
         {
           "title": "日本机器人企业发那科和川崎重工等加入英伟达的物理AI阵营",
@@ -209,9 +255,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "AWS发布AI-DLC与Kiro工具 瞄准AI编程“效率低、安全弱”痛点",
+          "url": "https://flash.jin10.com/detail/20260716155335282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "亚马逊(AMZN.O)：戴夫·特雷德韦尔将接任AWS计算与机器学习服务负责人，戴夫·布朗离职。",
@@ -223,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "有外媒渲染中国提供开源AI模型是“陷阱”，外交部：反对以意识形态划线",
+          "url": "https://flash.jin10.com/detail/20260716155157506800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "科创50指数拉升翻红，此前一度跌超4%，AI手机、影视传媒、消费电子等方向涨幅居前，沪深京三市上涨个股近2700只。",
@@ -242,9 +310,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "据报道，日本将采购27,500枚英伟达Rubin芯片，用于建设机器人AI系统。",
+          "url": "https://wallstreetcn.com/livenews/3134922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "日本拟采购2.75万颗英伟达Rubin芯片 开发本土机器人AI模型",
+          "url": "https://flash.jin10.com/detail/20260716154717041800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -256,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "京东：推出京麦AI经营中心",
+          "url": "https://wallstreetcn.com/livenews/3134917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -305,7 +406,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 14,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -337,9 +438,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3134935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
@@ -354,6 +466,28 @@
           "time_info": "[01时22分 ~ 07时01分]"
         },
         {
+          "title": "存储芯片股为何再度跳水",
+          "url": "https://www.toutiao.com/trending/7662966179715108378/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
+          "url": "https://wallstreetcn.com/articles/3777104",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
           "url": "https://wallstreetcn.com/livenews/3134607",
           "source": "华尔街见闻-快讯",
@@ -366,6 +500,50 @@
           "time_info": "[05时05分 ~ 07时01分]"
         },
         {
+          "title": "存储芯片股为何再度跳水",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E4%B8%BA%E4%BD%95%E5%86%8D%E5%BA%A6%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "怎么看存储芯片的全球“蝴蝶效应”",
+          "url": "https://www.toutiao.com/trending/7662978878985473582/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "股票损失惨重 男子尾随刺伤投资博主",
+          "url": "https://www.baidu.com/s?wd=%E8%82%A1%E7%A5%A8%E6%8D%9F%E5%A4%B1%E6%83%A8%E9%87%8D+%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E5%88%BA%E4%BC%A4%E6%8A%95%E8%B5%84%E5%8D%9A%E4%B8%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "市场消息：由日本支持、搭载英伟达Rubin GPU的数据中心将于2028年6月投入运营。",
+          "url": "https://flash.jin10.com/detail/20260716155724279800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "股票ETF半月吸金近2000亿元",
           "url": "https://wallstreetcn.com/livenews/3134631",
           "source": "华尔街见闻-快讯",
@@ -375,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "韩国金融服务委员会：单一股票杠杆ETF上市后市场波动加剧。 将根据市场影响评估后续措施。 将禁止积极推销杠杆型ETF。 投资者教育要求也将同步强化。",
+          "url": "https://wallstreetcn.com/livenews/3134928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "据Politico：美国众议院最快下周就限制议员股票交易法案进行投票，共和党正推动该法案重启。",
@@ -399,6 +588,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "华胜天成：拟出售不超过22.82万股天数智芯港股股票",
+          "url": "https://wallstreetcn.com/livenews/3134923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "韩股又暴跌触发熔断：芯片股崩盘、杠杆ETF重创、央行加息“三杀”齐至！",
           "url": "https://flash.jin10.com/detail/20260716102326639800",
           "source": "金十数据",
@@ -416,7 +616,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -432,6 +632,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "华胜天成：拟出售不超过22.82万股天数智芯港股股票",
+          "url": "https://flash.jin10.com/detail/20260716154319915800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "创业板指、科创50均跌超3%，沪指跌1.2%，深成指跌2.32%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近3600只。",
           "url": "https://wallstreetcn.com/livenews/3134723",
           "source": "华尔街见闻-快讯",
@@ -443,6 +654,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "市场消息：日本将购买27500颗英伟达(NVDA.O)RUBIN芯片，用于构建机器人人工智能系统。",
+          "url": "https://flash.jin10.com/detail/20260716154128609800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "报道：阿斯麦计划对芯片制造设备涨价",
           "url": "https://wallstreetcn.com/livenews/3134506",
           "source": "华尔街见闻-快讯",
@@ -452,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "韩国将暂停新的单一股票杠杆ETF上市 以抑制市场波动",
+          "url": "https://wallstreetcn.com/livenews/3134904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
@@ -468,7 +701,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
@@ -482,15 +715,29 @@
           "time_info": "[01时22分 ~ 07时01分]"
         },
         {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 16时23分]"
+        },
+        {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
           "url": "https://www.zhihu.com/question/2060769193977280048",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -505,18 +752,6 @@
           "time_info": "[01时22分 ~ 10时59分]"
         },
         {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时48分]"
-        },
-        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -528,6 +763,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时01分]"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 16时23分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -568,18 +815,6 @@
           "time_info": "[03时19分 ~ 07时01分]"
         },
         {
-          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2060770809543758786",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时48分]"
-        },
-        {
           "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
           "url": "https://wallstreetcn.com/livenews/3134608",
           "source": "华尔街见闻-快讯",
@@ -603,13 +838,24 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
+          "title": "中国首个水风光一体化智慧运营大模型发布",
+          "url": "https://wallstreetcn.com/livenews/3134924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
           "url": "https://wallstreetcn.com/livenews/3134804",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
