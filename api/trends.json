@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T15:23:14.682950+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-07-17T18:04:18.601062+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -59,9 +59,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "优刻得与上海理工在WAIC 2026发布“太空算力”样机",
+          "url": "https://wallstreetcn.com/livenews/3135636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
@@ -84,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "16位诺贝尔奖得主联名发出AI警告",
+          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -124,6 +157,19 @@
           "time_info": "[00时21分 ~ 08时04分]"
         },
         {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时04分]"
+        },
+        {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
           "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
           "source": "澎湃新闻",
@@ -149,16 +195,26 @@
           "time_info": "[06时07分 ~ 12时12分]"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
           "ranks": [
-            14,
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时12分 ~ 15时23分]"
+          "time_info": "[15时22分 ~ 18时04分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时04分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -174,37 +230,16 @@
           "time_info": "[04时05分 ~ 08时04分]"
         },
         {
-          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
-          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
           "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时04分]"
         },
         {
           "title": "美国银行CEO加入华尔街高管之列，警示Mythos等AI模型风险",
@@ -238,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "AI估值担忧加剧 欧洲信用违约保障成本上升",
+          "url": "https://flash.jin10.com/detail/20260717174120946800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -328,13 +374,24 @@
           "time_info": "12时12分"
         },
         {
+          "title": "《上海市进一步推动“AI+制造”发展的若干措施》印发",
+          "url": "https://wallstreetcn.com/livenews/3135599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "投资者撤离AI股 全球市场遭遇重挫",
           "url": "https://flash.jin10.com/detail/20260717145040499800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -345,9 +402,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "周鸿祎：中国AI正在下一盘大棋",
+          "url": "https://www.toutiao.com/trending/7663347841623936558/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -364,7 +432,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -376,6 +444,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 08时04分]"
+        },
+        {
+          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
+          "url": "https://www.zhihu.com/question/2061204677446964906",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时04分]"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -398,18 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        },
-        {
-          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 15时23分]"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -468,6 +536,18 @@
           "time_info": "08时04分"
         },
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 18时04分]"
+        },
+        {
           "title": "如何评价月之暗面于 7 月 15 日开始灰度测试的 Kimi-K3？",
           "url": "https://www.zhihu.com/question/2060635206651065501",
           "source": "知乎",
@@ -493,26 +573,16 @@
           "time_info": "[08时04分 ~ 12时12分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 15时23分]"
-        },
-        {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
           "url": "https://wallstreetcn.com/articles/3777138",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时04分]"
         },
         {
           "title": "月之暗面Kimi K3上线！系全球最大规模开源模型 支持视觉理解、100万token上下文",
@@ -559,6 +629,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "千问AI眼镜将升级为智能体眼镜",
+          "url": "https://wallstreetcn.com/livenews/3135623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
           "url": "https://flash.jin10.com/detail/20260717000518313800",
           "source": "金十数据",
@@ -603,6 +684,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
           "url": "https://wallstreetcn.com/livenews/3135246",
           "source": "华尔街见闻-快讯",
@@ -623,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "南向资金今日净卖出14.57亿元。港股通（沪）方面，美团-W、阿里巴巴-W分别获净卖出9.66亿港元、9.62亿港元；智谱净买入额居首，金额为11.3亿港元；港股通（深）方面，中芯国际、华虹宏力分别获净卖出20.14亿港元、16.33亿港元；盈富基金净买入额居首，金额为29.75亿港元。",
+          "url": "https://flash.jin10.com/detail/20260717173623419800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "SpaceX AI：Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
@@ -697,7 +800,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         }
@@ -705,7 +808,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
@@ -756,6 +859,22 @@
           "time_info": "[00时21分 ~ 06时07分]"
         },
         {
+          "title": "日产芯片超15亿块 什么概念",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7,
+            17,
+            6,
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 18时04分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -793,21 +912,6 @@
           "time_info": "12时12分"
         },
         {
-          "title": "日产芯片超15亿块 什么概念",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E4%BA%A7%E8%8A%AF%E7%89%87%E8%B6%8515%E4%BA%BF%E5%9D%97+%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            7,
-            17,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 08时04分]"
-        },
-        {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
           "url": "https://www.cls.cn/detail/2428477",
           "source": "财联社热门",
@@ -841,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2429653",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "SK集团会长称SK海力士股票长期将呈上涨趋势",
@@ -885,12 +1000,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "证监会同意江苏高凯精密流体技术股份有限公司首次公开发行股票注册。",
+          "url": "https://flash.jin10.com/detail/20260717171157466800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "硅谷101对谈OpenClaw向涛",
@@ -904,15 +1030,27 @@
           "time_info": "[15时22分 ~ 15时23分]"
         },
         {
+          "title": "AI Agent开始协作：阶跃与支付宝互通解决“最后一步”",
+          "url": "https://wallstreetcn.com/livenews/3135628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
           "title": "小龙虾为何降价了",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BD%95%E9%99%8D%E4%BB%B7%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时04分]"
         }
       ]
     },
