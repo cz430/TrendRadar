@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:59:36.085479+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-18T11:22:29.842761+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -15,11 +15,12 @@
             3,
             2,
             6,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -27,11 +28,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -39,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -54,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -80,6 +83,50 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时58分]"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://flash.jin10.com/detail/20260718104940134800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://wallstreetcn.com/livenews/3135957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+          "url": "https://www.zhihu.com/question/2061411962487924266",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -165,6 +212,29 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
+          "title": "AI能终结癌症吗",
+          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
+        },
+        {
           "title": "法国博主在上海被AI震撼",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
@@ -176,6 +246,50 @@
           "time_info": "[04时09分 ~ 04时10分]"
         },
         {
+          "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2061099332632416849",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "95后夫妻手搓500集AI漫剧爆火",
+          "url": "https://s.weibo.com/weibo?q=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+          "url": "https://flash.jin10.com/detail/20260718101548208800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
           "url": "https://wallstreetcn.com/livenews/3135823",
           "source": "华尔街见闻-快讯",
@@ -185,6 +299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -209,17 +334,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "AI能终结癌症吗",
-          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260717233136087800",
           "source": "金十数据",
@@ -242,17 +356,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
           "url": "https://wallstreetcn.com/livenews/3135867",
           "source": "华尔街见闻-快讯",
@@ -262,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "UP主带你看WAIC",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%9C%8BWAIC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
@@ -278,7 +392,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -288,8 +402,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2429653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "四人操纵股票获利1.57亿被罚没6.27亿",
@@ -306,19 +434,6 @@
           "time_info": "[00时19分 ~ 07时59分]"
         },
         {
-          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2429653",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
-        },
-        {
           "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
           "url": "https://wallstreetcn.com/articles/3777225",
           "source": "华尔街见闻",
@@ -326,11 +441,23 @@
             10,
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时10分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[02时10分 ~ 11时22分]"
+        },
+        {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "美银：关键指标极度看涨，建议抛售股票",
@@ -371,6 +498,18 @@
           "time_info": "[05时58分 ~ 07时59分]"
         },
         {
+          "title": "4人操纵股票被罚没6.27亿元",
+          "url": "https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E7%BD%9A%E6%B2%A16.27%E4%BA%BF%E5%85%83%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
+        },
+        {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
           "url": "https://flash.jin10.com/detail/20260717235035290800",
           "source": "金十数据",
@@ -380,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "迎峰度夏大考：16亿千瓦最高负荷逼近，电力保供如何“赢”战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605623",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "股票私募仓位创近4年新高，超七成百亿私募处于满仓状态",
@@ -393,24 +543,13 @@
           "time_info": "00时20分"
         },
         {
-          "title": "4人操纵股票被罚没6.27亿元",
-          "url": "https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%93%8D%E7%BA%B5%E8%82%A1%E7%A5%A8%E8%A2%AB%E7%BD%9A%E6%B2%A16.27%E4%BA%BF%E5%85%83%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -462,7 +601,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -471,11 +610,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -488,6 +628,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 06时58分]"
+        },
+        {
+          "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "如何看待 Kimi K3 模型价格较上一代翻 5 倍，达到输出 100 元，输入 20 元，缓存命中 1 元？",
@@ -504,17 +657,15 @@
           "time_info": "[00时19分 ~ 07时59分]"
         },
         {
-          "title": "2.8万亿！全球参数最大开源模型Kimi K3发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603681",
-          "source": "澎湃新闻",
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            18,
-            19
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 07时59分]"
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -528,15 +679,16 @@
           "time_info": "06时58分"
         },
         {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
         },
         {
           "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
@@ -550,6 +702,18 @@
           "time_info": "[00时19分 ~ 02时10分]"
         },
         {
+          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
+          "url": "https://wallstreetcn.com/articles/3777236",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 11时22分]"
+        },
+        {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3135881",
           "source": "华尔街见闻-快讯",
@@ -561,26 +725,26 @@
           "time_info": "04时10分"
         },
         {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "11时22分"
         },
         {
-          "title": "Kimi K3 横空出世，大摩：中国前沿大模型已实现全面追赶，规模、性能与定价同步突破",
-          "url": "https://wallstreetcn.com/articles/3777236",
-          "source": "华尔街见闻",
+          "title": "KimiK3测评",
+          "url": "https://s.weibo.com/weibo?q=KimiK3%E6%B5%8B%E8%AF%84&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "11时22分"
         },
         {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
@@ -637,11 +801,12 @@
             26,
             28,
             30,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX市值较峰值时期蒸发超1万亿美元。",
