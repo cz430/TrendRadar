@@ -1,11 +1,293 @@
 {
-  "generated_at": "2026-07-20T11:38:34.803221+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-07-20T14:53:41.031902+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 机器学习 深度学习 强化学习",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 14时53分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 14时53分]"
+        },
+        {
+          "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
+          "url": "https://wallstreetcn.com/livenews/3136379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时05分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "中国成为全球AI发展与治理关键力量",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83AI%E5%8F%91%E5%B1%95%E4%B8%8E%E6%B2%BB%E7%90%86%E5%85%B3%E9%94%AE%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3136341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时01分]"
+        },
+        {
+          "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
+          "url": "https://www.cls.cn/detail/2430678",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
+        },
+        {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
+        },
+        {
+          "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
+          "url": "https://wallstreetcn.com/livenews/3136321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时01分]"
+        },
+        {
+          "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
+          "url": "https://www.cls.cn/detail/2430847",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
+          "url": "https://flash.jin10.com/detail/20260720070039657800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
+          "url": "https://www.cls.cn/detail/2430890",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://www.cls.cn/detail/2430865",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "工信部：基于5G的智能终端类型不断丰富，人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点。",
+          "url": "https://wallstreetcn.com/livenews/3136510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "AI如何成为我们的智能伙伴",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%88%91%E4%BB%AC%E7%9A%84%E6%99%BA%E8%83%BD%E4%BC%99%E4%BC%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "姚期智：中国AI产业领跑全球",
+          "url": "https://flash.jin10.com/detail/20260719232612191800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "王祖贤AI人脸授权",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "夏奇拉DaiDai二创reaction",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89DaiDai%E4%BA%8C%E5%88%9Breaction",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
+          "url": "https://wallstreetcn.com/livenews/3136481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -86,9 +368,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
         },
         {
           "title": "智谱、MiniMax股价大跌，市场关注国产大模型密集更新",
@@ -97,7 +379,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
@@ -114,6 +396,30 @@
           "time_info": "[01时04分 ~ 04时58分]"
         },
         {
+          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+          "url": "https://www.zhihu.com/question/2062310754481656074",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
+        },
+        {
+          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+          "url": "https://wallstreetcn.com/articles/3777376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
+        },
+        {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
           "url": "https://www.zhihu.com/question/2061156114658485568",
           "source": "知乎",
@@ -126,26 +432,16 @@
           "time_info": "[01时04分 ~ 03时13分]"
         },
         {
-          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
-          "url": "https://www.zhihu.com/question/2062310754481656074",
-          "source": "知乎",
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            14,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
-          "url": "https://wallstreetcn.com/articles/3777376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
         },
         {
           "title": "Kimi K3引发算力逻辑讨论",
@@ -154,20 +450,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
+          "title": "OpenAI称Kimi开源是减速主义",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
+          "time_info": "14时53分"
+        },
+        {
+          "title": "直击WAIC 2026：大模型迈入万亿参数时代，国产AI超节点上演“群雄逐鹿”",
+          "url": "https://www.cls.cn/detail/2430567",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
+          "url": "https://wallstreetcn.com/livenews/3136627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
@@ -181,212 +499,32 @@
           "time_info": "04时58分"
         },
         {
+          "title": "DeepSeekV4能超越KimiK3吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E8%83%BD%E8%B6%85%E8%B6%8AKimiK3%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "​中国信通院正式启动“AISHPerf大模型训练与推理工程实践性能基准研究工作”",
           "url": "https://flash.jin10.com/detail/20260720105806876800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 11时38分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 11时38分]"
-        },
-        {
-          "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
-          "url": "https://wallstreetcn.com/livenews/3136379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时05分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时05分]"
-        },
-        {
-          "title": "中国成为全球AI发展与治理关键力量",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83AI%E5%8F%91%E5%B1%95%E4%B8%8E%E6%B2%BB%E7%90%86%E5%85%B3%E9%94%AE%E5%8A%9B%E9%87%8F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3136341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时01分]"
-        },
-        {
-          "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
-          "url": "https://wallstreetcn.com/livenews/3136321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时01分]"
-        },
-        {
-          "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
-          "url": "https://flash.jin10.com/detail/20260720070039657800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "用AI预测西班牙vs阿根廷",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "2026 WAIC深度观察：具身智能告别“秀场时代”",
-          "url": "https://www.cls.cn/detail/2430678",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "工信部：基于5G的智能终端类型不断丰富，人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点。",
-          "url": "https://wallstreetcn.com/livenews/3136510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
-          "url": "https://www.zhihu.com/question/2062127994513183627",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "姚期智：中国AI产业领跑全球",
-          "url": "https://flash.jin10.com/detail/20260719232612191800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "工信部：上半年规模以上制造业企业AI技术应用普及率超过30%",
-          "url": "https://wallstreetcn.com/livenews/3136481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
-          "url": "https://wallstreetcn.com/livenews/3136278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国诚通、中国国新出手，增持中国股票资产",
@@ -399,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 11时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 14时53分]"
         },
         {
           "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
@@ -409,9 +547,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时53分]"
         },
         {
           "title": "中国诚通大额增持中国股票资产",
@@ -506,9 +644,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "百亿私募扎堆自购，逆势加仓同步，股票私募仓位指数已创四年新高",
+          "url": "https://www.cls.cn/detail/2430946",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "“国家队”宣布增持股票",
+          "url": "https://www.douyin.com/hot/2577809",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "山东发布脑机接口临床转化方案",
+          "url": "https://wallstreetcn.com/livenews/3136630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "深成指下行翻绿，此前一度涨近2%，沪指、创业板指涨幅同步收窄，电子特气、存储芯片、PCB、锂矿等方向跌幅居前，沪深京三市下跌个股超2100只。",
@@ -517,7 +688,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
@@ -534,7 +705,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
         }
