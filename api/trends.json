@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T18:29:58.187563+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-07-21T20:26:37.340791+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 20时26分]"
+        },
+        {
+          "title": "3567亿股票ETF逆市抄底创纪录，哪些力量在集中扫货？",
+          "url": "https://www.cls.cn/detail/2432534",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时26分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "3567亿股票ETF逆市抄底创纪录，哪些力量在集中扫货？",
-          "url": "https://www.cls.cn/detail/2432534",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "荷兰半导体股票上涨，ASMI、BESI、阿斯麦涨幅在2.4%至3%之间。",
@@ -145,6 +145,28 @@
           "time_info": "[12时18分 ~ 12时19分]"
         },
         {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时26分]"
+        },
+        {
+          "title": "3567亿股票ETF逆市抄底创纪录",
+          "url": "https://www.baidu.com/s?wd=3567%E4%BA%BF%E8%82%A1%E7%A5%A8ETF%E9%80%86%E5%B8%82%E6%8A%84%E5%BA%95%E5%88%9B%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时26分]"
+        },
+        {
           "title": "存储芯片的定价权之争",
           "url": "https://search.bilibili.com/all?keyword=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83%E4%B9%8B%E4%BA%89",
           "source": "bilibili 热搜",
@@ -173,7 +195,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -233,26 +255,26 @@
           "time_info": "02时10分"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "澜起科技：DDR5 RCD芯片出货量显著增加 CPU需求增加将推动内存互连芯片市场规模扩大",
           "url": "https://wallstreetcn.com/livenews/3137509",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "【长鑫科技：网上投资者放弃认购658.62万股】长鑫科技公告称，公司首次公开发行股票并在科创板上市发行结果已公布。本次发行价格为8.66元/股，初始发行股份数量为66.88亿股，占发行后总股本约10%。最终战略配售数量为16.67亿股，网上发行最终中签率约为0.47141739%。网上投资者缴款认购38.45亿股，放弃认购658.62万股；网下投资者缴款认购21.73亿股，放弃认购31567股。联席主承销商包销股份661.78万股，包销金额5731.01万元。超额配售选择权行使前，发行费用为2.81亿元。",
+          "url": "https://wallstreetcn.com/livenews/3137562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "A股收评：创业板指收涨7.05%，芯片产业链集体爆发",
@@ -299,17 +321,6 @@
           "time_info": "15时36分"
         },
         {
-          "title": "3567亿股票ETF逆市抄底创纪录",
-          "url": "https://www.baidu.com/s?wd=3567%E4%BA%BF%E8%82%A1%E7%A5%A8ETF%E9%80%86%E5%B8%82%E6%8A%84%E5%BA%95%E5%88%9B%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "创业板指涨超5%，半导体设备、MLCC、存储芯片、先进封装、PCB等板块大涨；成分股中，国瓷材料20cm涨停，长川科技等近10股涨超10%。",
           "url": "https://flash.jin10.com/detail/20260721112906595800",
           "source": "金十数据",
@@ -335,7 +346,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
@@ -416,9 +427,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时26分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -444,40 +467,30 @@
           "time_info": "[02时10分 ~ 08时02分]"
         },
         {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 18时29分]"
-        },
-        {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
             6,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时26分]"
+        },
+        {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时26分]"
         },
         {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
@@ -493,6 +506,19 @@
           "time_info": "[12时18分 ~ 18时29分]"
         },
         {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 20时26分]"
+        },
+        {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
@@ -505,16 +531,15 @@
           "time_info": "[06时05分 ~ 08时02分]"
         },
         {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时36分 ~ 18时29分]"
+          "time_info": "[18时29分 ~ 20时26分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
@@ -539,17 +564,6 @@
           "time_info": "15时36分"
         },
         {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "法院批准1.22亿美元的律师费及成本，将支付给作家。 该交易是美国历史上最大的版权集体诉讼和解案。 Anthropic与作家15亿美元的版权和解协议获得批准。（彭博法律Blaw）",
           "url": "https://wallstreetcn.com/livenews/3137091",
           "source": "华尔街见闻-快讯",
@@ -559,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "阿里千问Qwen3.8-Max-Preview最新版本上线",
+          "url": "https://wallstreetcn.com/livenews/3137557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -578,7 +603,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -663,7 +688,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI不准用,日本漫画家被迫停更",
@@ -674,11 +699,12 @@
             11,
             18,
             22,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时10分 ~ 18时29分]"
+          "appearance_count": 10,
+          "time_info": "[02时10分 ~ 20时26分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -732,6 +758,17 @@
           "time_info": "[02时10分 ~ 06时05分]"
         },
         {
+          "title": "美国财长贝森特：认为今年可通过支付系统改革节省3.5亿美元。 正在追踪阿亚图拉的财产，希望能显示地址。 已听闻关于开源AI模型威胁美国的讨论。 美国支持开源AI模型，但反对侵犯知识产权。",
+          "url": "https://wallstreetcn.com/livenews/3137575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "Rain喊话NiKo大表哥对决",
           "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
           "source": "bilibili 热搜",
@@ -749,7 +786,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -764,6 +801,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时18分 ~ 18时29分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 20时26分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -826,18 +876,6 @@
           "time_info": "[08时01分 ~ 12时19分]"
         },
         {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 18时29分]"
-        },
-        {
           "title": "WAIC机器人格斗拳拳到铁",
           "url": "https://www.douyin.com/hot/2576677",
           "source": "抖音",
@@ -847,6 +885,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时26分]"
         },
         {
           "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
@@ -869,17 +919,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
-          "url": "https://www.cls.cn/detail/2432387",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "瑞银证券孟磊：短期震荡后，继续看好科技和AI为下半年市场主线",
@@ -915,6 +954,17 @@
           "time_info": "15时36分"
         },
         {
+          "title": "美团客服辟谣“骑手配送费本科8元、硕士15元、博士88元”：网传截图不属实，系AI生成",
+          "url": "https://wallstreetcn.com/livenews/3137545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "全女团队创作了3个AI男主",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A5%B3%E5%9B%A2%E9%98%9F%E5%88%9B%E4%BD%9C%E4%BA%863%E4%B8%AAAI%E7%94%B7%E4%B8%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -932,7 +982,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -954,7 +1004,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
