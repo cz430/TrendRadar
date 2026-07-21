@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T05:17:01.528498+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-22T07:02:58.806795+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
@@ -15,8 +15,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -30,37 +53,28 @@
           "time_info": "[01时26分 ~ 05时17分]"
         },
         {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
-        },
-        {
           "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
           "url": "https://wallstreetcn.com/articles/3777546",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时02分]"
+        },
+        {
+          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+          "url": "https://www.zhihu.com/question/2063033606767895735",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时02分]"
         },
         {
           "title": "实探月之暗面Kimi：K3之后，算力、开源与商业化怎么走？",
@@ -68,17 +82,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 05时17分]"
-        },
-        {
-          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
-          "url": "https://www.zhihu.com/question/2063033606767895735",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -102,7 +105,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -124,7 +127,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -138,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061356466783642903",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
@@ -179,7 +193,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -212,7 +226,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -231,7 +245,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -241,19 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -262,11 +265,24 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
@@ -277,8 +293,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260722064209185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -293,13 +320,24 @@
           "time_info": "[01时26分 ~ 05时17分]"
         },
         {
+          "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
+          "url": "https://flash.jin10.com/detail/20260722064010298800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
           "url": "https://wallstreetcn.com/livenews/3137752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -310,7 +348,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
@@ -326,6 +364,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
+          "url": "https://flash.jin10.com/detail/20260722062234546800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
           "url": "https://wallstreetcn.com/livenews/3137685",
           "source": "华尔街见闻-快讯",
@@ -335,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
+          "url": "https://wallstreetcn.com/livenews/3137778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
@@ -373,8 +433,19 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
@@ -388,15 +459,15 @@
           "time_info": "[01时26分 ~ 05时17分]"
         },
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
+          "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
+          "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -422,6 +493,28 @@
           "time_info": "[01时26分 ~ 01时27分]"
         },
         {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
+          "url": "https://flash.jin10.com/detail/20260722062701635800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "SpaceX的宏大解禁即将来临，逾千亿美元股票将可上市交易",
           "url": "https://wallstreetcn.com/livenews/3137686",
           "source": "华尔街见闻-快讯",
@@ -431,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
+          "url": "https://wallstreetcn.com/livenews/3137777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
@@ -467,7 +571,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
