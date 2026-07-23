@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-23T12:19:35.648305+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2026-07-23T15:36:38.370991+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 15时36分]"
+        },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
           "url": "https://www.cls.cn/detail/2434359",
@@ -15,18 +27,6 @@
             3,
             2,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时19分]"
-        },
-        {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 15时36分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时19分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 15时36分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -76,11 +76,34 @@
           "source": "贴吧",
           "ranks": [
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 15时36分]"
+        },
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -128,17 +151,6 @@
           "time_info": "[00时24分 ~ 08时05分]"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "谷歌财报",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%B4%A2%E6%8A%A5&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -172,24 +184,13 @@
           "time_info": "08时05分"
         },
         {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
           "title": "趋境科技力争五年内建成万卡级AI Token工厂",
           "url": "https://flash.jin10.com/detail/20260723115159162800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -287,6 +288,39 @@
           "time_info": "00时24分"
         },
         {
+          "title": "月之暗面 Kimi K3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "DeepSeek首轮融资500亿，梁文锋4小时回应一切：越不贪婪，越容易成功",
+          "url": "https://www.cls.cn/detail/2434965",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "OpenAI模型“越狱”攻击，救场的竟是中国AI工具",
           "url": "https://news.ifeng.com/c/8uyaFs12NfO",
           "source": "凤凰网",
@@ -304,9 +338,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
+          "url": "https://www.cls.cn/detail/2434535",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -381,7 +437,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -458,9 +514,249 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 06时10分]"
+        },
+        {
+          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
+          "url": "https://wallstreetcn.com/articles/3777659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 08时05分]"
+        },
+        {
+          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
+          "url": "https://wallstreetcn.com/livenews/3138442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：TeraFab芯片制造设施对于扩大Optimus的生产规模至关重要。",
+          "url": "https://flash.jin10.com/detail/20260723054419319800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "中国“芯片刻刀”终于出鞘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E2%80%9D%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 12时19分]"
+        },
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "中国“芯片刻刀”终于出鞘",
+          "url": "https://www.toutiao.com/trending/7664586420367376438/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
+          "url": "https://wallstreetcn.com/livenews/3138427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "中国芯片刻刀终于出鞘",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "意法半导体在米兰上市的股票开始交易，跌幅14%。",
+          "url": "https://flash.jin10.com/detail/20260723150617379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "据韩国《中央日报》：三星电子与SK海力士第一季度的平均营业利润率为69%，而其他芯片相关企业为8%。",
+          "url": "https://flash.jin10.com/detail/20260723073056531800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "“十五五”数字浙江建设规划：着力推动图形处理器（GPU）技术攻关",
+          "url": "https://wallstreetcn.com/livenews/3138670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
+          "url": "https://flash.jin10.com/detail/20260723071555633800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "A股收评：沪指收涨0.25%，电力板块掀涨停潮",
+          "url": "https://flash.jin10.com/detail/20260723150410979800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "英特尔为旗下美国俄亥俄州芯片工厂寻找合作伙伴。 包括SK海力士在内，多家公司考虑在俄亥俄州问题上与英特尔合作。 SK海力士尚未与英特尔正式讨论。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3138420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美国财经媒体Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK海力士正在考虑与英特尔合作。",
+          "url": "https://flash.jin10.com/detail/20260723051057743800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3138365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+          "url": "https://wallstreetcn.com/livenews/3138662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "三大指数集体翻绿，科创50跌近4%，半导体芯片、白酒、游戏等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3138561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "多家外资机构发声看好A股市场看多中国股票",
+          "url": "https://wallstreetcn.com/livenews/3138445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3138360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
@@ -674,7 +970,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -703,203 +999,8 @@
       ]
     },
     {
-      "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时10分]"
-        },
-        {
-          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
-          "url": "https://wallstreetcn.com/articles/3777659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 08时05分]"
-        },
-        {
-          "title": "马斯克：美光科技已经给予特斯拉存储芯片（供应）配额。",
-          "url": "https://wallstreetcn.com/livenews/3138442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：TeraFab芯片制造设施对于扩大Optimus的生产规模至关重要。",
-          "url": "https://flash.jin10.com/detail/20260723054419319800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "中国“芯片刻刀”终于出鞘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E2%80%9D%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时19分]"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
-          "url": "https://wallstreetcn.com/livenews/3138427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "中国芯片刻刀终于出鞘",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "据韩国《中央日报》：三星电子与SK海力士第一季度的平均营业利润率为69%，而其他芯片相关企业为8%。",
-          "url": "https://flash.jin10.com/detail/20260723073056531800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "马斯克：美光向特斯拉提供了“大量”存储芯片",
-          "url": "https://flash.jin10.com/detail/20260723071555633800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "英特尔为旗下美国俄亥俄州芯片工厂寻找合作伙伴。 包括SK海力士在内，多家公司考虑在俄亥俄州问题上与英特尔合作。 SK海力士尚未与英特尔正式讨论。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3138420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美国财经媒体Semafor：英特尔寻求俄亥俄州芯片厂的运营合作伙伴。SK海力士正在考虑与英特尔合作。",
-          "url": "https://flash.jin10.com/detail/20260723051057743800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
-          "url": "https://wallstreetcn.com/livenews/3138365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "中国“芯片刻刀”终于出鞘",
-          "url": "https://www.toutiao.com/trending/7664586420367376438/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "三大指数集体翻绿，科创50跌近4%，半导体芯片、白酒、游戏等方向跌幅居前，沪深京三市下跌个股近2100只。",
-          "url": "https://wallstreetcn.com/livenews/3138561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "多家外资机构发声看好A股市场看多中国股票",
-          "url": "https://wallstreetcn.com/livenews/3138445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3138360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -919,11 +1020,12 @@
           "ranks": [
             6,
             5,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 15时36分]"
         },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -938,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 08时05分]"
+        },
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 15时36分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -955,15 +1068,16 @@
           "time_info": "[00时24分 ~ 08时05分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时19分]"
+          "time_info": "[12时19分 ~ 15时36分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -979,15 +1093,15 @@
           "time_info": "[00时24分 ~ 08时05分]"
         },
         {
-          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
-          "url": "https://www.cls.cn/detail/2434534",
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "15时36分"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -1004,6 +1118,41 @@
           "time_info": "[04时15分 ~ 12时19分]"
         },
         {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 15时36分]"
+        },
+        {
           "title": "受AI融资热潮推动，上半年全球企业债券发行总额近3.7万亿美元",
           "url": "https://flash.jin10.com/detail/20260723075814806800",
           "source": "金十数据",
@@ -1015,26 +1164,15 @@
           "time_info": "08时05分"
         },
         {
-          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
-          "url": "https://wallstreetcn.com/articles/3777694",
-          "source": "华尔街见闻",
+          "title": "男子AI伪造烂水果仅退款连累全县",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "15时36分"
         },
         {
           "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
@@ -1043,20 +1181,64 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
         {
-          "title": "rain回应战胜猎鹰",
-          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
-          "source": "bilibili 热搜",
+          "title": "英特尔财报在即 市场关注AI芯片需求、裁员及与苹果的潜在合作",
+          "url": "https://flash.jin10.com/detail/20260723150653718800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时19分"
+          "time_info": "15时36分"
+        },
+        {
+          "title": "黄仁勋反对美国封禁中国AI模型",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B0%81%E7%A6%81%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "AI是当代年轻人的精神寄托",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%98%AF%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%AF%84%E6%89%98&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "给“AI”发身份证 国内首个智能体互联标准体系发布",
+          "url": "https://wallstreetcn.com/livenews/3138661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "rain淘汰猎鹰高光集锦",
+          "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
