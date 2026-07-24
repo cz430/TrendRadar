@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:01:57.961732+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-24T11:18:03.061328+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -19,6 +19,18 @@
           "time_info": "[01时35分 ~ 07时01分]"
         },
         {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 11时18分]"
+        },
+        {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
@@ -30,28 +42,41 @@
           "time_info": "[01时35分 ~ 05时10分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
           "url": "https://www.cls.cn/detail/2435521",
           "source": "财联社热门",
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 11时18分]"
+        },
+        {
+          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 11时18分]"
+        },
+        {
+          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
+          "url": "https://wallstreetcn.com/livenews/3139199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -92,16 +117,37 @@
           "time_info": "[01时35分 ~ 07时01分]"
         },
         {
-          "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33644191",
-          "source": "澎湃新闻",
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 07时01分]"
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
+          "url": "https://www.cls.cn/detail/2435740",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "中国AI大反超，美国还能挡多久？",
+          "url": "https://news.ifeng.com/c/8uzcXG8YK32",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         },
         {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
@@ -121,7 +167,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -132,7 +178,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -143,7 +189,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -165,9 +211,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "公安部：上半年共侦办利用AI工具生成网络谣言案件170余起",
+          "url": "https://flash.jin10.com/detail/20260724105400815800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
@@ -236,6 +293,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "一夜蒸发近8千亿美元！“七巨头”迎一年多来最猛下跌，AI狂欢结束了？",
+          "url": "https://flash.jin10.com/detail/20260724104649902800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
           "url": "https://wallstreetcn.com/livenews/3138987",
           "source": "华尔街见闻-快讯",
@@ -250,7 +318,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -307,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 11时18分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -459,6 +527,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "美国抨击欧盟重罚谷歌并向空客提供贷款，称有损跨大西洋贸易稳定",
           "url": "https://wallstreetcn.com/livenews/3139004",
           "source": "华尔街见闻-快讯",
@@ -473,8 +552,19 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "工信部公开征求《汽车芯片信息安全技术规范》等10项推荐性国家标准报批意见。",
+          "url": "https://flash.jin10.com/detail/20260724105922784800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025443791800",
@@ -510,15 +600,59 @@
           "time_info": "[01时35分 ~ 07时01分]"
         },
         {
+          "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
+          "url": "https://wallstreetcn.com/articles/3777822",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "电力股震荡走低，乐山电力逼近跌停，湖南发展、九洲集团、桂冠电力、京能电力、华电能源、金开新能等十余股跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3139196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "科创50指数涨超1%，存储芯片板块回升；成分股中，晶晨股份涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260724105535584800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
           "title": "新加坡政府投资公司GIC：截至3月底，股票投资组合占比为56%，一年前为51%。固定收益投资组合占比为22%，一年前为26%。实物资产投资组合占比为22%，一年前为23%。",
           "url": "https://flash.jin10.com/detail/20260724060004100800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "三大指数均跌超1%，贵金属、电力、算力租赁、医药等方向跌幅居前，沪深京三市下跌个股近4900只。",
+          "url": "https://wallstreetcn.com/livenews/3139184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "英特尔(INTC.O)首席财务官：2026年将比2025年多购买40%的芯片制造设备。",
@@ -527,7 +661,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
