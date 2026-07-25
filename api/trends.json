@@ -1,11 +1,378 @@
 {
-  "generated_at": "2026-07-25T19:16:51.888181+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-07-25T21:46:46.708084+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI 机器学习 深度学习 强化学习",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 05时10分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 21时46分]"
+        },
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 05时10分]"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 11时16分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 11时16分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 21时46分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
+          "url": "https://flash.jin10.com/detail/20260725010418061800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时16分]"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 19时16分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 05时10分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 07时06分]"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 05时10分]"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时16分]"
+        },
+        {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 14时23分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 21时46分]"
+        },
+        {
+          "title": "马光远：AI伟大不代表AI股票永远上涨",
+          "url": "https://www.toutiao.com/trending/7666074698865708594/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 01时43分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
+          "url": "https://flash.jin10.com/detail/20260725010411292800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：Meta AI应用及Meta.ai的新功能将于7月24日起在部分市场陆续推出。",
+          "url": "https://flash.jin10.com/detail/20260725010359291800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)将在AI封装技术领域与Lens Tech合作。",
+          "url": "https://flash.jin10.com/detail/20260725005013803800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
+        {
+          "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260725131703808800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
+          "url": "https://flash.jin10.com/detail/20260725131131676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
+          "url": "https://flash.jin10.com/detail/20260725131053313800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
+          "url": "https://wallstreetcn.com/livenews/3139600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
+        },
+        {
+          "title": "英伟达与SK集团推出5000亿美元AI计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
+          "url": "https://wallstreetcn.com/livenews/3139690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260725123126272800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -18,8 +385,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 21时46分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -27,11 +394,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 21时46分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -91,17 +459,6 @@
           "time_info": "03时37分"
         },
         {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
           "url": "https://wallstreetcn.com/livenews/3139722",
           "source": "华尔街见闻-快讯",
@@ -126,6 +483,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时23分 ~ 19时16分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 21时46分]"
         },
         {
           "title": "Claude Opus 5发布",
@@ -171,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "谷歌：对近期欧盟委员会相关决定的影响表示担忧；对美国政府的参与表达感谢。",
@@ -223,7 +603,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -300,318 +680,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时10分]"
-        },
-        {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时10分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 19时16分]"
-        },
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 11时16分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 11时16分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
-          "url": "https://flash.jin10.com/detail/20260725010418061800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时16分]"
-        },
-        {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 19时16分]"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 05时10分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 19时16分]"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 07时06分]"
-        },
-        {
-          "title": "AI重现狼牙山五壮士英雄壮举",
-          "url": "https://www.toutiao.com/trending/7666058970050183209/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 05时10分]"
-        },
-        {
-          "title": "AI已经摸不透柯洁了",
-          "url": "https://www.douyin.com/hot/2584747",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时16分]"
-        },
-        {
-          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
-          "url": "https://wallstreetcn.com/livenews/3139701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 14时23分]"
-        },
-        {
-          "title": "马光远：AI伟大不代表AI股票永远上涨",
-          "url": "https://www.toutiao.com/trending/7666074698865708594/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：未来几周内，Meta AI 的新功能将扩展至更多国家及平台（包括WhatsApp）。",
-          "url": "https://flash.jin10.com/detail/20260725010411292800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：Meta AI应用及Meta.ai的新功能将于7月24日起在部分市场陆续推出。",
-          "url": "https://flash.jin10.com/detail/20260725010359291800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)将在AI封装技术领域与Lens Tech合作。",
-          "url": "https://flash.jin10.com/detail/20260725005013803800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        },
-        {
-          "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260725131703808800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
-          "url": "https://flash.jin10.com/detail/20260725131131676800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
-          "url": "https://flash.jin10.com/detail/20260725131053313800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
-          "url": "https://wallstreetcn.com/livenews/3139600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时37分"
-        },
-        {
-          "title": "英伟达与SK集团推出5000亿美元AI计划",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
-          "url": "https://wallstreetcn.com/livenews/3139690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
-          "url": "https://flash.jin10.com/detail/20260725123126272800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
         }
       ]
     },
@@ -628,11 +699,12 @@
             3,
             2,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 21时46分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -643,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 21时46分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -655,8 +727,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 21时46分]"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 21时46分]"
         },
         {
           "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
@@ -702,20 +788,6 @@
             10,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 19时16分]"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -882,6 +954,19 @@
           "time_info": "[01时42分 ~ 17时04分]"
         },
         {
+          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
+          "url": "https://wallstreetcn.com/articles/3777914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 21时46分]"
+        },
+        {
           "title": "马斯克点赞黄仁勋首条推文：完全支持黄仁勋",
           "url": "https://flash.jin10.com/detail/20260725135755728800",
           "source": "金十数据",
@@ -928,18 +1013,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 07时06分]"
-        },
-        {
-          "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
-          "url": "https://wallstreetcn.com/articles/3777914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时16分]"
         },
         {
           "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
@@ -1039,6 +1112,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小龙虾价格腰斩 全国每人5斤才能吃完",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9+%E5%85%A8%E5%9B%BD%E6%AF%8F%E4%BA%BA5%E6%96%A4%E6%89%8D%E8%83%BD%E5%90%83%E5%AE%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     }
