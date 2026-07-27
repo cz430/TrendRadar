@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T03:43:19.347750+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-07-28T05:17:04.512821+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "国内首部AI长片首播",
@@ -15,19 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
-          "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
-          "url": "https://wallstreetcn.com/livenews/3140484",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
+          "url": "https://flash.jin10.com/detail/20260728045414356800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "05时17分"
         },
         {
           "title": "各个行业被AI取代的概率",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "真有人把AI的照片当成自己",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -62,19 +62,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -84,8 +85,32 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
+        },
+        {
+          "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
+          "url": "https://wallstreetcn.com/livenews/3140484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时17分]"
+        },
+        {
+          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
+          "url": "https://www.cls.cn/detail/2438154",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "time_info": "[03时43分 ~ 05时17分]"
         },
         {
           "title": "安徽卫视播AI剧 明确标注AI制作",
@@ -133,6 +158,17 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
+          "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
+          "url": "https://www.cls.cn/detail/2437876",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时17分]"
+        },
+        {
           "title": "佛得角门将签约“泪洒现场”图是AI",
           "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E7%AD%BE%E7%BA%A6%E2%80%9C%E6%B3%AA%E6%B4%92%E7%8E%B0%E5%9C%BA%E2%80%9D%E5%9B%BE%E6%98%AFAI",
           "source": "百度热搜",
@@ -144,13 +180,35 @@
           "time_info": "[01时48分 ~ 01时49分]"
         },
         {
+          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
+          "url": "https://flash.jin10.com/detail/20260728042311728800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "url": "https://wallstreetcn.com/livenews/3140508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
           "title": "2026年AI发现的网络安全漏洞数量恐怕将是2025年的两倍",
           "url": "https://wallstreetcn.com/livenews/3140476",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -161,18 +219,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
-          "url": "https://www.cls.cn/detail/2438154",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -212,8 +259,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
+        },
+        {
+          "title": "外媒丑化Kimi创始人惹众怒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
+        },
+        {
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
+        },
+        {
+          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
+          "url": "https://www.zhihu.com/question/2064349598202779354",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -240,52 +334,6 @@
           "time_info": "[01时48分 ~ 03时43分]"
         },
         {
-          "title": "外媒丑化Kimi创始人惹众怒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356529&amp;topic_name=%E5%A4%96%E5%AA%92%E4%B8%91%E5%8C%96Kimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%83%B9%E4%BC%97%E6%80%92",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
-        },
-        {
-          "title": "Claude Opus 5 系统提示词泄漏，膨胀到 20 万字符的系统提示词，你怎么看？",
-          "url": "https://www.zhihu.com/question/2064349598202779354",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
-        },
-        {
           "title": "小米大模型调用量全球第一",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
@@ -304,7 +352,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -312,7 +360,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
@@ -322,19 +370,53 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
-          "title": "美国芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
-          "url": "https://wallstreetcn.com/livenews/3140483",
+          "title": "明晟公司MSCI新兴市场股票指数涨0.9%，外汇指数涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3140514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3140513",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
+          "url": "https://wallstreetcn.com/livenews/3140483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 05时17分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC：将于9月份启动应急电力拍卖。 这是一个“可靠的后备程序”。 “拍卖电价成本”将分摊给众多数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3140507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
@@ -346,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040600311800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
@@ -358,11 +451,12 @@
           "url": "https://www.toutiao.com/trending/7666243604578435078/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         },
         {
           "title": "饭店老板撞脸马斯克爆火",
@@ -370,11 +464,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 05时17分]"
         }
       ]
     },
@@ -389,7 +484,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
