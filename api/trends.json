@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:47:28.845016+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2026-07-30T16:36:18.564659+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时36分]"
         },
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778264",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时36分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时36分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -48,11 +49,12 @@
           "ranks": [
             8,
             10,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 16时36分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -61,11 +63,12 @@
           "ranks": [
             15,
             17,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 16时36分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -74,11 +77,34 @@
           "ranks": [
             16,
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 16时36分]"
+        },
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "美股盘前，存储概念股持续走低，美光科技跌超2%，SK海力士跌3.5%；Meta Platforms下跌超8%，公司营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低；微软盘前上涨7%，上季业绩强劲，云收入增超40%，资本支出低于预期；高通盘前跌超5%，Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3142278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -116,6 +142,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 05时03分]"
+        },
+        {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时36分]"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时36分]"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -162,26 +212,15 @@
           "time_info": "10时46分"
         },
         {
-          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
-          "url": "https://wallstreetcn.com/articles/3778220",
-          "source": "华尔街见闻",
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "16时36分"
         },
         {
           "title": "AI眼镜是真需求还是智商税",
@@ -193,6 +232,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
+          "url": "https://www.zhihu.com/question/2065739036937773921",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -223,7 +284,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -307,7 +368,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -318,7 +379,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -329,7 +390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -362,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -384,7 +445,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -414,7 +475,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -436,8 +497,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 13时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 16时36分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -484,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "港股收盘，恒指收涨0.2%，科指收跌1.25%；新东方(09901.HK)涨超18.8%，京东物流(02618.HK)涨超3.5%，智谱(02513.HK)跌超16.5%，中际旭创(03308.HK)上市首日收跌2%。",
+          "url": "https://flash.jin10.com/detail/20260730160947575800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
@@ -536,7 +608,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -566,7 +638,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "曝马斯克拟斥巨资助力共和党中期选举",
@@ -575,7 +647,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -631,7 +703,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -647,13 +719,24 @@
           "time_info": "10时46分"
         },
         {
+          "title": "雷军同款项链仅售8.8元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%90%8C%E6%AC%BE%E9%A1%B9%E9%93%BE%E4%BB%85%E5%94%AE8.8%E5%85%83%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "雷军强调两遍只有澎程能做",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%BC%BA%E8%B0%83%E4%B8%A4%E9%81%8D%E5%8F%AA%E6%9C%89%E6%BE%8E%E7%A8%8B%E8%83%BD%E5%81%9A%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -668,11 +751,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 16时36分]"
         },
         {
           "title": "王虹为何会感到discouraged",
@@ -681,7 +765,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -698,11 +782,12 @@
           "ranks": [
             9,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 13时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 16时36分]"
         }
       ]
     }
