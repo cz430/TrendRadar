@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T02:21:12.962704+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-07-31T04:19:10.823777+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "据华尔街日报：消息人士称，Anthropic计划在德克萨斯州租赁一个容量为1.6吉瓦的新园区，并由谷歌为租赁及电力费用提供担保。",
@@ -25,9 +25,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "法官质疑美国政府封杀Anthropic AI的理由是否充分",
+          "url": "https://wallstreetcn.com/livenews/3142626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "据华尔街日报：消息人士称，Anthropic在得克萨斯州租用的新数据中心园区将使用谷歌TPU芯片。",
@@ -36,9 +47,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
+        },
+        {
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
         },
         {
           "title": "据消息人士透露，Situational Awareness在与Citadel达成的投资组合出售交易中，并未出售其持有的Anthropic股份。",
@@ -47,7 +82,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -58,18 +93,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3142601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -102,7 +126,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -113,18 +137,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -154,7 +167,7 @@
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -164,30 +177,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
-        },
-        {
-          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3142605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "硅谷烧书训AI,焚书坑儒2.0",
@@ -198,30 +201,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
           "url": "https://www.cls.cn/detail/2441830",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
           "url": "https://www.zhihu.com/question/2065810199877611641",
           "source": "知乎",
           "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3142605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -231,8 +248,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时19分]"
+        },
+        {
+          "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
+          "url": "https://flash.jin10.com/detail/20260731032815618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
@@ -260,40 +288,43 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【焦点复盘】科创50跌超5%失守半年线，存储芯片股午后局部反攻，万亿光模块龙头现天量巨震",
           "url": "https://www.cls.cn/detail/2441507",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "英国FCA将从周五起发布每日股票交易数据",
           "url": "https://wallstreetcn.com/livenews/3142609",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
         },
         {
           "title": "据知情人士透露，基金公司Situational Awareness的资产管理规模缩水至100亿美元。 该公司已经转让大宗股票给Citadel。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3142604",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -305,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
+        },
+        {
+          "title": "英国FCA将从周五起发布每日股票交易数据",
+          "url": "https://flash.jin10.com/detail/20260731025024877800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时19分"
         },
         {
           "title": "高通(QCOM.O)CEO：内存芯片价格上涨非常夸张。更高的价格正在改变消费者行为。",
@@ -329,11 +371,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "雷军：小米澎程综合续航最高1705km",
@@ -341,22 +384,24 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时19分]"
         },
         {
           "title": "马斯克计划在美国中期选举中至少投入1亿美元。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3142591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 04时19分]"
         },
         {
           "title": "美媒：马斯克计划在中期选举期间投入至少1亿美元，为共和党提供助力",
@@ -365,7 +410,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
