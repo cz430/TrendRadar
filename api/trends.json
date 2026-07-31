@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T18:45:12.489522+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-07-31T23:26:59.283872+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -60,6 +60,30 @@
           "time_info": "[00时40分 ~ 18时45分]"
         },
         {
+          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
+          "url": "https://www.cls.cn/detail/2442428",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 23时26分]"
+        },
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 23时26分]"
+        },
+        {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
           "url": "https://www.cls.cn/detail/2441830",
           "source": "财联社热门",
@@ -70,28 +94,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 06时12分]"
-        },
-        {
-          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
-          "url": "https://www.cls.cn/detail/2442428",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时45分]"
-        },
-        {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时45分]"
         },
         {
           "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
@@ -176,17 +178,52 @@
           "time_info": "[00时40分 ~ 06时12分]"
         },
         {
+          "title": "AI暴力反弹“昙花一现”，美股盘中存储股走低，闪迪转跌，亚马逊涨超13%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "Aiming回应宫斗:对方先骂人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             5,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 23时26分]"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 23时26分]"
         },
         {
           "title": "港股午评：恒指收跌0.11% 存储及AI次新股飙升",
@@ -210,18 +247,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时11分 ~ 08时07分]"
-        },
-        {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 18时45分]"
         },
         {
           "title": "AI暴力反弹！三星、SK海力士飙升25%，韩股暴涨超14%，软银跳升15%，日股大涨",
@@ -248,6 +273,19 @@
           "time_info": "[08时07分 ~ 12时27分]"
         },
         {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            12,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 23时26分]"
+        },
+        {
           "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
           "url": "https://wallstreetcn.com/livenews/3142605",
           "source": "华尔街见闻-快讯",
@@ -272,27 +310,16 @@
           "time_info": "[12时27分 ~ 18时45分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时45分]"
-        },
-        {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
           "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 23时26分]"
         },
         {
           "title": "AI助力虚拟电厂规模化加速 头部企业订单大增 交易收入占比已近60%|传真",
@@ -351,6 +378,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "AI警报解除，亚太股指创4个月来最大涨幅",
           "url": "https://flash.jin10.com/detail/20260731120614598800",
           "source": "金十数据",
@@ -384,6 +422,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "据美国保守派新闻Daily Wire：由于“需求极其旺盛”，美国国务院将再次发行25万本印有美国总统特朗普肖像的“爱国者护照”。",
           "url": "https://flash.jin10.com/detail/20260731032815618800",
           "source": "金十数据",
@@ -393,6 +442,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
+          "url": "https://wallstreetcn.com/articles/3778378",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
@@ -450,6 +521,17 @@
           "time_info": "15时55分"
         },
         {
+          "title": "加拿大帝国商业银行引入企业级代理AI工作区。",
+          "url": "https://flash.jin10.com/detail/20260731224512482800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
           "url": "https://wallstreetcn.com/livenews/3142542",
           "source": "华尔街见闻-快讯",
@@ -459,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "受广泛回暖提振，美国消费者信心升至五个月高点，AI已成为消费者关注的一个“显著”因素",
+          "url": "https://wallstreetcn.com/livenews/3143326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "苹果(AAPL.O)首席财务官：越来越多公司选择Mac以利用设备端AI优势。",
@@ -497,7 +590,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -519,8 +612,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 18时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 23时26分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -568,6 +661,29 @@
           "time_info": "02时21分"
         },
         {
+          "title": "OpenAI：通过Codex账户完成的工作，占每周输出Tokens总量的99.8%。",
+          "url": "https://flash.jin10.com/detail/20260731230749877800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 23时26分]"
+        },
+        {
           "title": "DeepSeekV4Flash正式版上线",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -578,6 +694,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时55分 ~ 18时45分]"
+        },
+        {
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 23时26分]"
+        },
+        {
+          "title": "跑分超glm5.2,DSv4flash发布",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356678&amp;topic_name=%E8%B7%91%E5%88%86%E8%B6%85glm5.2%2CDSv4flash%E5%8F%91%E5%B8%83",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 23时26分]"
         },
         {
           "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
@@ -604,28 +744,6 @@
           "time_info": "[02时21分 ~ 04时19分]"
         },
         {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
-          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        },
-        {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
           "url": "https://wallstreetcn.com/livenews/3142590",
           "source": "华尔街见闻-快讯",
@@ -636,17 +754,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时19分]"
-        },
-        {
-          "title": "跑分超glm5.2,DSv4flash发布",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356678&amp;topic_name=%E8%B7%91%E5%88%86%E8%B6%85glm5.2%2CDSv4flash%E5%8F%91%E5%B8%83",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "如何看待 Kimi K3？",
@@ -682,6 +789,39 @@
           "time_info": "02时21分"
         },
         {
+          "title": "OpenAI：我们的模型现在覆盖超过两百万家企业。",
+          "url": "https://flash.jin10.com/detail/20260731230540746800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "OpenAI：我们的模型目前覆盖超过10亿活跃用户。 覆盖超过200万家企业。",
+          "url": "https://wallstreetcn.com/livenews/3143353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
           "url": "https://flash.jin10.com/detail/20260731014712484800",
           "source": "金十数据",
@@ -691,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "OpenAI：我们的模型现在拥有超过十亿活跃用户。",
+          "url": "https://flash.jin10.com/detail/20260731230518925800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "UP主用Kimi手搓开放世界游戏",
@@ -754,9 +905,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
+          "url": "https://www.zhihu.com/question/2065499504187371980",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
@@ -798,7 +960,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -820,7 +982,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -842,7 +1004,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
@@ -850,7 +1012,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "【焦点复盘】科创50跌超5%失守半年线，存储芯片股午后局部反攻，万亿光模块龙头现天量巨震",
@@ -870,11 +1032,12 @@
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 23时26分]"
         },
         {
           "title": "我国电力系统迎来结构性转变",
@@ -888,13 +1051,24 @@
           "time_info": "[15时55分 ~ 18时45分]"
         },
         {
+          "title": "因电力供应紧缺，罗马尼亚总理宣布国家进入紧急状态，将持续至八月。",
+          "url": "https://flash.jin10.com/detail/20260731232049596800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "海光芯正：DSP芯片已累计落实确认订单，合计采购数量约一千万颗",
           "url": "https://flash.jin10.com/detail/20260731182023577800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1001,6 +1175,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "淡水河谷：将于三季度于派息与股票回购之间做决定。",
+          "url": "https://wallstreetcn.com/livenews/3143336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "7月私募调研近1500次：电子行业仍是焦点，百亿私募扎堆光芯片与光模块",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684248",
           "source": "澎湃新闻",
@@ -1059,7 +1244,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "雷军：澎程从北京到上海无需补能",
@@ -1156,6 +1341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时19分]"
+        },
+        {
+          "title": "爆料：马斯克拒绝泽连斯基",
+          "url": "https://news.ifeng.com/c/8vDUUMEzPgw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "马斯克否认“特斯拉正在考虑剥离其中国业务”，外交部回应",
