@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T12:27:37.824603+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-08-02T15:35:25.150504+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -59,19 +59,6 @@
           "time_info": "[01时06分 ~ 06时05分]"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 08时04分]"
-        },
-        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -80,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 15时35分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -93,8 +80,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 15时35分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -115,22 +115,46 @@
           "source": "抖音",
           "ranks": [
             5,
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时35分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
           "url": "https://wallstreetcn.com/articles/3778495",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 15时35分]"
+        },
+        {
+          "title": "天才女友 AI片头",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%20AI%E7%89%87%E5%A4%B4&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "15时35分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -139,9 +163,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -153,12 +188,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "别让虚假AI广告收割信任",
+          "url": "https://www.toutiao.com/trending/7668996991562399763/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -166,11 +212,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 15时35分]"
         },
         {
           "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
@@ -193,8 +240,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 15时35分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -223,13 +270,24 @@
           "time_info": "[06时05分 ~ 12时27分]"
         },
         {
+          "title": "Kimi K3为何引发市场热议",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B8%82%E5%9C%BA%E7%83%AD%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
           "url": "https://flash.jin10.com/detail/20260802095047745800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -259,8 +317,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 15时35分]"
         },
         {
           "title": "股票ETF 7月净流入4778亿创历史峰值，多维度破纪录",
@@ -273,8 +331,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 15时35分]"
         },
         {
           "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
@@ -335,11 +393,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 15时35分]"
         },
         {
           "title": "联合国对以色列在黎巴嫩南部实施拆除行动表达严重关切，因为这些行动对当地民用基础设施、文化遗产以及社区居民的集体记忆造成“毁灭性影响”。",
@@ -357,7 +416,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "雷军说晚安被指营销",
@@ -371,6 +430,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 08时04分]"
+        },
+        {
+          "title": "雷军说晚安被指营销 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
