@@ -1,1228 +1,315 @@
 {
-  "generated_at": "2026-08-06T22:26:02.568801+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-08-07T08:43:59.577692+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 32,
+      "match_count": 13,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 22时26分]"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时29分]"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            13,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 22时26分]"
-        },
-        {
-          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
-          "url": "https://flash.jin10.com/detail/20260806032320074800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "08时43分"
         },
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+          "url": "https://www.zhihu.com/question/2068631767326660517",
+          "source": "知乎",
           "ranks": [
-            1,
-            21,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 19时29分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 19时29分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 22时26分]"
-        },
-        {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时57分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 22时26分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时26分]"
-        },
-        {
-          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
-          "url": "https://www.zhihu.com/question/2068498722300990537",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
-          "url": "https://www.zhihu.com/question/2068662948407546390",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3145560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "08时43分"
         },
         {
-          "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3145598",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
+          "time_info": "08时43分"
         },
         {
-          "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
-          "url": "https://wallstreetcn.com/livenews/3145526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "报道：继OpenAI、Anthropic之后，Meta的AI模型也入侵其他公司的系统",
-          "url": "https://wallstreetcn.com/livenews/3145632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
-          "url": "https://wallstreetcn.com/livenews/3145744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "字节跳动发布SeedRealtime大模型",
-          "url": "https://www.douyin.com/hot/2598710",
-          "source": "抖音",
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "08时43分"
         },
         {
-          "title": "豆包接入原生音视频全双工大模型SeedRealtime",
-          "url": "https://wallstreetcn.com/livenews/3145806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "Anthropic的Mythos模型在新网络安全事件中伪造身份欺骗人类",
-          "url": "https://wallstreetcn.com/livenews/3145535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
-          "url": "https://wallstreetcn.com/livenews/3145543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "DeepSeek把Claude拉进“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7670490376733462057/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
-          "url": "https://wallstreetcn.com/livenews/3145508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
-          "url": "https://flash.jin10.com/detail/20260806021844852800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "港股人工智能股部分走高，MINIMAX-W(00100.HK)涨超15%，智谱(02513.HK)涨超9%，胜宏科技(02476.HK)涨超7%，剑桥科技(06166.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260806102135788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
-          "url": "https://flash.jin10.com/detail/20260806115805950800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3145619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "DeepSeek计划大幅涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "谷歌首席科学家Jeff Dean离职创业",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6Jeff+Dean%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A",
+          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
           "source": "百度热搜",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "08时43分"
         },
         {
-          "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
-          "url": "https://wallstreetcn.com/livenews/3145502",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
           "ranks": [
-            29
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "08时43分"
         },
         {
-          "title": "Demis Hassabis辞去谷歌公司Deepmind首席执行官（CEO）职务，将担任主席。 谷歌母公司Alphabet任命Koray Kavukcouglu为Deepmind的高级副总裁（SVP）。",
-          "url": "https://wallstreetcn.com/livenews/3145501",
-          "source": "华尔街见闻-快讯",
+          "title": "曝OpenAI最快下周推出Astra AI",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DOpenAI%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E6%8E%A8%E5%87%BAAstra+AI",
+          "source": "百度热搜",
           "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 31,
+      "match_count": 8,
       "titles": [
         {
-          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
-          "url": "https://wallstreetcn.com/articles/3778704",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时18分]"
-        },
-        {
-          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
-          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时26分]"
-        },
-        {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 22时26分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时18分]"
-        },
-        {
-          "title": "中国AI连续14周霸榜",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E8%BF%9E%E7%BB%AD14%E5%91%A8%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "外资机构密集发声，AI资本开支拐点隐现",
-          "url": "https://wallstreetcn.com/livenews/3145647",
+          "title": "报道：LG董事长与黄仁勋下周将会面 或讨论实体AI和智能工厂",
+          "url": "https://wallstreetcn.com/livenews/3146328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时43分"
         },
         {
-          "title": "Meta旗下AI入侵一公司系统",
-          "url": "https://flash.jin10.com/detail/20260806062228967800",
-          "source": "金十数据",
+          "title": "眼镜店老板副业做的AI视频火到海外",
+          "url": "https://www.toutiao.com/trending/7670874502713622564/",
+          "source": "今日头条",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时43分"
         },
         {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
+          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
+          "url": "https://wallstreetcn.com/articles/3778828",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "内娱第一人 戚薇开放形象AI授权",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
+          "url": "https://www.cls.cn/detail/2447404",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
-          "url": "https://www.zhihu.com/question/2068056227817284742",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时43分]"
-        },
-        {
-          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
-          "url": "https://www.cls.cn/detail/2447281",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时26分]"
-        },
-        {
-          "title": "戚薇用AI解锁末世",
-          "url": "https://www.douyin.com/hot/2599650",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 22时26分]"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 17时28分]"
-        },
-        {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时57分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "存储巨头财报未达高预期 AI概念股遭遇新一轮抛售 | 今夜看点",
           "url": "https://www.cls.cn/detail/2447710",
           "source": "财联社热门",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "戚薇真的把自己做成AI了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 19时29分]"
-        },
-        {
-          "title": "“中式天庭”AI视频海外爆火",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E2%80%9DAI%E8%A7%86%E9%A2%91%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "侧重于AI投资的Altimeter资产管理规模在7月份缩水11%。 数据显示，多家基金公司已经在7月表现惨淡。",
-          "url": "https://wallstreetcn.com/livenews/3145558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "英国央行：AI正在提升英国的生产率，但也对就业造成负面影响",
-          "url": "https://flash.jin10.com/detail/20260806185551254800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
-          "url": "https://wallstreetcn.com/livenews/3145522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
-          "source": "百度热搜",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "08时43分"
         },
         {
-          "title": "7月AI交易大崩盘：知名基金被迫割肉，下一轮行情或看散户“脸色”",
-          "url": "https://flash.jin10.com/detail/20260806103048696800",
-          "source": "金十数据",
+          "title": "AI复原文人笔下的立秋",
+          "url": "https://www.toutiao.com/trending/7670324897411416127/",
+          "source": "今日头条",
           "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "08时43分"
         },
         {
-          "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "佳贤通信参与英伟达6G AI-RAN基站研发，通宇通讯拟以3亿元入股25%股权",
-          "url": "https://wallstreetcn.com/livenews/3145731",
-          "source": "华尔街见闻-快讯",
+          "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
+          "url": "https://www.toutiao.com/trending/7670341977426296874/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "马云投了家美国AI公司",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E6%8A%95%E4%BA%86%E5%AE%B6%E7%BE%8E%E5%9B%BDAI%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "苏泊尔回应AI广告低俗擦边剧情争议",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%8F%E6%B3%8A%E5%B0%94%E5%9B%9E%E5%BA%94AI%E5%B9%BF%E5%91%8A%E4%BD%8E%E4%BF%97%E6%93%A6%E8%BE%B9%E5%89%A7%E6%83%85%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "深圳佳贤通信回应：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
-          "url": "https://wallstreetcn.com/livenews/3146075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "博主：美国封锁逼出中国最强AI路线",
-          "url": "https://www.toutiao.com/trending/7670749299331829267/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "认错比谁都快 这届用户被AI气笑了",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A4%E9%94%99%E6%AF%94%E8%B0%81%E9%83%BD%E5%BF%AB+%E8%BF%99%E5%B1%8A%E7%94%A8%E6%88%B7%E8%A2%ABAI%E6%B0%94%E7%AC%91%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 29,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
-          "url": "https://wallstreetcn.com/articles/3778638",
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时18分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 22时26分]"
-        },
-        {
-          "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3145567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "日本最大电力公司Japex将以3.2亿美元收购美国石油天然气公司Fundare。",
-          "url": "https://wallstreetcn.com/livenews/3145832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "周三（8月5日），美股存储芯片与硬件供应链指数跌2.87%，报197.07点。 美股盘初冲高回落、北京时间21:50刷新日高至206.67点，随后长时间保持在平盘附近，03:00以来持续下跌。 成分股闪迪收跌5.4%，西部数据跌5.36%，泰瑞达、拉姆研究、Rambus、应用材料、希捷科技至多跌3.51%，美光科技涨0.06%。 此外，SK海力士ADR跌2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3145604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "明晟公司MSCI股票指数涨2.2%，外汇指数涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3145603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "全球芯片LOF：本基金将于2026年8月7日开市起停牌，自2026年8月7日10:30起复牌，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260806190605543800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：TeraFab将在得州格赖姆斯县建设。特斯拉和SpaceX所需的芯片数量将远超当前及未来全球生产能力。",
-          "url": "https://flash.jin10.com/detail/20260806220255809800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "SpaceX电话会：剑指美国“第四大运营商”，或提前实现万亿收入目标，芯片锁定英伟达",
-          "url": "https://wallstreetcn.com/articles/3778694",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "葛卫东加仓存储芯片龙头兆易创新",
-          "url": "https://wallstreetcn.com/livenews/3146000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "脑机接口如何帮助人类",
-          "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "08时43分"
         },
         {
           "title": "存储芯片缺货,手机或迎涨价潮",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356842&amp;topic_name=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%BC%BA%E8%B4%A7%2C%E6%89%8B%E6%9C%BA%E6%88%96%E8%BF%8E%E6%B6%A8%E4%BB%B7%E6%BD%AE",
           "source": "贴吧",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
-          "url": "https://wallstreetcn.com/livenews/3145762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "金十图示：2026年08月06日（周四）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260806214624294800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
-          "url": "https://wallstreetcn.com/livenews/3145593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "美股盘初纳指跌0.3%，存储芯片股集体大跌",
-          "url": "https://wallstreetcn.com/livenews/3146086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "德国商业银行第二季度营收33.0亿欧元，预估32.6亿欧元。 第二季度净利润8.98亿欧元，预估8.564亿欧元。 第二季度营业利润13.7亿欧元，预估13.2亿欧元。 第二季度净利息收入20.6亿欧元，预估20.9亿欧元。 仍然预测全年净利润至少34亿欧元，市场预估34.8亿欧元。 仍然预测全年净利息收入大约86亿欧元，预估85.6亿欧元。 计划进行最高12亿欧元的股票回购。",
-          "url": "https://wallstreetcn.com/livenews/3145812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "明晟公司（MSCI）：将在2026年11月的指数评审中结束对孟加拉国在MSCI股票指数中的特殊待遇。",
-          "url": "https://flash.jin10.com/detail/20260806053634177800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "据The Information：阿波罗任命里德·雷曼（Reed Rayman）负责其芯片领域覆盖业务。",
-          "url": "https://flash.jin10.com/detail/20260806023915349800",
-          "source": "金十数据",
-          "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "德意志电信将股票回购计划规模提高至多30亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3145804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "爱丽家居：如公司股票价格进一步异常上涨，公司可能再次申请停牌核查。",
-          "url": "https://wallstreetcn.com/livenews/3145981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3145931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "金十图示：2026年08月05日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260806040614618800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "欧盟委员会发言人：电力供应情况稳定，没有供应安全隐患。",
-          "url": "https://flash.jin10.com/detail/20260806183536782800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "贝佐斯年内首次减持亚马逊股票，套现3.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：与摩根大通(JPM.N)合作推进量子计算研发。",
-          "url": "https://flash.jin10.com/detail/20260806005141084800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "全球芯片LOF：本基金将于2026年8月6日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
-          "url": "https://flash.jin10.com/detail/20260806120225949800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "全球芯片LOF：将于8月6日下午开市起停牌至当日收市。",
-          "url": "https://wallstreetcn.com/livenews/3145800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克回应一个月亏掉2.45万亿",
-          "url": "https://www.toutiao.com/trending/7669518703364640297/",
-          "source": "今日头条",
+          "title": "17岁中国高中生重写核心架构，马斯克点赞",
+          "url": "https://news.ifeng.com/c/8vO7wsFXz3e",
+          "source": "凤凰网",
           "ranks": [
-            22,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时43分"
         },
         {
-          "title": "马云罕见海外投资布局公示",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E7%BD%95%E8%A7%81%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E5%B8%83%E5%B1%80%E5%85%AC%E7%A4%BA",
-          "source": "百度热搜",
+          "title": "马斯克透露SpaceX五大预言",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%80%8F%E9%9C%B2SpaceX%E4%BA%94%E5%A4%A7%E9%A2%84%E8%A8%80&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "马斯克：人们没意识到我说的将实现",
-          "url": "https://www.toutiao.com/trending/7670018813664051243/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "马云罕见海外投资布局公示",
-          "url": "https://wallstreetcn.com/livenews/3145971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "宇树科技王兴兴身家有望超200亿元",
-          "url": "https://wallstreetcn.com/livenews/3146074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "暮年常沙娜：记忆消逝处，不褪色的敦煌人生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688086",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 22时26分]"
-        },
-        {
-          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
-          "url": "https://www.zhihu.com/question/2068265537105302957",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时07分]"
-        },
-        {
-          "title": "蜘蛛侠4 MJ恢复记忆了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%9C%98%E8%9B%9B%E4%BE%A04%20MJ%E6%81%A2%E5%A4%8D%E8%AE%B0%E5%BF%86%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时18分]"
-        },
-        {
-          "title": "绿地集团：与深兰科技合作建设OPC社区，计划三年内服务超10万OPC创业者",
-          "url": "https://wallstreetcn.com/livenews/3145920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高级别自动驾驶离我们有多远",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%BA%A7%E5%88%AB%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%A6%BB%E6%88%91%E4%BB%AC%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "08时43分"
         }
       ]
     }
