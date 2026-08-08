@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T19:35:07.036137+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-08-08T20:58:55.613091+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 20时58分]"
+        },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
           "url": "https://www.cls.cn/detail/2448537",
@@ -30,11 +42,12 @@
             11,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 19时35分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 20时58分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -66,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时03分 ~ 19时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 20时58分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -77,23 +90,12 @@
             19,
             15,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时48分 ~ 19时35分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 19时35分]"
+          "appearance_count": 17,
+          "time_info": "[04时48分 ~ 20时58分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -118,6 +120,18 @@
           "time_info": "[00时03分 ~ 07时39分]"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时58分]"
+        },
+        {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
           "url": "https://www.zhihu.com/question/2068674224802067300",
           "source": "知乎",
@@ -130,18 +144,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时58分 ~ 15时02分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时35分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -309,6 +311,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850591&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/jwXasxMKTX0anRNXTKMOK.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260807230423204800",
           "source": "金十数据",
@@ -323,7 +336,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -333,11 +346,12 @@
             7,
             5,
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 19时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 20时58分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -348,11 +362,12 @@
             14,
             16,
             13,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时48分 ~ 19时35分]"
+          "appearance_count": 17,
+          "time_info": "[04时48分 ~ 20时58分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -418,11 +433,47 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 20时58分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069009991709857177",
+          "source": "知乎",
+          "ranks": [
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 20时58分]"
         },
         {
           "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
@@ -436,18 +487,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 03时04分]"
-        },
-        {
-          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069009991709857177",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时35分]"
         },
         {
           "title": "用Token还是词元事关科技话语权",
@@ -527,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -563,11 +613,12 @@
             22,
             23,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 19时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 20时58分]"
         },
         {
           "title": "王兴兴300问谈美国禁令",
@@ -694,7 +745,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -768,6 +819,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "伯克希尔：二季度回购股票45亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：自第三季度（7月1日）起至7月29日，已动用超过33亿美元回购公司股票。",
+          "url": "https://flash.jin10.com/detail/20260808202905426800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度斥资约45亿美元回购股票 为一年多来首次",
+          "url": "https://flash.jin10.com/detail/20260808202446166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
