@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:51:27.577057+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-08-09T17:46:30.475604+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
             5,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 16时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 17时46分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -70,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 16时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 17时46分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -90,6 +91,20 @@
           "time_info": "[00时40分 ~ 16时51分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 17时46分]"
+        },
+        {
           "title": "当AI反过来问你问题",
           "url": "https://www.douyin.com/hot/2600930",
           "source": "抖音",
@@ -105,29 +120,15 @@
           "time_info": "[01时35分 ~ 07时34分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 16时51分]"
-        },
-        {
           "title": "首个全国产10万卡AI超集群投用",
           "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E5%85%A8%E5%9B%BD%E4%BA%A710%E4%B8%87%E5%8D%A1AI%E8%B6%85%E9%9B%86%E7%BE%A4%E6%8A%95%E7%94%A8",
           "source": "百度热搜",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -156,6 +157,18 @@
           "time_info": "[07时34分 ~ 12时22分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时46分]"
+        },
+        {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
           "source": "百度热搜",
@@ -166,17 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时05分 ~ 12时22分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 16时51分]"
         },
         {
           "title": "苹果AI国行版上线官网",
@@ -237,7 +239,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -253,8 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 16时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 17时46分]"
         },
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -290,6 +292,19 @@
           "time_info": "[00时40分 ~ 10时05分]"
         },
         {
+          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
+          "url": "https://www.cls.cn/detail/2449188",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 17时46分]"
+        },
+        {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
@@ -302,19 +317,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 10时05分]"
-        },
-        {
-          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
-          "url": "https://www.cls.cn/detail/2449188",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 16时51分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
@@ -339,9 +341,32 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
+        },
+        {
+          "title": "Apple智能接入阿里千问手册被删，苹果客服回应",
+          "url": "https://flash.jin10.com/detail/20260809172135789800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时51分"
+          "time_info": "17时46分"
+        },
+        {
+          "title": "苹果官网已删除Apple智能接入阿里千问页面",
+          "url": "https://wallstreetcn.com/livenews/3147049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时46分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -355,18 +380,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时45分 ~ 05时36分]"
-        },
-        {
-          "title": "苹果官网已删除Apple智能接入阿里千问页面",
-          "url": "https://wallstreetcn.com/livenews/3147049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 16时51分]"
         },
         {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
@@ -441,8 +454,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 17时46分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -453,8 +466,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 17时46分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -476,9 +489,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -490,8 +503,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 17时46分]"
         },
         {
           "title": "乌称俄袭击敖德萨地区 致部分区域电力中断",
@@ -499,33 +512,36 @@
           "source": "金十数据",
           "ranks": [
             1,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时46分]"
         },
         {
           "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
           "url": "https://flash.jin10.com/detail/20260809155351803800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
         },
         {
           "title": "韩国持续高温 电力需求创今年新高",
           "url": "https://flash.jin10.com/detail/20260809151409851800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
         }
       ]
     },
@@ -569,19 +585,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 17时46分]"
         },
         {
           "title": "马斯克突然“唱多”自家公司",
           "url": "https://www.toutiao.com/trending/7670931315927498771/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 17时46分]"
         },
         {
           "title": "马斯克：第三代星链卫星（V3）综合性能比V2高出一个数量级",
@@ -609,8 +626,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时04分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 17时46分]"
         },
         {
           "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
