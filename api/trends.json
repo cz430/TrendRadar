@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T19:53:47.724974+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-08-10T21:21:15.529438+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -32,6 +32,19 @@
           "time_info": "[00时42分 ~ 07时37分]"
         },
         {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时14分 ~ 21时21分]"
+        },
+        {
           "title": "美国科学家首次用 AI 设计出病毒，意味着什么？生物安全防线该如何应对？",
           "url": "https://www.zhihu.com/question/2068991097578021742",
           "source": "知乎",
@@ -45,6 +58,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时49分 ~ 10时10分]"
+        },
+        {
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            6,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 21时21分]"
         },
         {
           "title": "网民AI造谣“西平灭门案”被行拘",
@@ -71,6 +99,18 @@
           "time_info": "[00时42分 ~ 16时44分]"
         },
         {
+          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
+          "url": "https://wallstreetcn.com/articles/3779065",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 21时21分]"
+        },
+        {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
           "url": "https://wallstreetcn.com/livenews/3147116",
           "source": "华尔街见闻-快讯",
@@ -85,42 +125,18 @@
           "time_info": "[00时42分 ~ 07时37分]"
         },
         {
-          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
-          "url": "https://www.cls.cn/detail/2449732",
-          "source": "财联社热门",
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时14分 ~ 19时53分]"
-        },
-        {
-          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
-          "url": "https://www.zhihu.com/question/2069770698055050765",
-          "source": "知乎",
-          "ranks": [
+            1,
+            7,
             9,
-            4,
-            6,
-            14
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 19时53分]"
-        },
-        {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时21分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -149,6 +165,20 @@
           "time_info": "[10时10分 ~ 14时14分]"
         },
         {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            16,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时21分]"
+        },
+        {
           "title": "毛宁向世界分享AI“中式天庭”",
           "url": "https://www.toutiao.com/trending/7671660224529825833/",
           "source": "今日头条",
@@ -163,17 +193,15 @@
           "time_info": "[00时42分 ~ 07时37分]"
         },
         {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
+          "title": "据The Information：微软一直在与台积电(TSM.N)洽谈，以确保获得超过30万颗MAIA芯片的生产能力，并于2027年交付。",
+          "url": "https://flash.jin10.com/detail/20260810210408290800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            7,
-            9
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "摩根大通上调标普500目标至8000点！AI行情将进入新阶段？",
@@ -187,6 +215,17 @@
           "time_info": "16时44分"
         },
         {
+          "title": "据报道，微软拟“大幅”提高AI芯片产量。",
+          "url": "https://wallstreetcn.com/livenews/3147541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "Meta推轻量级AI模型 扎克伯格呼吁美国重审开源政策",
           "url": "https://flash.jin10.com/detail/20260810180349737800",
           "source": "金十数据",
@@ -198,31 +237,6 @@
           "time_info": "18时23分"
         },
         {
-          "title": "AI挤占短剧业,真人演员遭偷家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时53分]"
-        },
-        {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%94%A8AI%E6%8A%8A%E5%A5%B6%E5%A5%B6P%E8%BF%9B%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时53分]"
-        },
-        {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
@@ -231,8 +245,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 21时21分]"
         },
         {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
@@ -240,7 +254,20 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 21时21分]"
+        },
+        {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E5%A5%B3%E7%94%A8AI%E6%8A%8A%E5%A5%B6%E5%A5%B6P%E8%BF%9B%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -259,6 +286,28 @@
           "time_info": "[16时44分 ~ 18时23分]"
         },
         {
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
+          "url": "https://wallstreetcn.com/articles/3779070",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "ai漫剧顶流已经出了8季了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "建议每个人都用AI做的三件事",
           "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -270,6 +319,17 @@
           "time_info": "[12时43分 ~ 12时44分]"
         },
         {
+          "title": "据The Information：微软计划加大自身对MAIA的使用力度，同时积极争取大客户。",
+          "url": "https://flash.jin10.com/detail/20260810210219761800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "百度搭子连续推出生产力套件，加码AI办公",
           "url": "https://flash.jin10.com/detail/20260810135943792800",
           "source": "金十数据",
@@ -279,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "据The Information：微软计划于9月发布其下一代MAIA 300人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260810210202456800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "Meta推出新AI模型，扎克伯格力推开放权重机制",
@@ -298,7 +369,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -331,7 +402,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -364,7 +435,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         }
@@ -372,7 +443,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -437,6 +508,20 @@
           "time_info": "[12时43分 ~ 18时23分]"
         },
         {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时21分]"
+        },
+        {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
           "url": "https://wallstreetcn.com/livenews/3147106",
           "source": "华尔街见闻-快讯",
@@ -448,6 +533,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时44分 ~ 21时21分]"
         },
         {
           "title": "马斯克凭什么建全球最大的芯片厂",
@@ -473,17 +571,15 @@
           "time_info": "18时23分"
         },
         {
-          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
-          "url": "https://wallstreetcn.com/articles/3779046",
-          "source": "华尔街见闻",
+          "title": "据The Information：微软将大幅提高人工智能芯片产量。",
+          "url": "https://flash.jin10.com/detail/20260810210320250800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "社保基金接连出手，助力量子科技加速从实验室走向产业化",
@@ -496,19 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时37分]"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 19时53分]"
         },
         {
           "title": "马斯克的8000亿芯片梦会是灾难吗",
@@ -531,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "据The Information：微软(MSFT.O)自主研发的人工智能芯片项目在经历了缓慢的起步阶段后，展现出复苏迹象。",
+          "url": "https://flash.jin10.com/detail/20260810210139889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "芯片股“撞墙”，但市场没有",
@@ -566,15 +660,37 @@
           "time_info": "16时44分"
         },
         {
+          "title": "爱丽家居：公司股价近期11个交易日涨停，股票停牌核查。",
+          "url": "https://wallstreetcn.com/livenews/3147512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "招金黄金：股票交易异常波动 提醒投资者注意风险",
           "url": "https://wallstreetcn.com/livenews/3147450",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "昆仑万维：筹划发行H股股票并在香港联交所主板上市",
+          "url": "https://wallstreetcn.com/livenews/3147502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "我国科研团队破解量子网络规模化部署难题",
@@ -591,7 +707,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -617,8 +733,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时43分 ~ 21时21分]"
+        },
+        {
+          "title": "据The Information：微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。",
+          "url": "https://flash.jin10.com/detail/20260810210234815800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "中美Token经济学：利润来源、溢价流向与兑现顺序",
@@ -678,6 +805,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "Anthropic牵手麦格理与GIC 加码美国AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260810204600750800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "摩根士丹利：上调智谱目标价近72%，算力获取和新融资等支持强劲增长",
           "url": "https://wallstreetcn.com/livenews/3147176",
           "source": "华尔街见闻-快讯",
@@ -698,12 +836,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "Anthropic、麦格理与GIC据报达成数据中心平台协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -719,6 +868,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时42分 ~ 16时44分]"
+        },
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -742,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "市场消息：加拿大安大略省教师养老金计划上半年收益率达9.5%，主要得益于马斯克旗下SpaceX(SPCX.O)公司的IPO。",
+          "url": "https://flash.jin10.com/detail/20260810204420102800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         }
       ]
     },
