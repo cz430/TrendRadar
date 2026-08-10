@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T12:44:03.800736+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-08-10T14:14:58.199314+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -66,8 +66,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 14时14分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -84,18 +84,6 @@
           "time_info": "[00时42分 ~ 07时37分]"
         },
         {
-          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
-          "url": "https://www.zhihu.com/question/2063944037544023265",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 12时44分]"
-        },
-        {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
           "url": "https://wallstreetcn.com/livenews/3147103",
           "source": "华尔街见闻-快讯",
@@ -107,6 +95,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 06时37分]"
+        },
+        {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 14时14分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -127,11 +128,12 @@
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时14分]"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -143,6 +145,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "百度搭子连续推出生产力套件，加码AI办公",
+          "url": "https://flash.jin10.com/detail/20260810135943792800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
@@ -159,7 +183,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -251,11 +275,12 @@
           "url": "https://www.cls.cn/detail/2449544",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时14分]"
         },
         {
           "title": "马斯克的8000亿芯片梦会是灾难吗",
@@ -278,12 +303,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -302,22 +338,24 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时14分]"
         },
         {
           "title": "中美Token经济学：利润来源、溢价流向与兑现顺序",
           "url": "https://wallstreetcn.com/articles/3779009",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时14分]"
         },
         {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
@@ -329,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
@@ -356,7 +405,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克，要颠覆EUV光刻机？",
@@ -365,11 +414,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 12时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 14时14分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
@@ -382,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时37分]"
+        },
+        {
+          "title": "如何看待马斯克评价SpaceX和特斯拉",
+          "url": "https://www.toutiao.com/trending/7672238666911059510/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
