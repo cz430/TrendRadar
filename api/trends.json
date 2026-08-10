@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T10:10:50.683869+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-08-10T12:44:03.800736+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -54,19 +54,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 12时44分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 12时44分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -81,6 +82,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时37分]"
+        },
+        {
+          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
+          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 12时44分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -110,15 +123,26 @@
           "time_info": "[00时42分 ~ 07时37分]"
         },
         {
-          "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
-          "url": "https://www.zhihu.com/question/2063944037544023265",
+          "title": "67 岁农户听信 AI 喷农药致 150 亩地一夜枯萎，老人听 AI 翻车的事层出不穷，有啥办法能帮助他们辨别吗？",
+          "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "建议每个人都用AI做的三件事",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E7%94%A8AI%E5%81%9A%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "摩根士丹利：看好阿里巴巴，因其覆盖全产业链的AI能力、算力方面的优势，以及多年的云增长和完整的利润扩张。",
@@ -127,7 +151,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -135,7 +159,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -182,8 +206,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 12时44分]"
         },
         {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
@@ -223,13 +247,35 @@
           "time_info": "[06时37分 ~ 07时37分]"
         },
         {
+          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
+          "url": "https://www.cls.cn/detail/2449544",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "马斯克的8000亿芯片梦会是灾难吗",
+          "url": "https://www.toutiao.com/trending/7672219771949026870/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
           "url": "https://wallstreetcn.com/livenews/3147211",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -237,7 +283,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
@@ -252,13 +298,35 @@
           "time_info": "[00时42分 ~ 10时10分]"
         },
         {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "中美Token经济学：利润来源、溢价流向与兑现顺序",
+          "url": "https://wallstreetcn.com/articles/3779009",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "港股AI应用板块走强，文远知行-W(00800.HK)涨超%，智谱(02513.HK)、MINIMAX-W(00100.HK)涨超4%阅文集团(00772.HK)、小马智行-W(02026.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260810093625841800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -269,7 +337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -280,7 +348,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -296,11 +364,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 10时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 12时44分]"
         },
         {
           "title": "马斯克或采用FEL技术挑战EUV光刻机",
