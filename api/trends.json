@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:49:53.663595+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-08-11T21:17:43.995443+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -35,6 +35,19 @@
           "time_info": "[00时59分 ~ 17时04分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 21时17分]"
+        },
+        {
           "title": "AI挤占短剧业,真人演员遭偷家",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
           "source": "贴吧",
@@ -48,17 +61,17 @@
           "time_info": "[00时59分 ~ 13时57分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6,
-            4
+            11,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 19时49分]"
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 21时17分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -75,19 +88,6 @@
           "time_info": "[10时05分 ~ 15时17分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 19时49分]"
-        },
-        {
           "title": "用AI重返那年相遇的青涩夏天",
           "url": "https://www.douyin.com/hot/2605104",
           "source": "抖音",
@@ -102,19 +102,6 @@
           "time_info": "[10时05分 ~ 19时49分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 19时49分]"
-        },
-        {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
           "url": "https://wallstreetcn.com/articles/3779130",
           "source": "华尔街见闻",
@@ -124,8 +111,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 19时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 21时17分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            9,
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 21时17分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -182,11 +183,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 21时17分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -194,11 +196,26 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 21时17分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 21时17分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -212,19 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时50分 ~ 06时43分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时49分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -306,7 +310,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -320,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
@@ -355,6 +370,17 @@
           "time_info": "17时04分"
         },
         {
+          "title": "据The Information：英伟达(NVDA.O)正在开发一款新的Nemotron 4开源AI模型。",
+          "url": "https://flash.jin10.com/detail/20260811210245641800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "理想第二代AI眼镜预计明年下半年上市",
           "url": "https://wallstreetcn.com/livenews/3147904",
           "source": "华尔街见闻-快讯",
@@ -386,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "IBM与Together AI签署2.4亿美元云服务协议",
+          "url": "https://wallstreetcn.com/livenews/3148066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "据悉英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
@@ -454,6 +491,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3148057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "AI服务器抢内存为何要买手机的人买单",
           "url": "https://www.toutiao.com/trending/7672398009455349311/",
           "source": "今日头条",
@@ -479,7 +527,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
@@ -489,8 +537,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 21时17分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -516,6 +564,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "雅培与谷歌推出首个合作项目，借助血糖洞察和人工智能改变日常健康管理。",
+          "url": "https://flash.jin10.com/detail/20260811210808524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "Kimi K3深度测评",
           "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
@@ -538,6 +597,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "雅培：与谷歌多年合作将雅培的Lingo生物可穿戴设备的血糖观察与谷歌健康技术相结合。",
+          "url": "https://flash.jin10.com/detail/20260811210739634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
           "url": "https://flash.jin10.com/detail/20260811005131000800",
           "source": "金十数据",
@@ -549,6 +619,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "雅培：与谷歌的合作包括大规模研究，以更好地指导人工智能培训。",
+          "url": "https://flash.jin10.com/detail/20260811210715702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "OpenAI：为ChatGPT Business推出高级席位（Premium Seats）。",
           "url": "https://flash.jin10.com/detail/20260811005120672800",
           "source": "金十数据",
@@ -558,6 +639,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时17分]"
+        },
+        {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时17分]"
         },
         {
           "title": "OpenAI回购70亿美元员工股份",
@@ -595,17 +699,6 @@
           "time_info": "12时25分"
         },
         {
-          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
-          "url": "https://wallstreetcn.com/livenews/3148048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
           "title": "Anthropic表示，他们曾让一个尚未发布的研究版Claude尝试解决“黎曼猜想”。虽然Claude未能证明这一著名数学猜想，但在相关问题上取得进展，将黎曼ζ函数零点中满足黎曼猜想的零点比例下界从41.6%提高至67.2%。",
           "url": "https://flash.jin10.com/detail/20260811065651934800",
           "source": "金十数据",
@@ -615,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "OpenAI：GPT‑5.6‑CYBER并未被用于攻击Hugging Face，计划即将发布的其他模型也未参与此事。 强烈建议使用Codex的Daybreak客户，通过应用默认设置和界面功能，将“完全访问模式”切换至“自动审查模式”。 自9月1日起，要求Daybreak中的所有个人账户启用硬件安全密钥。 OpenAI正在扩大Daybreak项目规模，为开展授权工作的个人及获批机构设立两级访问权限：Daybreak Blue，提供包括 GPT‑5.6 Sol在内的前沿通用模型；Daybreak Red，开放全新GPT‑5.6‑Cyber模型，用于经授权的漏洞研究、漏洞利用验证以及安全测试。",
@@ -818,7 +900,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -1006,6 +1088,28 @@
           "time_info": "17时04分"
         },
         {
+          "title": "国际金融协会（IIF）：截至7月份，新兴市场股票年度资金流出总额为860亿美元，而去年同期为90亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210212098800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "上海量子计算企业不筹量子宣布完成数亿元A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3148070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "A股电力板块短线走高，嘉泽新能涨停，华能蒙电、兆新股份此前涨停，立新能源、绿发电力、京能电力涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3147861",
           "source": "华尔街见闻-快讯",
@@ -1028,15 +1132,37 @@
           "time_info": "07时40分"
         },
         {
+          "title": "国际金融协会（IIF）：7月份新兴市场股票资金流出放缓至78亿美元，低于6月份的461亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811210032934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "欧盟于周一召开了电力协调小组会议。",
           "url": "https://flash.jin10.com/detail/20260811190614708800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
+        },
+        {
+          "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
+          "url": "https://wallstreetcn.com/livenews/3148059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "A股电力板块异动拉升，华能蒙电直线封板，兆新股份此前涨停，立新能源、京能电力、百通能源、华电辽能跟涨。",
@@ -1107,7 +1233,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -1150,8 +1276,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时49分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 21时17分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
