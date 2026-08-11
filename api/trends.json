@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:17:43.995443+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-08-11T23:04:21.099914+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -44,8 +44,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 21时17分]"
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 23时04分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 23时04分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -61,17 +75,31 @@
           "time_info": "[00时59分 ~ 13时57分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            10,
             8,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 23时04分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            9,
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 23时04分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -102,31 +130,18 @@
           "time_info": "[10时05分 ~ 19时49分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
+            11,
             8,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时56分 ~ 21时17分]"
-        },
-        {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            9,
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 21时17分]"
+          "time_info": "[15时17分 ~ 23时04分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -158,11 +173,39 @@
           "ranks": [
             1,
             18,
-            15
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 23时04分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            16,
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 23时04分]"
+        },
+        {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时17分 ~ 19时49分]"
+          "time_info": "[21时17分 ~ 23时04分]"
         },
         {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
@@ -185,33 +228,6 @@
             8,
             7,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 21时17分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 21时17分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            16,
-            20,
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -281,6 +297,17 @@
           "time_info": "[05时48分 ~ 06时43分]"
         },
         {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。 对于新一轮人工智能融资计划，无人拒绝。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3147688",
           "source": "华尔街见闻-快讯",
@@ -326,17 +353,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
-          "url": "https://www.cls.cn/detail/2451347",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "报道：英伟达与多家公司围绕5000亿美元AI融资协议合作",
           "url": "https://wallstreetcn.com/livenews/3147615",
           "source": "华尔街见闻-快讯",
@@ -376,7 +392,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -420,7 +436,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -491,13 +507,24 @@
           "time_info": "07时40分"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成某种安排”，SK海力士在华扩产，工业富联AI算力利润翻倍 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260811222213183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "强瑞技术：拟定增募资不超过10.5亿元，用于AI服务器精密液冷部件产品及服务器自动化组装、检测设备研发与制造项目、高端半导体设备精密零部件生产制造项目、强瑞技术龙华区总部基地建设项目、补充流动资金。",
           "url": "https://wallstreetcn.com/livenews/3148057",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -570,7 +597,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -603,7 +630,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -625,7 +652,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -641,23 +668,24 @@
           "time_info": "00时59分"
         },
         {
+          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
+          "url": "https://www.cls.cn/detail/2451001",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时49分 ~ 23时04分]"
+        },
+        {
           "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
           "url": "https://wallstreetcn.com/livenews/3148048",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时17分]"
-        },
-        {
-          "title": "大模型攻入OTA腹地？豆包称酒店推荐“按成交收费” 或挑战“佣金+广告”模式|深度",
-          "url": "https://www.cls.cn/detail/2451001",
-          "source": "财联社热门",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -900,7 +928,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -981,6 +1009,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "据知情人士透露，在英特尔股票增发过程中，大约33%的认购订单没有获得配售。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
           "url": "https://wallstreetcn.com/livenews/3147737",
           "source": "华尔街见闻-快讯",
@@ -1042,6 +1081,17 @@
           "time_info": "[04时50分 ~ 06时43分]"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
           "url": "https://flash.jin10.com/detail/20260811055637856800",
           "source": "金十数据",
@@ -1088,13 +1138,24 @@
           "time_info": "17时04分"
         },
         {
+          "title": "市场消息：英特尔股票发售中据悉约33%的认购订单未获配售。",
+          "url": "https://flash.jin10.com/detail/20260811224214102800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "国际金融协会（IIF）：截至7月份，新兴市场股票年度资金流出总额为860亿美元，而去年同期为90亿美元。",
           "url": "https://flash.jin10.com/detail/20260811210212098800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1105,7 +1166,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1138,7 +1199,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1160,7 +1221,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
         },
@@ -1174,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "世界芯片巨头为何突然“抱紧”河南",
@@ -1216,6 +1288,18 @@
           "time_info": "17时04分"
         },
         {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 23时04分]"
+        },
+        {
           "title": "马斯克母子发文强烈推荐中国游",
           "url": "https://www.toutiao.com/trending/7672030137794248730/",
           "source": "今日头条",
@@ -1225,17 +1309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "马斯克一年赚2.16万亿 平均每天59亿",
@@ -1273,11 +1346,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 21时17分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 23时04分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
