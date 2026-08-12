@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T16:23:23.107940+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-08-12T18:12:52.655367+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时50分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时50分 ~ 18时12分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -86,6 +86,18 @@
           "time_info": "[01时02分 ~ 14时19分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 18时12分]"
+        },
+        {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
@@ -98,16 +110,16 @@
           "time_info": "[01时02分 ~ 10时23分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            5,
-            4
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时12分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -169,18 +181,6 @@
           "time_info": "[01时02分 ~ 07时48分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 16时23分]"
-        },
-        {
           "title": "AI产业给韩国人带来什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -227,6 +227,17 @@
           "time_info": "[01时03分 ~ 03时10分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时12分]"
+        },
+        {
           "title": "国行苹果AI支持机型",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -264,14 +275,14 @@
         },
         {
           "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时19分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 18时12分]"
         },
         {
           "title": "易中天用AI解读庄子",
@@ -295,6 +306,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时09分 ~ 03时10分]"
+        },
+        {
+          "title": "宁德时代成立控股新公司 含AI软件开发业务",
+          "url": "https://flash.jin10.com/detail/20260812180140130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "知情人士透露，AI初创公司Cognition正与投资者就新一轮融资进行早期洽谈，这可能会使这家AI初创公司的估值提升50%以上，达到至少400亿美元。（彭博）",
@@ -341,17 +363,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
           "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3148389",
           "source": "华尔街见闻-快讯",
@@ -363,13 +374,24 @@
           "time_info": "12时52分"
         },
         {
+          "title": "FDE为何成为AI落地时代的新贵",
+          "url": "https://www.toutiao.com/trending/7672947093631893546/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "AI能否推动数学进入黄金年代",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%8E%A8%E5%8A%A8%E6%95%B0%E5%AD%A6%E8%BF%9B%E5%85%A5%E9%BB%84%E9%87%91%E5%B9%B4%E4%BB%A3",
           "source": "bilibili 热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -391,7 +413,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -410,7 +432,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
@@ -495,6 +517,19 @@
           "time_info": "[03时09分 ~ 07时48分]"
         },
         {
+          "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
+          "url": "https://www.cls.cn/detail/2452001",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时12分]"
+        },
+        {
           "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
           "url": "https://www.cls.cn/detail/2451807",
           "source": "财联社热门",
@@ -505,18 +540,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时22分 ~ 14时19分]"
-        },
-        {
-          "title": "量化推波助澜？芯片股的“完美对冲”浮现了！",
-          "url": "https://www.cls.cn/detail/2452001",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 16时23分]"
         },
         {
           "title": "美国得州数据中心暂停后，电力需求预测被下调",
@@ -552,6 +575,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://wallstreetcn.com/livenews/3148560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国能源信息署（EIA）预计，德克萨斯州的电力负荷将在2027年增长6%，低于7月短期能源展望中预测的14%。",
@@ -596,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://flash.jin10.com/detail/20260812175352086800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "韩国政府：将启动7个“种子”项目，涉及核能、量子、航天和生物领域，以确保未来增长引擎。 目标在2035年前实现国产小型模块化核反应堆（SMR）的商业化。 目标在2029年前开发出国产100量子比特量子计算机，并力争在2035年前成为量子芯片制造领域世界第一。 目标在2030年前实现登月。 目标在2035年前实现脑机接口（BCI）产品的商业化。",
@@ -678,7 +723,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -713,7 +758,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -727,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "谷歌将在美洲新增三条海底光缆系统",
@@ -868,7 +924,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -894,8 +950,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 18时12分]"
         },
         {
           "title": "马斯克推荐“去中国看看”打了谁的脸",
@@ -905,8 +961,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 18时12分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -942,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "雷军称小米成功量产发光材料，成为国内首家实现底层发光材料自研的手机厂商，有哪些突破？会带来什么改变？",
+          "url": "https://www.zhihu.com/question/2070796946256519933",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
