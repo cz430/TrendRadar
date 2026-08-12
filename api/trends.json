@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T05:53:10.798244+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-08-13T06:48:25.099962+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://wallstreetcn.com/livenews/3148768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
@@ -63,15 +52,27 @@
           "time_info": "02时03分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
-          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
+          "url": "https://flash.jin10.com/detail/20260813054538402800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时48分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -84,6 +85,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 04时03分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://flash.jin10.com/detail/20260813050715033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
+        },
+        {
+          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            7,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 06时48分]"
+        },
+        {
+          "title": "英伟达最新开源大模型上线",
+          "url": "https://www.douyin.com/hot/2607298",
+          "source": "抖音",
+          "ranks": [
+            8,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -99,28 +138,15 @@
           "time_info": "[02时03分 ~ 05时53分]"
         },
         {
-          "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            18
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 05时53分]"
-        },
-        {
-          "title": "英伟达最新开源大模型上线",
-          "url": "https://www.douyin.com/hot/2607298",
-          "source": "抖音",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         },
         {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
@@ -169,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -180,8 +206,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -192,8 +218,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "time_info": "[04时03分 ~ 06时48分]"
         },
         {
           "title": "三角洲AI夏日晚会",
@@ -206,18 +244,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 05时53分]"
-        },
-        {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 05时53分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -235,11 +261,12 @@
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -275,22 +302,24 @@
           "url": "https://flash.jin10.com/detail/20260813042406726800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260813040557554800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时48分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）美股热门股票行情一览（美股盘中）",
@@ -317,8 +346,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 06时48分]"
         },
         {
           "title": "马斯克：Grok4.6在智能程度、运行速度和使用成本方面综合排名第一。",
