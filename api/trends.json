@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T07:48:51.790137+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-08-12T10:23:01.386922+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -24,11 +24,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -51,22 +52,12 @@
             20,
             15,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -74,6 +65,42 @@
           "source": "抖音",
           "ranks": [
             7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
+        },
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 10时23分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -90,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 03时10分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
         },
         {
           "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
@@ -128,16 +143,26 @@
           "time_info": "[01时02分 ~ 07时48分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -150,6 +175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 03时10分]"
+        },
+        {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
@@ -176,6 +212,17 @@
           "time_info": "[05时55分 ~ 06时51分]"
         },
         {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
@@ -193,7 +240,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -204,7 +251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -223,7 +270,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -242,11 +289,12 @@
           "url": "https://www.cls.cn/detail/2451806",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 10时23分]"
         },
         {
           "title": "芯片热潮推动，日本制造业信心升至3月以来最高",
@@ -255,9 +303,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "A股电力板块回调走软，立新能源跌超5%，绿发电力、聆达股份、京能电力等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260812095930625800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "创业板指、科创50均涨超1%，沪指涨0.06%，深成指涨0.72%，半导体芯片、算力硬件、创新药、工业母机等方向领涨，沪深京三市上涨个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3148350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "世界芯片巨头为何突然“抱紧”河南",
@@ -272,6 +342,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时48分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
+          "url": "https://www.cls.cn/detail/2451807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "美国得州数据中心暂停后，电力需求预测被下调",
@@ -367,7 +448,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -377,11 +458,12 @@
             9,
             6,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -420,6 +502,17 @@
           "time_info": "[06时51分 ~ 07时48分]"
         },
         {
+          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
+          "url": "https://www.zhihu.com/question/2070443311802867884",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
           "url": "https://wallstreetcn.com/livenews/3148266",
           "source": "华尔街见闻-快讯",
@@ -449,7 +542,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -501,7 +594,7 @@
     },
     {
       "keyword_group": "名人 马斯克 Sam Altman 萨姆·奥尔特曼 Dario Amodei 达里奥·莫德伊‌ Sundar Pichai 桑达尔·皮查伊 John Ternus 约翰·特纳斯 Mark Zuckerberg 马克·扎克伯格‌ Andy Jassy 安迪·贾西 马云 马化腾 王兴 雷军 冯兴亚",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克：强烈推荐大家去中国看看",
@@ -514,8 +607,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
+        },
+        {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "马斯克母子强推中国游",
@@ -528,6 +632,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 06时50分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX跌幅扩大至5%，刷新日低。",
@@ -544,7 +659,7 @@
     },
     {
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI打开了我童年记忆的百宝箱",
@@ -555,8 +670,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
         },
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -566,11 +681,23 @@
             19,
             18,
             14,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时48分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 10时23分]"
+        },
+        {
+          "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
+          "url": "https://wallstreetcn.com/articles/3779129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         }
       ]
     }
