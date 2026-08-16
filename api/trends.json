@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:25:24.291551+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-08-17T04:29:37.919105+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
           "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -37,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -59,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -68,11 +69,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -82,19 +84,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
-        },
-        {
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -102,11 +93,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
+        },
+        {
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
@@ -115,7 +119,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         },
@@ -126,7 +130,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -144,8 +148,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -155,8 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -166,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -177,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -188,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -199,8 +203,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -210,8 +214,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -221,8 +225,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         }
       ]
     },
@@ -237,7 +241,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
         }
@@ -255,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时29分]"
         }
       ]
     }
