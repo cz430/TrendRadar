@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T06:27:46.558722+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-08-17T07:25:45.510503+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -62,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -76,8 +77,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -90,8 +91,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -101,8 +102,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -111,11 +112,23 @@
           "ranks": [
             23,
             26,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 07时25分]"
+        },
+        {
+          "title": "AI如何能辅助办公",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E8%83%BD%E8%BE%85%E5%8A%A9%E5%8A%9E%E5%85%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
@@ -143,7 +156,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -153,30 +166,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://www.cls.cn/detail/2455237",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -186,8 +201,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -197,8 +212,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -208,19 +223,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
           "url": "https://wallstreetcn.com/articles/3779522",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -232,6 +248,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 05时25分]"
+        },
+        {
+          "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
+          "url": "https://flash.jin10.com/detail/20260817062707189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -262,11 +289,12 @@
           "url": "https://www.zhihu.com/question/2063350913864054256",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         }
       ]
     }
