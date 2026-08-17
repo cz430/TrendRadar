@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T16:51:15.869199+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-08-17T17:49:28.812006+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -31,6 +31,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时36分 ~ 07时25分]"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时39分 ~ 17时49分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -61,20 +75,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时36分 ~ 12时50分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时39分 ~ 16时51分]"
         },
         {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
@@ -130,6 +130,19 @@
           "time_info": "[02时36分 ~ 11时05分]"
         },
         {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时49分]"
+        },
+        {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
           "url": "https://www.zhihu.com/question/2061136311206073648",
           "source": "知乎",
@@ -139,8 +152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时49分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -198,21 +211,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
@@ -241,6 +242,17 @@
           "time_info": "[11时05分 ~ 15时05分]"
         },
         {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时49分]"
+        },
+        {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
           "url": "https://www.cls.cn/detail/2455402",
           "source": "财联社热门",
@@ -251,17 +263,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 15时05分]"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "储能竞争逻辑重塑：Q3电芯价格回升 AIDC与海外市场成增量方向 |行业观察",
@@ -286,6 +287,28 @@
           "time_info": "12时50分"
         },
         {
+          "title": "欧洲央行警示AI市场或迎调整，而政策缓冲空间已有限",
+          "url": "https://flash.jin10.com/detail/20260817171822400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "Phillip Securities：申对SpaceX(SPCX.O)的“卖出”评级，目标价75美元。仍对高额资本支出、AI客户集中度以及临时性云服务合同保持谨慎，若要推动估值重估，需要客户作出更长期的业务承诺。",
+          "url": "https://flash.jin10.com/detail/20260817171508052800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "涉中美AI，美被曝想逼多国“二选一”",
           "url": "https://wallstreetcn.com/livenews/3150130",
           "source": "华尔街见闻-快讯",
@@ -306,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "AI短剧男女老少共用一张嘴",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E7%94%B7%E5%A5%B3%E8%80%81%E5%B0%91%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E5%98%B4%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "AI如何能辅助办公",
@@ -419,6 +453,18 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 17时49分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -457,18 +503,6 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
-          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 15时05分]"
-        },
-        {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
           "url": "https://www.zhihu.com/question/2072481373085028433",
           "source": "知乎",
@@ -494,6 +528,19 @@
           "time_info": "[09时39分 ~ 12时50分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时49分]"
+        },
+        {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
           "url": "https://wallstreetcn.com/livenews/3150051",
           "source": "华尔街见闻-快讯",
@@ -503,18 +550,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 05时25分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 16时51分]"
         },
         {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
@@ -533,11 +568,12 @@
           "url": "https://www.cls.cn/detail/2455627",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时49分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -598,8 +634,21 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时49分]"
+        },
         {
           "title": "A股三大股指走高，深证成指、创业板指双双涨1%，沪指涨0.61%，科创50指数涨超3%，粮食概念、存储芯片板块涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260817105228929800",
@@ -610,18 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
@@ -657,6 +694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
+        },
+        {
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "港股开盘，恒指开涨0.74%，科指开涨1.14%。黄金股、芯片股普涨。商汤(00020.HK)涨超7%，紫金黄金国际(02259.HK)、京东(09618.HK)涨超3%。",
@@ -731,7 +779,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -753,9 +801,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "据上交所官网，广东钶锐锶数控技术股份有限公司首次公开发行股票并在科创板上市科创板IPO审核状态变更为“上市委会议通过”。",
+          "url": "https://flash.jin10.com/detail/20260817170708752800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     },
@@ -763,6 +822,19 @@
       "keyword_group": "Agent openclaw harness 小龙虾 知识库 RAG 知识库 记忆 tool skill mcp worktree OPC 上下文工程 提示词工程 githup langchain",
       "match_count": 5,
       "titles": [
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 17时49分]"
+        },
         {
           "title": "记忆管理局主角光环登场",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80",
@@ -775,18 +847,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 12时50分]"
-        },
-        {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
@@ -832,22 +892,24 @@
           "url": "https://www.toutiao.com/trending/7674881387322327067/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时49分]"
         },
         {
           "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33797914",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 17时49分]"
         }
       ]
     },
