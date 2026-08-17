@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:49:28.812006+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-08-17T18:38:34.484406+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -22,17 +22,6 @@
           "time_info": "[02时36分 ~ 11时05分]"
         },
         {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 07时25分]"
-        },
-        {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
@@ -43,8 +32,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 17时49分]"
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 18时38分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 07时25分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -75,6 +75,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时36分 ~ 12时50分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 18时38分]"
         },
         {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
@@ -137,19 +150,6 @@
             9,
             6,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时49分]"
-        },
-        {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -246,11 +246,12 @@
           "url": "https://wallstreetcn.com/articles/3779562",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时38分]"
         },
         {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
@@ -287,13 +288,24 @@
           "time_info": "12时50分"
         },
         {
+          "title": "AI故事主角又换了？华尔街开始大举押注云计算赛道",
+          "url": "https://flash.jin10.com/detail/20260817181218865800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "欧洲央行警示AI市场或迎调整，而政策缓冲空间已有限",
           "url": "https://flash.jin10.com/detail/20260817171822400800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -304,7 +316,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -337,7 +349,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -461,8 +473,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时39分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 18时38分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -515,6 +527,19 @@
           "time_info": "[09时39分 ~ 11时05分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 18时38分]"
+        },
+        {
           "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -528,17 +553,16 @@
           "time_info": "[09时39分 ~ 12时50分]"
         },
         {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            6,
+            10,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时05分 ~ 17时49分]"
+          "time_info": "[16时50分 ~ 18时38分]"
         },
         {
           "title": "我国科学家发布大豆垂直大模型“丰菽”2.0",
@@ -562,18 +586,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 15时05分]"
-        },
-        {
-          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
-          "url": "https://www.cls.cn/detail/2455627",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时49分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -634,7 +646,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
@@ -646,8 +658,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时49分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 18时38分]"
         },
         {
           "title": "A股三大股指走高，深证成指、创业板指双双涨1%，沪指涨0.61%，科创50指数涨超3%，粮食概念、存储芯片板块涨幅居前。",
@@ -685,6 +697,18 @@
           "time_info": "[09时39分 ~ 11时05分]"
         },
         {
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时38分]"
+        },
+        {
           "title": "日本存储芯片半导体股走高",
           "url": "https://www.toutiao.com/trending/7674645893270519871/",
           "source": "今日头条",
@@ -694,17 +718,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
-          "url": "https://wallstreetcn.com/articles/3779568",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         },
         {
           "title": "港股开盘，恒指开涨0.74%，科指开涨1.14%。黄金股、芯片股普涨。商汤(00020.HK)涨超7%，紫金黄金国际(02259.HK)、京东(09618.HK)涨超3%。",
@@ -727,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "大恒科技：拟以1.1亿元受让中石光芯5%股权，推动公司切入光芯片领域",
+          "url": "https://wallstreetcn.com/livenews/3150431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "A股存储芯片板块走高，盈方微涨停，有研新材、沃格光电、博敏电子此前涨停，德邦科技、天准科技、概伦电子、中微半导、中科飞测等多股涨超10%。",
@@ -812,7 +836,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         }
@@ -829,11 +853,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 17时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 18时38分]"
         },
         {
           "title": "记忆管理局主角光环登场",
@@ -885,8 +910,21 @@
     },
     {
       "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797914",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 18时38分]"
+        },
         {
           "title": "游客称一家三口遭网约车司机尾随威胁",
           "url": "https://www.toutiao.com/trending/7674881387322327067/",
@@ -900,16 +938,15 @@
           "time_info": "[16时50分 ~ 17时49分]"
         },
         {
-          "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33797914",
-          "source": "澎湃新闻",
+          "title": "学车人少了教练转行开网约车",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E8%BD%A6%E4%BA%BA%E5%B0%91%E4%BA%86%E6%95%99%E7%BB%83%E8%BD%AC%E8%A1%8C%E5%BC%80%E7%BD%91%E7%BA%A6%E8%BD%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            18
+            20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 17时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
