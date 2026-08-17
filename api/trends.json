@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T15:05:26.373662+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-08-17T16:51:15.869199+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 机器学习 深度学习 强化学习",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -63,6 +63,34 @@
           "time_info": "[02时36分 ~ 12时50分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时39分 ~ 16时51分]"
+        },
+        {
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时51分]"
+        },
+        {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
@@ -102,18 +130,17 @@
           "time_info": "[02时36分 ~ 11时05分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
           "ranks": [
-            9,
-            8,
-            6,
+            10,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时39分 ~ 15时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -135,7 +162,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -160,22 +187,45 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
         {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
+          "title": "百度财报前瞻：二季度营收净利或双降，AI云业务逆势增长",
+          "url": "https://flash.jin10.com/detail/20260817164011187800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6,
-            4
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 15时05分]"
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 16时51分]"
+        },
+        {
+          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
+          "url": "https://www.cls.cn/detail/2455516",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -191,29 +241,6 @@
           "time_info": "[11时05分 ~ 15时05分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时05分]"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时05分]"
-        },
-        {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
           "url": "https://www.cls.cn/detail/2455402",
           "source": "财联社热门",
@@ -226,16 +253,15 @@
           "time_info": "[12时49分 ~ 15时05分]"
         },
         {
-          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
-          "url": "https://www.cls.cn/detail/2455516",
-          "source": "财联社热门",
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时05分]"
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "储能竞争逻辑重塑：Q3电芯价格回升 AIDC与海外市场成增量方向 |行业观察",
@@ -318,7 +344,7 @@
     },
     {
       "keyword_group": "大模型 谷歌 claude google gemini deepseek Anthropic GLM kimi 千问 智谱 chatgpt openai token",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -393,6 +419,19 @@
           "time_info": "[02时36分 ~ 07时25分]"
         },
         {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 16时51分]"
+        },
+        {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
           "source": "百度热搜",
@@ -443,18 +482,6 @@
         },
         {
           "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时05分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
@@ -478,6 +505,18 @@
           "time_info": "[02时36分 ~ 05时25分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时51分]"
+        },
+        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
@@ -488,6 +527,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时49分 ~ 15时05分]"
+        },
+        {
+          "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
+          "url": "https://www.cls.cn/detail/2455627",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "如何看待富达投资人加文贝克声称，达里奥曾表示未来 Anthropic 将成为全世界唯一剩下的私营企业？",
@@ -501,6 +551,17 @@
           "time_info": "[09时39分 ~ 09时40分]"
         },
         {
+          "title": "Gemini挑瓜 无中生瓜",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E6%8C%91%E7%93%9C%20%E6%97%A0%E4%B8%AD%E7%94%9F%E7%93%9C&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
           "title": "OpenAI 人事地震",
           "url": "https://www.baidu.com/s?wd=OpenAI+%E4%BA%BA%E4%BA%8B%E5%9C%B0%E9%9C%87",
           "source": "百度热搜",
@@ -510,17 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
         },
         {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
@@ -540,7 +590,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         }
@@ -548,7 +598,7 @@
     },
     {
       "keyword_group": "股票 芯片 GPU 脑机 量子 Robotaxi AI 大模型 token 电力 液冷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股三大股指走高，深证成指、创业板指双双涨1%，沪指涨0.61%，科创50指数涨超3%，粮食概念、存储芯片板块涨幅居前。",
@@ -560,6 +610,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
@@ -584,18 +646,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时39分 ~ 11时05分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时05分]"
         },
         {
           "title": "日本存储芯片半导体股走高",
@@ -626,7 +676,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -675,15 +725,37 @@
           "time_info": "09时40分"
         },
         {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "创业板指涨超2%，深证成指涨1.57%，沪指涨0.82%，半导体芯片、农业、养殖业、算力硬件等方向涨幅居前，沪深京三市上涨个股近3700只。",
           "url": "https://wallstreetcn.com/livenews/3150236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
+        },
+        {
+          "title": "港股收评：恒指收涨1.3% 芯片股、光通信走强",
+          "url": "https://flash.jin10.com/detail/20260817161345158800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
@@ -703,6 +775,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时25分 ~ 12时50分]"
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时51分]"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 16时51分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -725,28 +820,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 12时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "网约车 如祺出行 滴滴出行 T3 出行 曹操出行 享道出行 Robotaxi 自动驾驶 Uber waymo 高德打车 腾讯打车 美团打车 广汽集团",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "游客称一家三口遭网约车司机尾随威胁",
+          "url": "https://www.toutiao.com/trending/7674881387322327067/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
+          "title": "游客称一家三口遭遇网约车司机尾随威胁，阳光出行：司机账号永久下线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797914",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "DeepSeek Harness 有什么好用的插件？",
-          "url": "https://www.zhihu.com/question/2071617281214378127",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         }
       ]
     },
